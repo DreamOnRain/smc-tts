@@ -1,0 +1,610 @@
+DUMMY8/LJ021-0183.wav|0|< ɪz ɪt nˌɑːɾə fˈækt ðæt ˈɛvɚ sˈɪns ðə jˈɪɹ naɪntˈiːn ˈoʊ nˈaɪn, >|2
+DUMMY8/LJ038-0217.wav|0|< ˈɪndᵻkˌeɪɾᵻd ðætðə nˈoʊt wʌz ɹˈɪʔn̩ wɛn ðeɪ wɜː lˈɪvɪŋ ɪn ɐ ɹˈɛntᵻd ɐpˈɑːɹtmənt; ðˈɛɹfoːɹ ɪt kʊd nˌɑːɾɐv bˌɪn ɹˈɪʔn̩ wˌaɪl mɚɹˈiːnə ˈɑːswəld wʌz lˈɪvɪŋ wɪððə pˈeɪnz. >|2
+DUMMY8/LJ028-0263.wav|0|< ðiːz ɐlˈoʊn wɜːɹ ɐlˈaʊd tə lˈɪv, wˌaɪl ˈɔːl ðə ɹˈɛst wɜː bɹˈɔːt tə wˈʌn plˈeɪs ænd stɹˈæŋɡəld. >|2
+DUMMY9/p314_404.wav|52|< ðɪs jˈɪɹ, ðɪs mˈʌnθ, wɪl biː spˈɛʃəl fɔːɹ tˈɔɹəns. >|2
+DUMMY8/LJ040-0193.wav|0|< kˈæɹoʊ ɹɪpˈoːɹɾᵻd ðæt lˈiː wʌz dɪsɹˈʌptɪv ɪn klˈæs ˈæftɚ hiː ɹɪtˈɜːnd tə skˈuːl ˌɑːn ɐ ɹˈɛɡjuːlɚ bˈeɪsɪs ɪnðə fˈɔːl ʌv naɪntˈiːn fˈɪftiθɹˈiː. >|2
+DUMMY8/LJ015-0047.wav|0|< ɪts dˈɛts ɐmˈaʊntᵻd tə θɹˈiːkwˈɔːɹɾɚz əvə mˈɪliən, ænd ðə dˈɪvɪdənd ɪt ɪvˈɛntʃuːəli pˈeɪd wʌz θɹˈiː ænd tˈuːpəns ɪnðə pˈaʊnd. >|2
+DUMMY8/LJ048-0041.wav|0|< sˈɪks hˈʌndɹəd θˈɜːɾisˈɪks θˈaʊzənd, θɹˈiː hˈʌndɹəd sˈɛvəntiwˈʌn ɪnvˌɛstɪɡˈeɪɾɪv mˈæɾɚz dˈʊɹɪŋ fˈɪskəl jˈɪɹ naɪntˈiːn sˈɪkstiθɹˈiː >|2
+DUMMY8/LJ030-0031.wav|0|< sˈiːkɹət sˈɜːvɪs ˈeɪdʒənts fˈɔːɹmd ɐ kˈɔːɹdən tə kˈiːp ðə pɹˈɛs ænd fətˈɑːɡɹəfɚz fɹʌm ɪmpˈiːdɪŋ ðɛɹ pˈæsɪdʒ ænd skˈænd ðə kɹˈaʊd fɔːɹ θɹˈɛʔn̩ɪŋ mˈuːvmənts. >|2
+DUMMY8/LJ043-0125.wav|0|< bɪkˈʌz ðə pɹˈɛzɪdənt ʌvðə fˌoʊɾəɡɹˈæfɪk fˈɜːm fɔːɹ wˌɪtʃ hiː hɐd pɹˈiːvɪəsli wˈɜːkt >|2
+DUMMY8/LJ047-0210.wav|0|< ˈaɪ θˈɪŋk ˈɔːl ʌv ðˈoʊz, ɪf wiː hˌædðɛm ˈɔːl təɡˈɛðɚ, >|2
+DUMMY9/p271_094.wav|28|< hiː wʌz pəzˈɛst >|2
+DUMMY8/LJ008-0246.wav|0|< nˈɛvɚ wˈʌns fɹʌm ðæt pˈeɪl fˈeɪs pˈæst ɐwˈeɪ ɪts bɪnˈaɪn ænd pˈeɪʃənt ɛkspɹˈɛʃən. >|2
+DUMMY8/LJ019-0173.wav|0|< ðə kˌɔːɹpɚɹˈeɪʃən sˈiːmz tə hæv ˌɪntɹədˈuːst ðiːz sˈæluːtˌɛɹi tʃˈeɪndʒᵻz wɪðˌaʊt hˌɛsɪtˈeɪʃən. >|2
+DUMMY9/p313_127.wav|77|< wˌaɪ ɪz ðˈɪs? >|2
+DUMMY9/p271_274.wav|28|< ðə pɹˈɪzən hɐzbɪn ɐfˈɛktᵻd baɪ ʌnɹˈɛst ɪnðə pˈæst. >|2
+DUMMY8/LJ041-0027.wav|0|< ˈʌðɚɹ ˈɛvɪdəns ʌvðɪ ɛɡzˈɪstəns ʌv sˈʌtʃ ɐ dˌɪsɐbˈɪləɾi ɪz pɹəvˈaɪdᵻd baɪ ðə mˈɛni ˈʌðɚ mɪsspˈɛlɪŋz ðæt ɐpˈɪɹ ɪn ˈɑːswəldz ɹˈaɪɾɪŋz, pˈoːɹʃənz ʌvwˈɪtʃ ɑːɹ kwˈoʊɾᵻd bɪlˈoʊ. >|2
+DUMMY8/LJ047-0094.wav|0|< baɪ ˈæntaɪkˈæstɹoʊ kjˈuːbənz wˌaɪl dˈɪstɹɪbjˌuːɾɪŋ lˈiːfləts ˌɑːn bɪhˈæf ʌvðə fˈɛɹ plˈeɪ fɔːɹ kjˈuːbə kəmˈɪɾi. >|2
+DUMMY8/LJ028-0162.wav|0|< æt ðə ɹˈɪvɚɹ ˈɛnd ʌv ðiːz kɹˈɔs stɹˈiːts ɑːɹ lˈoʊ ɡˈeɪts ɪnðə fˈɛns ðæt skˈɜːts ðə stɹˈiːm, >|2
+DUMMY8/LJ029-0076.wav|0|< ˌɑːn noʊvˈɛmbɚ fˈoːɹ, dʒˈɛɹəld ˈeɪ. bˈeɪn, ˈeɪdʒənt ɪn tʃˈɑːɹdʒ ʌvðə wˈaɪt hˈaʊs diːtˈeɪl, ˈæskt sˈɔːɹəlz tʊ ɛɡzˈæmɪn θɹˈiː pətˈɛnʃəl sˈaɪts fɚðə lˈʌntʃən. >|2
+DUMMY8/LJ006-0041.wav|0|< tʃˈeɪndʒᵻz ˌɪntɹədˈuːst ˌʌndɚ pɹˈɛʃɚ hɐdbɪn ˈoʊnli skˈɪn dˈiːp. >|2
+DUMMY8/LJ047-0072.wav|0|< stˈeɪɾɪŋ ðæt hiː hɐd dˈɪstɹɪbjˌuːɾᵻd ɪts pˈæmfləts ɑːnðə stɹˈiːts ʌv dˈæləs. ðɪs ˌɪnfɚmˈeɪʃən dɪdnˌɑːt ɹˈiːtʃ ˈeɪdʒənt hˈɑːsti ɪn dˈæləs ʌntˈɪl dʒjˈuːn. >|2
+DUMMY8/LJ041-0105.wav|0|< lˈɛd tʊ ɐn ˈɪnsɪdənt ɪn wˌɪtʃ hiː spˈɪld ɐ dɹˈɪŋk ˌɑːn wˈʌn ʌv hɪz sˈɑːɹdʒənts ænd ɐbjˈuːsɪvli tʃˈælɪndʒd hˌɪm tə fˈaɪt. >|2
+DUMMY8/LJ019-0036.wav|0|< ðɪs lˈɪst ɪnklˈuːdᵻd wˈeɪkfiːld, lˈiːdz, kˈɜːkdeɪl, mˈæntʃɛstɚ, bˈɜːmɪŋˌæm, ænd dˈʌblɪn. >|2
+DUMMY8/LJ044-0029.wav|0|< ɪt ɐpˈɪɹz tə hɐvbɪn ɐ sˈɑːlətˌɛɹi ˌɑːpɚɹˈeɪʃən ˌɑːn ˈɑːswəldz pˈɑːɹt ɪn spˈaɪt ʌv hɪz mɪsstˈeɪtmənts tə ðə nˈuː ˈɔːɹliənz pəlˈiːs ðˌɐɾɪt hɐd θˈɜːɾifˈaɪv mˈɛmbɚz, >|2
+DUMMY8/LJ034-0176.wav|0|< ˈɔːl ðə tˈaɪm ˈaɪ wˈɑːtʃt hˌɪm, hiː nˈɛvɚ mˈuːvd hɪz hˈɛd, hiː nˈɛvɚ hiː nˈɛvɚ mˈuːvd ˈɛnɪθˌɪŋ. dʒˈʌst wʌz ðɛɹ tɹænsfˈɪkst. >|2
+DUMMY8/LJ029-0127.wav|0|< ˈɛlm stɹˈiːt wʌz təbi ɹˈiːtʃt fɹʌm mˈeɪn baɪ tˈɜːnɪŋ ɹˈaɪt æt hjˈuːstən, >|2
+DUMMY8/LJ026-0130.wav|0|< ænd mˈeɪ ðˈʌs biː ˈiːzɪli tɹænspˈoːɹɾᵻd tʊ ˈɔːl pˈɑːɹts ʌvðə plˈænt. >|2
+DUMMY8/LJ011-0227.wav|0|< ˈæftɚ ðɛɹ ɹɪlˈiːs fɹʌm lˈænkæstɚ ænd nˈuːɡeɪt ɹɪspˈɛktɪvli, bˈoʊθ wˈeɪkfiːldz wɛnt ɐbɹˈɔːd. >|2
+DUMMY9/p271_282.wav|28|< sˈɛvɹəl ˈʌðɚ pjˈuːpəlz ænd stˈæf wɜː sˈɪɹiəsli ˈɪndʒɚd ɪnðɪ ˈæksɪdənt. >|2
+DUMMY8/LJ014-0135.wav|0|< ɪt wʌz ɐɡˈɛnst kˈɑːmən sˈɛns tə tʃˈɑːɹdʒ hɜː wɪð mˈɜːdɚɹɪŋ ðɪ ˈoʊnli fɹˈɛnd ʃiː hɐd ɪnðə wˈɜːld; >|2
+DUMMY8/LJ021-0032.wav|0|< hɐvbɪn ɹɪstˈoːɹd tə kəmplˈiːt pˈʌblɪk kˈɑːnfɪdəns. >|2
+DUMMY8/LJ028-0123.wav|0|< ˈaɪ dˈʌɡ ɪts mˈoʊt tə ðə wˈɔːɾɚ lˈɛvəl. >|2
+DUMMY9/p313_135.wav|77|< aɪ mˈiːn ɪt hˈæpənz. >|2
+DUMMY8/LJ015-0045.wav|0|< ðə fˈɜːmz pˈeɪpɚ wɛnt dˌaʊn fˈɜːðɚ ænd fˈɜːðɚɹ ɪn vˈæljuː; ɐn ˌæplɪkˈeɪʃən tə ðə kəmˈɪɾi ʌv bˈæŋkɚz fɔːɹ ɐsˈɪstəns wʌz pˈɛɹɪmptˌoːɹəli ɹɪfjˈuːzd, >|2
+DUMMY9/p259_170.wav|8|< ðɪ ˈɪntɚnˌɛt ɪz nˈoʊ sˈʌbstɪtˌuːt fɔːɹ kˈʌstəmɚ sˈɜːvɪs. >|2
+DUMMY8/LJ007-0058.wav|0|< ðə tʃˈæplɪn, hˌuː mˌaɪthɐv bˌɪn ɛkspˈɛktᵻd tə mˌeɪk ðiːz mˈɛn hɪz pɪkjˈuːlɪɹ kˈɛɹ, ænd hˌuː æt wˈʌn tˈaɪm hɐd vˈɪzɪɾᵻd ðˌɛm fɹˈiːkwəntli, ˈɔfən sˈɛvɹəl tˈaɪmz ɐ wˈiːk, >|2
+DUMMY8/LJ019-0324.wav|0|< ðə tʃˈæplɪnz dˈuːɾɪz wɜːɹ ɛnlˈɑːɹdʒd, ænd ðə pɹˈɪnsɪpəl ʌv tˌɑːlɚɹˈeɪʃən ɐksˈɛptᵻd tə ðɪ ɛkstˈɛnt ʌv sɪkjˈʊɹɪŋ tʊ ˈɔːl pɹˈɪzənɚz >|2
+DUMMY8/LJ009-0072.wav|0|< ðə ʃˈiːpstˈiːlɚ smˈaɪlz, ˈænd, ɛkstˈɛndɪŋ hɪz ˈɑːɹmz ˈʌpwɚdz, lˈʊks wɪð ɐ ɡlˈæd ɛkspɹˈɛʃən tə ðə ɹˈuːf ʌvðə tʃˈæpəl. >|2
+DUMMY8/LJ005-0188.wav|0|< ðætðə dʒˈeɪlz ɐtˈætʃt tə kˈɔːɹpɚɹət dʒˌʊɹɪsdˈɪkʃənz kəntˈɪnjuː təbi ðə fɹˈuːtfəl sˈoːɹsᵻz >|2
+DUMMY8/LJ001-0059.wav|0|< ðə ɡɹˈeɪɾɚ pˈɑːɹt ʌv ðiːz ɪtˈælɪən pɹˈɪntɚz, ɪt ʃˌʊd biː mˈɛnʃənd, wɜː dʒˈɜːmənz ɔːɹ fɹˈɛntʃmɛn, wˈɜːkɪŋ ˌʌndɚ ðɪ ˈɪnfluːəns ʌv ɪtˈælɪən əpˈɪniən ænd ˈeɪmz. >|2
+DUMMY8/LJ020-0081.wav|0|< ænd nˈiːd fɔːɹ tˈɛn mˈɪnɪts, kˈɛɹfəli æt fˈɜːst, lˈɛst ðə lˈɪkwɪdz ʃˌʊd biː wˈeɪstᵻd, ænd mˈoːɹ bˈoʊldli wɛn ðeɪ ɑːɹ ɐbsˈoːɹbd baɪ ðə pˈeɪst. >|2
+DUMMY8/LJ048-0024.wav|0|< hiː hɐd kˈʌm bˈæk tə dˈæləs. hˈɑːsti hɐd ɪstˈæblɪʃt ðæt hiː hɐd ɐ dʒˈɑːb, hiː wʌz wˈɜːkɪŋ, >|2
+DUMMY8/LJ050-0106.wav|0|< tə dɪvˈaɪz ɐ pɹˈæktɪkəl sˈɪstəm wˌɪtʃ hɐz ˌɛni ɹˈiːzənəbəl pˌɑːsəbˈɪlɪɾi ʌv ɹɪvˈiːlɪŋ sˈʌtʃ mˈælkəntˌɛnts. >|2
+DUMMY8/LJ024-0077.wav|0|< ɪz ɪt nˌɑːɾə mˈoʊst dɪzˈaɪɚɹəbəl pɹˈɛsɪdənt? >|2
+DUMMY8/LJ010-0303.wav|0|< ɐkˈoːɹdɪŋ tə fˈɔːntəlɹˌɔɪz ˈoʊn kˈeɪs, hiː fˈaʊnd ɐtwˈʌns ðætðə fˈɜːm wʌz hˈɛvili ɪnvˈɑːlvd, >|2
+DUMMY8/LJ034-0022.wav|0|< tˈɛstɪfˌaɪd ðæt twˈɛnti aɪdˈɛntɪfˌaɪəbəl fˈɪŋɡɚpɹˌɪnts ænd ˈeɪt pˈɑːmpɹɪnts wɜː dɪvˈɛləpt ˌɑːn ðiːz kˈɑːɹtənz. >|2
+DUMMY8/LJ030-0064.wav|0|< pɹˈɛzɪdənt kˈɛnədi ɹˈoʊd ɑːnðə ɹˈaɪthˈænd sˈaɪd ʌvðə ɹˈɪɹ sˈiːt wɪð mɪsˈɛs kˈɛnədi ˌɑːn hɪz lˈɛft. >|2
+DUMMY8/LJ013-0004.wav|0|< ðə mˈoʊst ɛkstˈɛnsɪv ænd sˌɪstəmˈæɾɪk ɹˈɑːbɚɹiz wɜː plˈænd ænd kˈæɹɪd ˈaʊt sˌoʊ æz lˈɑːŋ tʊ ɛskˈeɪp dɪtˈɛkʃən. >|2
+DUMMY8/LJ012-0193.wav|0|< ðə kɹˈaɪmz ʌv ðiːz ɪnhjˈuːmən pɜːvˈeɪɚz tə mˈɛdɪkəl sˈaɪəns duːnˌɑːt fˈɔːl wɪðˌɪn ðə lˈɪmɪts ʌv ðɪs wˈɜːk. >|2
+DUMMY8/LJ025-0119.wav|0|< fɹʌmðə mˌɛɾəmˈoːɹfəsˌɪs ʌv mˌɔːɹfəlˈɑːdʒɪkəl jˈuːnɪts tˈɜːmd sˈɛlz ɪn ɐ mˈoːɹ dʒˈɛnɚɹəl sˈɛns ðɐn ðæt ɪn wˌɪtʃ ðə wˈɜːd "sˈɛlz" wʌz æt fˈɜːst ɛmplˈɔɪd, >|2
+DUMMY8/LJ017-0234.wav|0|< vˈɛɹɪfˌaɪd ðə mˈɜːdɚɹɚz, ænd ðˈɛn ʃˈʌt hɪmsˈɛlf ˌʌp ɪn hɪz kˈæbɪn. >|2
+DUMMY8/LJ007-0236.wav|0|< sˈʌmtaɪmz ðə stˈɛntʃ ɪn hˈɑːt wˈɛðɚɹ ɪz sˈɛd təbi vˈɛɹi bˈæd. >|2
+DUMMY8/LJ021-0004.wav|0|< tənˈaɪt ˈaɪ kəntˈɪnjuː ðæt ɹɪpˈoːɹt, ðˈoʊ, bɪkˈʌz ʌvðə ʃˈɔːɹtnəs ʌv tˈaɪm, ˈaɪ mˈʌst dɪfˈɜːɹ ɐ nˈʌmbɚɹ ʌv sˈʌbdʒɛkts tʊ ɐ lˈeɪɾɚ dˈeɪt. >|2
+DUMMY9/p314_080.wav|52|< aɪm nˌɑːt ɡˌoʊɪŋ tʊ ˈænsɚ ðæt ɹˈaɪt nˈaʊ. >|2
+DUMMY8/LJ043-0053.wav|0|< ænd bɪkˌeɪm kwˈaɪt ɪnsˈɛnsd wɪð hɪz wˈaɪf wɛn ʃiː wʊd ˈoʊpən ðə dˈoːɹ fɔːɹ hɜːɹ ɪn spˈaɪt ʌv hɪz ɪnstɹˈʌkʃənz tə ðə kˈɑːntɹɛɹi. >|2
+DUMMY8/LJ005-0092.wav|0|< ænd ˈɛvɹi pɹˈɪzənɚ wʌz təbi pɹəvˈaɪdᵻd wɪð ɐ hˈæmək ɔːɹ kˈɑːt tə hɪmsˈɛlf, sˈuːɾəbəl bˈɛdɪŋ, ˈænd, ɪf pˈɑːsəbəl, ɐ sˈɛpɹət sˈɛl. >|2
+DUMMY8/LJ042-0234.wav|0|< kwˈoʊt, ɛksˈɛpt ɪnðɪ ˌʌs, ðə lˈɪvɪŋ stˈændɚd ɪz ɐ lˈɪɾəl hˈaɪɚ. >|2
+DUMMY8/LJ002-0318.wav|0|< ðə sˈɪɾi ˈɑːlsoʊ ɐlˈaʊd ðə pˈʊɹ dˈɛɾɚz foːɹtˈiːn ˈaʊnsᵻz ʌv bɹˈɛd dˈeɪli, ænd ðɛɹ ʃˈɛɹ ʌv ˈeɪt stˈoʊn ʌv mˈiːt, ɐn ɐlˈaʊəns wˌɪtʃ nˈɛvɚ vˈɛɹid, >|2
+DUMMY8/LJ027-0179.wav|0|< fˈaɪnəli, ˈoʊnli ɪnðə tˈɜːʃjɚɹi, sˈoʊ fˌɑːɹ æz wiː jˈɛt nˈoʊ, dˈuː ðə hˈaɪəst fˈɔːɹm ˈænɜːɹə ɐpˈɪɹ. >|2
+DUMMY8/LJ011-0165.wav|0|< hˌuː hɐd plˈɔːzəbli ɛksplˈeɪnd ðæt hiː hɐd ˈoʊnli ɹˈiːsəntli bˌɪn ɛnɡˈeɪdʒd æt ʃɹˈɪɡli. >|2
+DUMMY8/LJ022-0061.wav|0|< ðæt ɪz wˌaɪ ˌaʊɚ sˈoʊʃəl sɪkjˈʊɹɪɾi pɹˈoʊɡɹæm ɪz ɐn ɪmpˈoːɹtənt pˈɑːɹt ʌvðə kəmplˈiːt pˈɪktʃɚ. >|2
+DUMMY8/LJ019-0154.wav|0|< ɪf ˌɛni dɪstˈɜːbəns ɹˈiːtʃt hɪz ˈɪɹz, hiː ɹɪpˈoːɹɾᵻd ðə kˈeɪs tə ðə ɡˈʌvɚnɚ, hˌuː nˈɛkst mˈɔːɹnɪŋ vˈɪzɪɾᵻd ðə wˈɔːɹd ɪn fˈɑːlt, ænd ˈæskt fɚðə kˈʌlpɹɪt. >|2
+DUMMY9/p313_252.wav|77|< ðə mˈæn bɪkˌeɪm ɐ ɹᵻpˈoːɹɾɚ. >|2
+DUMMY9/p314_175.wav|52|< ðɛɹ ɪz nˈoʊ sˈʌbstɪtˌuːt. >|2
+DUMMY8/LJ047-0050.wav|0|< ˈɑːswəld ɐɡˈɛn ɐɡɹˈiːd tʊ ɐdvˈaɪz ðɪ ˌɛfbˌiːˈaɪ ɪf hiː wɜːɹ ɐpɹˈoʊtʃt ˌʌndɚ səspˈɪʃəs sˈɜːkəmstˌænsᵻz; haʊˈɛvɚ, hiː dˈɛpɹɪkˌeɪɾᵻd ðə pˌɑːsəbˈɪlɪɾi ʌv ðɪs hˈæpənɪŋ, >|2
+DUMMY9/p271_294.wav|28|< ðɪs ɪz ɐ nˈæʃənəl kɹˈaɪsɪs. >|2
+DUMMY8/LJ040-0149.wav|0|< ɪntˈɛns æŋzˈaɪəɾi, ʃˈaɪnəs, fˈiːlɪŋz ʌv ˈɔːkwɚdnəs ænd ˌɪnsɪkjˈʊɹɪɾi, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ001-0035.wav|0|< ðeɪ dɪskˈɑːɹdᵻd ðɪs fɚɹə mˈoːɹ kəmplˈiːtli ɹˈoʊmən ænd fˈɑːɹ lˈɛs bjˈuːɾɪfəl lˈɛɾɚ. >|2
+DUMMY8/LJ001-0164.wav|0|< wˌɪtʃ ʃˌʊd biː ˌɪndɪkˈeɪʃənz əvə dˈɛlɪkəsi ʌv mətˈiəɹɪəl ænd mˌænjuːfˈæktʃɚ wˌɪtʃ wʊd ʌv nəsˈɛsɪɾi ˈɪnkɹiːs ɪts kˈɔst. >|2
+DUMMY8/LJ002-0214.wav|0|< wʌzɐ pɹˈɪzən fɔːɹ dˈɛɾɚz ænd pˈɜːsənz kəmˈɪɾᵻd fɔːɹ kəntˈɛmpt baɪ ðə kˈoːɹts ʌv tʃˈænsɚɹi, ɛkstʃˈɛkɚ, ænd kˈɑːmən plˈiːz. >|2
+DUMMY8/LJ033-0121.wav|0|< ðə dˈɪstəns bɪtwˌiːn ðə pˈɔɪnt ɑːnðə sˈiːt ænd ðə dˈoːɹ wʌz twˈɛntisˈɛvən ˈɪntʃᵻz. >|2
+DUMMY8/LJ041-0067.wav|0|< ˈʌðɚ mɚɹˈiːnz ˈɑːlsoʊ tˈɛstɪfˌaɪd ðæt ˈɑːswəld hɐd fjˈuː fɹˈɛndz ænd kˈɛpt vˈɛɹi mˈʌtʃ tə hɪmsˈɛlf. >|2
+DUMMY8/LJ025-0137.wav|0|< bˌʌt ɪt sədʒˈɛsts ɐ səspˈɪʃən ʌv ðɛɹ aɪdˈɛntɪɾi wˌɪtʃ nˈiːdz kˈɛɹfəl tˈɛstɪŋ. >|2
+DUMMY9/p244_391.wav|79|< dˈʌz ɪt mˈæɾɚ ? >|2
+DUMMY8/LJ030-0192.wav|0|< wˌʌt ɑːɹ ðeɪ dˈuːɪŋ tə juː! ˈɛnd kwˈoʊt. lˈʊkɪŋ bˈæk fɹʌmðə fɹˈʌnt sˈiːt, >|2
+DUMMY9/p279_358.wav|26|< fɔːɹ wˈʌn vˈɛɾɚɹən, ðə mˈɛmɚɹiz ɹᵻmˈeɪn vˈɪvɪd. >|2
+DUMMY8/LJ008-0201.wav|0|< ɪn ɐn ɐdʒˈɔɪnɪŋ hˈaʊs, ðæt əvən ˌʌndɚtˈeɪkɚ, wʌz lˈɔːɹd ˈælfɹɪd pˈæɡɪt, ˈɑːlsoʊ wɪð sˈɛvɹəl fɹˈɛndz. >|2
+DUMMY9/p279_018.wav|26|< ˈæɹɪstˌɑːɾəl θˈɔːt ðætðə ɹˈeɪnboʊ wʌz kˈɔːzd baɪ ɹᵻflˈɛkʃən ʌvðə sˈʌnz ɹˈeɪz baɪ ðə ɹˈeɪn. >|2
+DUMMY9/p279_121.wav|26|< hˌuː wˈʊdhæv? >|2
+DUMMY8/LJ039-0084.wav|0|< juː aɪdˈɛntɪfˌaɪ ɪt ænd ðə kɹˈɔshɛɹz ɑːɹ ɪn klˈoʊs ɹɪlˈeɪʃənʃˌɪp tə ðə pˈɔɪnt juː wˈɑːnt tə ʃˈuːt æt, >|2
+DUMMY9/p314_107.wav|52|< juː kæn ɛkspˈɛkt ɐ hˈɛl əvə fˈʌs. >|2
+DUMMY8/LJ028-0024.wav|0|< ɡˈeɪzɪŋ dˌaʊn əpˌɑːn ðə ɡɹˈeɪt juːfɹˈeɪɾiːz wˈaɪndɪŋ ɐlˈɑːŋ ðə vˈæli bɪnˈiːθ. >|2
+DUMMY8/LJ025-0144.wav|0|< wˈʌn ʌvwˈɪtʃ ɪz ˈeɪbəl tʊ ɐfˈɛkt ðɪ ˈʌðɚ baɪ mˈiːnz ʌvðə kəmjˌuːnɪkˈeɪʃən sˌoʊ ɪstˈæblɪʃt. >|2
+DUMMY8/LJ038-0247.wav|0|< ɐ fˈoːɹθ fˈoʊɾəɡɹˌæf, ʃˈoʊɪŋ ɐ stɹˈɛtʃ ʌv ɹˈeɪlɹoʊd tɹˈæks, >|2
+DUMMY8/LJ040-0207.wav|0|< ænd ɹˌɛpɹɪzˈɛnts hɪz ɹɪˈækʃən tʊ ɐ kəmplˈiːt ˈæbsəns ʌv ˌɛni ɹˈiːəl fˈæmɪli lˈaɪf, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ018-0117.wav|0|< wˈæɡnɚ, ˈæftɚ kənvˈɪkʃən, ˈɑːfɚd tə ɹɪvˈiːl, fɚɹɚ ɹɪwˈɔːɹd ʌv θɹˈiː θˈaʊzənd pˈaʊndz >|2
+DUMMY8/LJ045-0201.wav|0|< ˈɑːswəld hɐd ɐ hˈaɪli ɛɡzˈædʒɚɹˌeɪɾᵻd sˈɛns ʌv hɪz ˈoʊn ɪmpˈoːɹtəns, bˌʌt hiː hɐd fˈeɪld æt ˈɔːlmoʊst ˈɛvɹɪθˌɪŋ hiː hɐd ˈɛvɚ tɹˈaɪd tə dˈuː. >|2
+DUMMY8/LJ014-0106.wav|0|< ðə lˈaɪm hɐd dˈʌn ɪts wˈɜːk sˌoʊ ɹˈæpɪdli ðætðə fˈiːtʃɚz wʊdhɐv bˌɪn ˌɪndɪstˈɪŋɡwɪʃəbəl bˌʌt fɚðə pɹˈɑːmɪnənt tʃˈɪn ænd ɐ sˈɛt ʌv fˈɑːls tˈiːθ. >|2
+DUMMY8/LJ046-0231.wav|0|< ɪts ˈɛfɚts ɐpˈɪɹ tə hɐvbɪn tˈuː lˈɑːɹdʒli dɚɹˈɛktᵻd æt ðə "kɹˈæŋk" θɹˈɛt. >|2
+DUMMY8/LJ018-0365.wav|0|< kˈeɪt wˈɛbstɚ fˈɑːloʊd ðə sˈeɪm kˈoːɹs; bˌʌt ðiːz plˈiːz ʌv pɹˈɛɡnənsi ɑːɹ nˌɑːt kˈɑːmən nˈaʊɐdˈeɪz. >|2
+DUMMY8/LJ016-0303.wav|0|< ɪt wʌz pɹɪpˈɑːstɚɹəs tə klˈeɪm fɔːɹ sˈʌtʃ ɐ sˈiːn æz ðɪs ðˌɐɾɪt kənvˈeɪd ˌɛni ɡɹˈeɪt mˈɔːɹəl lˈɛsən, ɔːɹ hˌæd ɛni dɪtˈɜːɹɪŋ ˈɪnfluːəns. >|2
+DUMMY8/LJ031-0218.wav|0|< ðə sˈɛkənd hˈɛd wˈuːnd mˈɛʒɚd ɐpɹˈɑːksɪmətli fˈaɪv ˈɪntʃᵻz θɜːtˈiːn sˈɛntɪmˌiːɾɚz ɪn ɪts ɡɹˈeɪɾəst daɪˈæmɪɾɚ, >|2
+DUMMY8/LJ040-0067.wav|0|< ænd hɪz hˈæfbɹˈʌðɚ dʒˈɑːn pˈɪk, hˌuː hɐdbɪn bˈɔːɹn ɪn naɪntˈiːn θˈɜːɾitˈuː dˈʊɹɪŋ mˌɑːɹɡɚɹˈiːts pɹˈiːvɪəs mˈæɹɪdʒ. >|2
+DUMMY8/LJ018-0289.wav|0|< wˌɛn ˈɔːl wʌz ɹˈɛdi, bˈɪdwɛl fˈɜːst "ɹɪfɹˈɛʃt hɪz kɹˈɛdɪt" æt ðə bˈæŋk ʌv ˈɪŋɡlənd, æz wˈɛl æz dɪsˈɑːɹmd səspˈɪʃən, >|2
+DUMMY8/LJ005-0206.wav|0|< æt ɡˈɑːdmɐntʃəstɚ ðɛɹwˌʌz nˈoʊ dʒˈeɪl, bˌʌt ɐ kˈeɪdʒ tə sɪkjˈʊɹ pɹˈɪzənɚz tˈɪl ðeɪ kʊd biː tˈeɪkən bɪfˌoːɹ ɐ mˈædʒɪstɹˌeɪt. >|2
+DUMMY8/LJ032-0109.wav|0|< bˈoʊθ nˈeɪmz wɜː fˈaʊnd təbi fɪktˈɪʃəs. >|2
+DUMMY9/p271_225.wav|28|< ɪf ɪt dˈʌzənt, ɪt dˈʌzənt. >|2
+DUMMY8/LJ033-0049.wav|0|< ɐkˈoːɹdɪŋ tə mɪsˈɛs pˈeɪn, ˈɑːswəld hɐd ɡɔn tə bˈɛd baɪ nˈaɪn pˈiː.ˈɛm.; >|2
+DUMMY9/p279_010.wav|26|< pˈiːpəl lˈʊk, bˌʌt nˈoʊwˈʌn ˈɛvɚ fˈaɪndz ɪt. >|2
+DUMMY8/LJ045-0069.wav|0|< kˈæθɹɪn fˈoːɹd, wɪð hˈuːm mɚɹˈiːnə ˈɑːswəld stˈeɪd dˈʊɹɪŋ hɜː sˌɛpɚɹˈeɪʃən fɹʌm hɜː hˈʌsbənd ɪn noʊvˈɛmbɚɹ ʌv naɪntˈiːn sˈɪkstitˈuː, >|2
+DUMMY8/LJ018-0125.wav|0|< bˈɜːnɪt hɐd ˈoʊnli dʒˈʌst kˈʌm ˌaʊɾəv dʒˈeɪl ˈæftɚ kəmplˈiːɾɪŋ ɐ sˈɛntəns ʌv pˈiːnəl sˈɜːvɪtˌuːd. >|2
+DUMMY9/p271_256.wav|28|< nˈaʊ, sˈʌdənli, wiː hæv ðɪs nˈuː lˈændskeɪp. >|2
+DUMMY8/LJ009-0263.wav|0|< ðɪ ˌɛksɪkjˈuːʃənɚ fˈoːɹst ðə stɹˈʌɡlɪŋ kɹˈɪmɪnəl fɹʌmðə plˈætfɔːɹm, sˌoʊ ðætðə ɹˈoʊp səstˈeɪnd hɪz hˈoʊl wˈeɪt. >|2
+DUMMY8/LJ025-0061.wav|0|< ˈæɡɑːɹd ænd ˈʌðɚɹ ʌvðə bˈɑːtɐnˌɪsts ʌv kˈʌvɪɚz dʒˌɛnɚɹˈeɪʃən hˌuː ˈɑːkjʊpˌaɪd ðɛmsˈɛlvz wɪððə lˈoʊɚ plˈænts hɐd ɑːbzˈɜːvd ðˈæt, >|2
+DUMMY9/p244_106.wav|79|< vˈɪktɚɹi wʌz nˈɛvɚɹ ɪn dˈaʊt. >|2
+DUMMY9/p244_370.wav|79|< ðə kəmˈɪtmənt wʌz nˌɑːt lˈɔŋ, ænd ɪt wʌz wˈɜːθ ðə ɹˈɪsk. >|2
+DUMMY8/LJ032-0034.wav|0|< wɪð ðæt ɐpˈɪɹɪŋ ˌɑːn dˈɑːkjuːmənts nˈoʊn tə hɐvbɪn ɹˈɪʔn̩ baɪ ˈɑːswəld, sˈʌtʃ ɐz hɪz lˈɛɾɚz, pˈæspoːɹt ˌæplɪkˈeɪʃən, ænd ɛndˈoːɹsmənts ʌv tʃˈɛks. >|2
+DUMMY8/LJ005-0051.wav|0|< æt ðə tˈaɪm ʌv ɪts ɡɹˈeɪɾəst pɹəspˈɛɹɪɾi, ɪts ˈænjuːəl ˈɪnkʌm fɹʌm doʊnˈeɪʃənz ænd sʌbskɹˈɪpʃənz wʌz ɐbˌaʊt wˈʌn θˈaʊzənd sˈɪks hˈʌndɹəd pˈaʊndz. >|2
+DUMMY8/LJ003-0301.wav|0|< ɪt ɹˌɛkəmˈɛndᵻd dˈeɪ sˈɛlz ɔːɹ ɹˈuːmz fɔːɹ ɹˈɛɡjuːlɚ lˈeɪbɚ, wˌɪtʃ ʃˌʊd biː kəmpˈʌlsɚɹi əpˌɑːn ˈɔːl tɹˈænspoːɹts ænd pɹˈɪzənɚz sˈɛntənst tə hˈɑːɹd lˈeɪbɚ, >|2
+DUMMY8/LJ018-0219.wav|0|< hiː ɪnstɹˈʌktᵻd sˈɜːtən səlˈɪsɪɾɚz tə pɹɪpˈɛɹ ɐ dˈiːd ʌv ɡˈɪft æz fɹʌm hɪz fˈɑːðɚ, kənvˈeɪɪŋ tə hˌɪm ɪstˈeɪts nˌɪɹ kˈɪŋstən. >|2
+DUMMY8/LJ029-0109.wav|0|< ɹˌɛpɹɪzˈɛntətˌɪvz ʌvðə lˈoʊkəl hˈoʊst kəmˈɪɾi ænd ðə wˈaɪt hˈaʊs stˈæf wɜːɹ ɐdvˈaɪzd baɪ ðə sˈiːkɹət sˈɜːvɪs ʌvðɪ ˈæktʃuːəl ɹˈaʊt ɑːnðɪ ˌæftɚnˈuːn ʌv noʊvˈɛmbɚɹ eɪtˈiːn. >|2
+DUMMY8/LJ026-0087.wav|0|< ɪn ðɪs wˈeɪ sˌʌm ʌvðə ɹˈeɪdiənt ænd kᵻnˈɛɾɪk ˈɛnɚdʒi ʌvðə sˈʌn kˈʌmz təbi stˈoːɹd ˌʌp æz pətˈɛnʃəl ˈɛnɚdʒi ɪnðə stˈɑːɹtʃ. >|2
+DUMMY8/LJ006-0156.wav|0|< wiː hæv sˈiːn ðæt hiː tˈʊk nˈoʊ pˈeɪnz tə klˈæsɪfˌaɪ ænd sˈɛpɹət pɹˈɪzənɚz ˌɑːn ɹɪsˈɛpʃən. >|2
+DUMMY8/LJ014-0088.wav|0|< ðɪs wʌz ˌɑːn ɐ θˈɜːzdeɪ ˈiːvnɪŋ. >|2
+DUMMY8/LJ016-0312.wav|0|< fˈɔːɹən wˈɪtnəsᵻz, tˈuː, wɜːɹ ɪn fˈeɪvɚɹ ʌv pʌblˈɪsɪɾi. >|2
+DUMMY8/LJ048-0033.wav|0|< pɹˈaɪɚ tə noʊvˈɛmbɚ twˈɛntitˈuː, naɪntˈiːn sˈɪkstiθɹˈiː >|2
+DUMMY8/LJ022-0066.wav|0|< wɪl nˌɑːt ˈoʊnli hˈɛlp tə ɡˈɑːɹd ðɪ ˌɪndɪvˈɪdʒuːəl ɪn fjˈuːtʃɚ pˈiəɹɪədz ʌv lˈeɪˈɔf ɐɡˈɛnst dɪpˈɛndəns əpˌɑːn ɹɪlˈiːf, >|2
+DUMMY8/LJ009-0265.wav|0|< ˈiːvən nˈaʊ hɪz sˈʌfɚɹɪŋz wɜː nˌɑːt æt ɐn ˈɛnd, >|2
+DUMMY8/LJ029-0039.wav|0|< spˈɛʃəl ˈeɪdʒənt ɪn tʃˈɑːɹdʒ ʌvðə dˈæləs ˈɑːfɪs. bˈoʊθ ˈeɪdʒənts wɜːɹ ɐdvˈaɪzd ʌvðə tɹˈɪp ˌɑːn noʊvˈɛmbɚ fˈoːɹ. >|2
+DUMMY8/LJ042-0035.wav|0|< ænd kˈɑːmjuːnˌɪsts wʊd lˈaɪk tə sˈiː ðə pɹˈɛzənt kˈæpɪɾəlˌɪst ɡˈʌvɚnmənt ʌvðə jˈuː.ˈɛs. ˌoʊvɚθɹˈoʊn, ˈɛnd kwˈoʊt, ˈɑːswəld stˈeɪɾᵻd >|2
+DUMMY8/LJ034-0025.wav|0|< æz bˌiːɪŋ ðə lˈɛft pˈɑːmpɹɪnt ænd ɹˈaɪt ˈɪndɛks fˈɪŋɡɚpɹˌɪnt ʌv lˈiː hˈɑːɹvi ˈɑːswəld. >|2
+DUMMY8/LJ024-0013.wav|0|< ðɪs plˈæn wɪl sˈeɪv ˌaʊɚ nˈæʃənəl kˌɑːnstɪtˈuːʃən fɹʌm hˈɑːɹdənɪŋ ʌvðə dʒuːdˈɪʃəl ˈɑːɹɾɚɹiz. >|2
+DUMMY8/LJ028-0503.wav|0|< ænd dˈɛkɚɹˌeɪɾᵻd hˈɪɹ ənd ðˈɛɹ wɪð lˈɑːɹdʒ ɹɪlˈiːfs ɹˌɛpɹɪzˈɛntɪŋ bˈʊlz ænd lˈaɪənz ænd dɹˈæɡənz, >|2
+DUMMY8/LJ004-0203.wav|0|< ðə nˈuː dʒˈeɪl hɐdbɪn ɪn ɐ ɡɹˈeɪt mˈɛʒɚ kənstɹˈʌktᵻd baɪ ðə pɹˈɪzənɚz ðɛmsˈɛlvz. >|2
+DUMMY8/LJ028-0101.wav|0|< ðɛɹ ɪz skˈɛɹsli wˈʌn ʌvðə θˈaʊzəndz ʌv ɹˈuːɪn mˈaʊndz ɪn bˌæbɪlˈoʊniə wˌɪtʃ dʌznˌɑːt kəntˈeɪn bɹˈɪks bˈɛɹɪŋ hɪz nˈeɪm. >|2
+DUMMY8/LJ010-0090.wav|0|< hˈændɡɹənˈeɪdz wɜː təbi θɹˈoʊn ˌɪntʊ ðə dˈaɪnɪŋɹˈuːm, ænd dˈʊɹɪŋ ðə nˈɔɪz ænd kənfjˈuːʒən ðɪ ɐsˌæsᵻnˈeɪʃən ʌvðə mˈɪnɪstɚz wʌz təbi kəmplˈiːɾᵻd, >|2
+DUMMY9/p259_318.wav|8|< ɪt wʌz nˌɑːt hˈɑːɹd tə fˈiːl sˌʌm sˈɪmpəθi fɔːɹ bˈækstɚ jˈɛstɚdˌeɪ. >|2
+DUMMY8/LJ017-0110.wav|0|< hiː sˈɛd nˈʌθɪŋ, bˌʌt bɪɡˈæn tə fˈiːl ʌnˈiːzi wɛn hiː fˈaʊnd ðæt kˈʊks bˈɛɾɪŋbˈʊk wʌz mˈɪsɪŋ, ænd ðæt pˈɑːmɚ pˌʊt ɪt fˈoːɹwɚd >|2
+DUMMY8/LJ003-0231.wav|0|< sˈʌtʃ ɐz mˈɛsrz. bˈɜːtʃ ʌv kˈɔːɹnhɪl ænd mˈɛsrz. lˈiːtʃ ænd dˈɑːlɪmˌoːɹ ʌv lˈʌdɡeɪt hˈɪl. >|2
+DUMMY8/LJ048-0069.wav|0|< ˈɛfɚts mˌeɪd baɪ ðə bjˈʊɹɹoʊ sˈɪns ðɪ ɐsˌæsᵻnˈeɪʃən, ɑːnðɪ ˈʌðɚ hˈænd, >|2
+DUMMY8/LJ026-0072.wav|0|< ðə sˈæp tɹˈævəlz θɹuːˈaʊt ðə hˈoʊl plˈænt, ðə mˈeɪn ðˌoʊ nˌɑːt ðɪ ˈoʊnli kˈɔːz ʌv mˈuːvmənt >|2
+DUMMY8/LJ005-0049.wav|0|< ðə ɹˈɛfjuːdʒ, wˌɪtʃ hɐd fɔːɹ ɪts ˈɑːbdʒɛkt ðə tɹˈeɪnɪŋ ʌv ɪts ˈɪnmeɪts ɪn hˈæbɪts ʌv ˈɪndʌstɹi, >|2
+DUMMY8/LJ027-0058.wav|0|< ɛnklˈoʊzɪŋ ænd pɹətˈɛktɪŋ ðə nˈɜːvəs sˈɛntɚz sɚɹˌiːbɹəspˈaɪnəl ˈæksɪs. >|2
+DUMMY9/p314_156.wav|52|< ɹˈeɪsɪzəm hɐz nˈoʊ plˈeɪs ɪn ˌɛni spˈoːɹt. >|2
+DUMMY8/LJ008-0219.wav|0|< ðɛɹ kɑːnvɚsˈeɪʃən wʌz ʌv kəmpˈæniənz ænd ɐsˈoʊsɪˌeɪts ʌv fˈɔːɹmɚ jˈɪɹz, lˈɑːŋ ɐɡˈoʊ ɪmpɹˈɪzənd, tɹænspˈoːɹɾᵻd, hˈæŋd, wˈaɪl ðeɪ, >|2
+DUMMY8/LJ004-0076.wav|0|< "dɪzˈiːz, kˈoʊld, fˈæmɪn, nˈeɪkᵻdnəs, ænd kəntˈeɪdʒəs ænd pəlˈuːɾᵻd ˈɛɹ ɑːɹ nˌɑːt lˈɔːfəl pˈʌnɪʃmənts ɪnðə hˈændz ʌvðə sˈɪvəl mˈædʒɪstɹˌeɪts; >|2
+DUMMY8/LJ017-0042.wav|0|< pˈɑːmɚz tɹˈaɪəl kˈɔːzd ðə mˈoʊst ɪntˈɛns ɛksˈaɪtmənt. >|2
+DUMMY8/LJ031-0172.wav|0|< wˌaɪl ðə tˈiːm ʌv dˈɑːktɚz æt pˈɑːɹklənd hˈɑːspɪɾəl tɹˈaɪd dˈɛspɚɹətli tə sˈeɪv ðə lˈaɪf ʌv pɹˈɛzɪdənt kˈɛnədi, >|2
+DUMMY8/LJ011-0103.wav|0|< ɐ pˈɛɹ ʌv lˈaɪt ɡɹˈeɪ pˌæntɐlˈuːnz, ɐ blˈæk stˈɑːk ænd ɐ fˈɔːɹɪdʒɪŋ kˈæp. >|2
+DUMMY8/LJ013-0044.wav|0|< ænd tˈɛmptᵻd hˌɪm tə tˈeɪk tə fɹˈɔːdʒuːlənt ɪnʃˈʊɹəns æz ɐ sˈɜːtən mˈɛθəd ʌv ɐtʃˈiːvɪŋ fˈɔːɹtʃən. >|2
+DUMMY8/LJ033-0144.wav|0|< æt ðə tˈaɪm ðə bˈæɡ wʌz fˈaʊnd, luːtˈɛnənt dˈeɪ ʌvðə dˈæləs pəlˈiːs ɹˈoʊt ˈɑːn ɪt, kwˈoʊt, fˈaʊnd nˈɛkst tə ðə sˈɪksθ flˈoːɹ wˈɪndoʊ ɡˈʌn fˈaɪɚd fɹʌm. >|2
+DUMMY8/LJ011-0200.wav|0|< ænd wɛnt ˌɑːn tə sˈeɪ, "ˈaɪ dˈuː əʃjˈʊɹ juː, mˈædəm, ðˌɐɾɪt ʃˌæl biː ðɪ ˈæŋʃəs ɛndˈɛvɚɹ ʌv maɪ lˈaɪf tə pɹəmˈoʊt hɜː hˈæpɪnəs baɪ ˈɛvɹi mˈiːnz ɪn maɪ pˈaʊɚ." >|2
+DUMMY9/p244_077.wav|79|< sˈɪɹiəsli, wiː ɑːɹ nˌɑːt kənsˈɜːnd æɾ ˈɔːl. >|2
+DUMMY8/LJ033-0180.wav|0|< kˈædɪɡən fˈaʊnd ðætðə pˈeɪpɚ jˈuːzd tə mˌeɪk ðɪs ɹˈɛplɪkə sˈæk hɐd dˈɪfɹənt kˌæɹɪktɚɹˈɪstɪks fɹʌmðə pˈeɪpɚɹ ɪnðɪ ɚɹˈɪdʒɪnəl bˈæɡ. >|2
+DUMMY8/LJ044-0039.wav|0|< ðeɪ sˈɛd sˈʌmθɪŋ ɐbˌaʊt ɹɪmˈɑːdəlɪŋ, ɛtsˈɛtɹə. aɪm ʃˈʊɹ juː ˌʌndɚstˈænd, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ046-0044.wav|0|< ɪn ɐkˈoːɹdəns wɪð dʒˈɔːɹdʒ wˈɑːʃɪŋtənz mˈæksᵻm ðæt ɐmˈɛɹɪkənz hæv ɐ ɡˈʌvɚnmənt, kwˈoʊt, ʌv ɐkˌɑːmədˈeɪʃən æz wˈɛl æz ɐ ɡˈʌvɚnmənt ʌv lˈɔːz, ˈɛnd kwˈoʊt, >|2
+DUMMY8/LJ032-0132.wav|0|< ˌɑːn noʊvˈɛmbɚ twˈɛntitˈuː, haʊˈɛvɚ, bɪfˌoːɹ sɚɹˈɛndɚɹɪŋ pəzˈɛʃən ʌvðə ɹˈaɪfəl tə ðɪ ˌɛfbˌiːˈaɪ lˈæbɹətˌɔːɹi, >|2
+DUMMY9/p279_002.wav|26|< ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ. >|2
+DUMMY8/LJ011-0292.wav|0|< ðɛɹwˌʌz nˈoʊ fˈɜːnɪtʃɚɹ ɪnðə plˈeɪs, ænd ðə dˈɛn ɪnðə kˈɪtʃən hɐdbɪn ɹˈiːsəntli ænd spˈɛʃəli kənstɹˈʌktᵻd ʌv bˈoːɹdz ʌv ɪmˈɛns stɹˈɛŋθ ænd θˈɪknəs. >|2
+DUMMY8/LJ012-0214.wav|0|< kˈɑːɹloʊ fɚɹˈɑːɹɹi, hˌuː mˌeɪd ɐ lˈɪvɪŋ baɪ ɛɡzˈɪbɪɾɪŋ wˈaɪt mˈaɪs ɐbˌaʊt ðə stɹˈiːts, >|2
+DUMMY8/LJ032-0237.wav|0|< ɪt wʌz ɪstˈæblɪʃt ðætðə fˈoʊɾəɡɹˌæfz mˈʌstɐv bˌɪn tˈeɪkən sˈʌmtaɪm ˈæftɚ mˈɑːɹtʃ twˈɛntisˈɛvən. >|2
+DUMMY8/LJ032-0259.wav|0|< ˌɑːn sˈɛvɹəl əkˈeɪʒənz, mˈaɪkəl pˈeɪn mˈuːvd ðə blˈæŋkɪt ɪnðə ɡɐɹˈɑːʒ. >|2
+DUMMY9/p244_271.wav|79|< bˌʌt ðə ɡˈʌvɚnmənt hɐz sˈoʊ fˌɑːɹ fˈeɪld tə lˈɪsən. >|2
+DUMMY9/p279_132.wav|26|< wiː hæv ðɪ ɛkspˈiəɹɪəns, ðə kˈoːɹsᵻz, ænd ɐn ɐbˈʌndəns ʌv kˈɑːnfɪdəns. >|2
+DUMMY8/LJ019-0138.wav|0|< æt ðə mˈoʊst kɹˈaʊdᵻd pˈiəɹɪədz, ɔːɹ dʒˈʌst bɪfˌoːɹ ðə sˈɛʃənəl dʒˈeɪl dɪlˈɪvɚɹi; ænd æt ɪts lˈoʊəst ɪt fˈɛl sˈʌmtaɪmz tə fˈɪfti ɔːɹ sˈɪksti. >|2
+DUMMY8/LJ015-0046.wav|0|< ðˈɛn kˈeɪm ɐ ɹˈʌn ɑːnðə bˈæŋk, ænd ɪt wʌz kəmpˈɛld tə stˈɑːp pˈeɪmənt. >|2
+DUMMY8/LJ016-0208.wav|0|< ðɪ ˈoʊnəs ænd ɹɪspˌɑːnsəbˈɪlɪɾi ʌv kˈæɹɪɪŋ ˈaʊt ðə sˈɛntəns ɪz pˈɜːsənəl tə ðə ʃˈɛɹɪf. ɐ ɡˈʊd stˈoːɹi ɪz tˈoʊld ˈɪləstɹˌeɪɾɪŋ ðˈɪs. >|2
+DUMMY8/LJ023-0063.wav|0|< bˌʌt ðə fɹˈeɪmɚz wɛnt fˈɜːðɚ. >|2
+DUMMY8/LJ019-0291.wav|0|< wˌɪtʃ wˈɔːɹdɚz, dɹˈɛdɪŋ ɐsˈɑːlt, wɜːɹ ɐfɹˈeɪd tʊ ˈɛntɚɹ ˈæftɚ dˈɑːɹk, ˈiːvən tə tʃˈɛk ɹˈaɪəɾɪŋ ænd dɪstˈɜːbəns. >|2
+DUMMY8/LJ012-0119.wav|0|< ðə fˈaɪɚ wʌz ɹˈeɪkt ˈaʊt, ænd ɪnðɪ ˈæʃᵻz wɜː fˈaʊnd sˈɛvən lˈɑːɹdʒ ænd fˈoːɹ dˈʌzən smˈɔːl bɹˈɪlɪənts, ˈɑːlsoʊ sˈɛvən ˈɛmɚɹəldz, >|2
+DUMMY8/LJ047-0137.wav|0|< ˌɑːn ɑːktˈoʊbɚ θɹˈiː, hˈɑːsti ɹɪˈoʊpənd ðə kˈeɪs ɪn dˈæləs tʊ ɐsˈɪst ðə nˈuː ˈɔːɹliənz ˈɑːfɪs. >|2
+DUMMY9/p279_297.wav|26|< ɹˈaɪt ˌʌp ʌntˈɪl ɐ wˈiːk ɐɡˈoʊ wiː θˈɔːt ðeɪ wɜː vˈɛɹi kˈiːn. >|2
+DUMMY8/LJ049-0202.wav|0|< ˈɪnsɪdənt tʊ ɪts ɹɪspˌɑːnsəbˈɪlɪɾiz. >|2
+DUMMY8/LJ043-0040.wav|0|< baɪ sˌoʊkˈɔːld ɛksplɔɪtˈeɪʃən ʌv hɪz mˈʌðɚ baɪ ðə kˈæpɪɾəlˌɪst sˈɪstəm. >|2
+DUMMY8/LJ015-0148.wav|0|< ðə tʃˈɔɪsəst wˈaɪnz, ðə fˈaɪnəst fɹˈuːts, >|2
+DUMMY8/LJ021-0010.wav|0|< ðiːz ɡˌʌvɚnmˈɛntəl ænd ɪndˈʌstɹɪəl dɪvˈɛləpmənts hˈoʊld pɹˈɑːmɪs ʌv nˈuː ɐtʃˈiːvmənts fɚðə nˈeɪʃən. >|2
+DUMMY8/LJ039-0062.wav|0|< ðə ʃˈɑːts wɜːɹ æɾə slˈoʊmˈuːvɪŋ tˈɑːɹɡɪt pɹəsˈiːdɪŋ ˌɑːn ɐ dˈaʊŋɡɹeɪd ɪn vˈɜːtʃuːəli ɐ stɹˈeɪt lˈaɪn >|2
+DUMMY8/LJ028-0063.wav|0|< ðˈɛn sˈɪɹiə ænd pˈæləstˌaɪn wɜːɹ ˈædᵻd tə hɪz fjˈuːtʃɚɹ ˈɛmpaɪɚ. >|2
+DUMMY9/p313_317.wav|77|< ðeɪ dɪzˈɜːv ɐ lˈɑːt ʌv kɹˈɛdɪt. >|2
+DUMMY8/LJ032-0187.wav|0|< ðə fˈækt ðæt ɑːnðə mˈɔːɹnɪŋ ʌvðɪ ɐsˌæsᵻnˈeɪʃən ˈɑːswəld wʌz wˈɛɹɪŋ ðə ʃˈɜːt fɹʌm wˈɪtʃ ðiːz ɹˈɛlətˌɪvli fɹˈɛʃ fˈaɪbɚz mˈoʊst pɹˈɑːbəbli ɚɹˈɪdʒᵻnˌeɪɾᵻd, >|2
+DUMMY9/p313_004.wav|77|< wiː ˈɔːlsoʊ nˈiːd ɐ smˈɔːl plˈæstɪk snˈeɪk ænd ɐ bˈɪɡ tˈɔɪ fɹˈɑːɡ fɚðə kˈɪdz. >|2
+DUMMY8/LJ042-0155.wav|0|< ɪt ɐpˈɪɹz təbi ðə wˈɜːk əvə fˈɛɹli wˈɛl ˈɔːɹɡɐnˌaɪzd pˈɜːsən. >|2
+DUMMY8/LJ001-0007.wav|0|< ðɪ ˈɜːlɪəst bˈʊk pɹˈɪntᵻd wɪð mˈuːvəbəl tˈaɪps, ðə ɡjˈuːtənbˌɜːɡ, ˈɔːɹ "fˈɔːɹɾitˈuː lˈaɪn bˈaɪbəl" ʌv ɐbˌaʊt foːɹtˈiːn fˈɪftifˈaɪv, >|2
+DUMMY8/LJ018-0334.wav|0|< wˈɛbstɚ, ɪt mˈeɪ biː mˈɛnʃənd hˈɪɹ, wʌz wˈʌn ʌvðə wˈɜːst pɹˈɪzənɚz ˈɛvɚ ɹɪmˈɛmbɚd ɪn nˈuːɡeɪt >|2
+DUMMY8/LJ006-0200.wav|0|< ðə nˈuːzmæn hɐd fɹˈiː ˈæksɛs tə ðə pɹˈɪzən; hiː pˈæst ɪn ʌnsˈɜːtʃt ænd ˌʌnɛɡzˈæmɪnd, ˈænd, ʌnɐkˈʌmpənɪd baɪ ɐn ˈɑːfɪsɚ, >|2
+DUMMY8/LJ019-0227.wav|0|< ðɪs blˈɑːk kəntˈeɪnd wˈʌn hˈʌndɹəd ænd θˈɜːɾi sˈɛlz, ɛmbɹˈeɪsɪŋ ˈɛvɹi mˈɑːdɚn ɪmpɹˈuːvmənt; >|2
+DUMMY8/LJ039-0017.wav|0|< ˈaɪ ˈæskt hˌɪm wˌɛɹ hiː wʌz ɡˈoʊɪŋ, ænd wˌaɪ hiː wʌz ɡˌɛɾɪŋ dɹˈɛst. hiː ˈænsɚd nˈɪksən ɪz kˈʌmɪŋ. ˈaɪ wˈɑːnt tə ɡˌoʊ ænd hæv ɐ lˈʊk, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ003-0146.wav|0|< wɪðˌaʊt ðˌɛm ðə kˈiːpɚ dᵻklˈɛɹd ðæt hiː kʊd nˌɑːt pˈeɪ ðə sˈælɚɹiz ʌv tˈɜːnkiːz ænd sˈɜːvənts, nˈɔːɹ kˈiːp ðə pɹˈɪzən ɡˌoʊɪŋ æt ˈɔːl. >|2
+DUMMY8/LJ018-0105.wav|0|< hˈiː, lˈaɪk sˈæwɚd, wʌz ɐn ˈɑːɹɾɪst ɪn pˈɛnmənʃˌɪp. >|2
+DUMMY8/LJ004-0184.wav|0|< ðɛɹ ɹˈeɪnd θɹuː ðə hˈoʊl ˈɛdɪfɪs ɐ tʃˈɪli, dˈæmp, ʌnhˈoʊlsʌm ˈætməsfˌɪɹ, ænd ðɪ ɛflˈuːviə fɹʌmðə pɹˈɪzənɚz wʌz sˌoʊ nˈɔːsɪəs >|2
+DUMMY8/LJ021-0110.wav|0|< hɐvbɪn bˈɛst kˈælkjʊlˌeɪɾᵻd tə pɹəmˈoʊt ɪndˈʌstɹɪəl ɹɪkˈʌvɚɹi ænd ɐ pˈɜːmənənt ɪmpɹˈuːvmənt ʌv bˈɪznəs ænd lˈeɪbɚ kəndˈɪʃənz. >|2
+DUMMY9/p314_106.wav|52|< ðiːz ɡˈaɪz wɪl nˌɑːt lˈaɪ dˈaʊn. >|2
+DUMMY8/LJ042-0174.wav|0|< nˈoʊ mˈæn, hˌævɪŋ nˈoʊn, hˌævɪŋ lˈɪvd, ˌʌndɚ ðə ɹˈʌʃən kˈɑːmjuːnˌɪst ænd ɐmˈɛɹɪkən kˈæpɪɾəlˌɪst sˈɪstəm, >|2
+DUMMY8/LJ045-0209.wav|0|< bˌʌt ɪt wʌz ˈɑːlsoʊ, æt lˈiːst ɪn pˈɑːɹt, bɪkˈʌz hɪz wˈaɪf dɪdnˌɑːt wˈɑːnt tə lˈɪv ðˈɛɹ wɪð hˌɪm. >|2
+DUMMY8/LJ038-0215.wav|0|< ɪt ɪz klˈɪɹ ðætðə nˈoʊt wʌz ɹˈɪʔn̩ wˌaɪl ðɪ ˈɑːswəldz wɜː lˈɪvɪŋ ɪn dˈæləs bɪfˌoːɹ ðeɪ mˈuːvd tə nˈuː ˈɔːɹliənz ɪnðə spɹˈɪŋ ʌv naɪntˈiːn sˈɪkstiθɹˈiː. >|2
+DUMMY8/LJ033-0012.wav|0|< ðə kˈɜːtən ɹˈɑːd stˈoːɹi >|2
+DUMMY8/LJ026-0013.wav|0|< pˈɑːɹkɚz dˌɛfɪnˈɪʃən ʌv ˈænɪməlz ænd plˈænts, >|2
+DUMMY9/p259_048.wav|8|< ðeɪ hædtʊ ɛksplˈeɪn ɪt. >|2
+DUMMY8/LJ050-0098.wav|0|< dɪtˌɜːmᵻnˈeɪʃən tə jˈuːz ɐ mˈiːnz, ˈʌðɚ ðɐn lˈiːɡəl ɔːɹ pˈiːsfəl, tə sˈæɾɪsfˌaɪ hɪz ɡɹˈiːvəns, ˈɛnd kwˈoʊt, wɪðˌɪn ðə mˈiːnɪŋ ʌvðə nˈuː kɹaɪtˈiəɹɪə. >|2
+DUMMY8/LJ048-0200.wav|0|< pˈeɪɪŋ pɚtˈɪkjʊlɚɹ ɐtˈɛnʃən tə ðə kɹˈaʊd fɔːɹ ˌɛni ʌnjˈuːʒuːəl æktˈɪvɪɾi. >|2
+DUMMY8/LJ005-0236.wav|0|< ðeɪ wɜː nˌɑːt kənfˈaɪnd ɐpˈɑːɹt fɹʌm ˈiːtʃ ˈʌðɚ, bˌʌt wɜː kɹˈaʊdᵻd θˈɜːɾi ɔːɹ fˈɔːɹɾi təɡˌɛðɚɹ ɪnðə pɹˈɛs jˈɑːɹd, >|2
+DUMMY8/LJ041-0188.wav|0|< ðɪ ˈaɪz ʌvðə fjˈuːtʃɚ bɪkˌeɪm ðɪ ˈaɪz ʌv ɡˈɑːd. >|2
+DUMMY8/LJ015-0054.wav|0|< pəlˈiːs ˈɑːfɪsɚz wɛnt dˌaʊn æt nˈaɪt tə nˈʌtfiːld, nˌɪɹ ɹˌiːˈɪɡeɪt, ænd ɐɹˈɛstᵻd sˌɜː dʒˈɑːn pˈɔːl, bˌʌt ɐlˈaʊd ðə pɹˈɪzənɚ tə slˈiːp ðˈɛɹ. >|2
+DUMMY8/LJ012-0217.wav|0|< mˈiːnwaɪl, ɐ sˈɜːtʃ hɐdbɪn mˌeɪd æt nˈoʊvə skˈoʊʃə ɡˈɑːɹdənz, bˈɛθnəl ɡɹˈiːn, wˌɛɹ bˈɪʃəp ænd wˈɪljəmz lˈɪvd. >|2
+DUMMY8/LJ030-0111.wav|0|< ðə dɹˈaɪv θɹuː dˈæləs >|2
+DUMMY8/LJ016-0157.wav|0|< wˈʌn kjˈʊɹɪəs ˈɪnstəns əvə sˈuːɪsˌaɪd kˈæɹɪd ˈaʊt ˌʌndɚ ðə mˈoʊst ædvˈɜːs ænd ɛkstɹˈoːɹdɪnˌɛɹi sˈɜːkəmstˌænsᵻz mˈeɪ biː kwˈoʊɾᵻd. >|2
+DUMMY8/LJ016-0134.wav|0|< kˈeɪsᵻz wˈɛl ɔːθˈɛntᵻkˌeɪɾᵻd hɐvbɪn nˈoʊn ʌv mˈɛn hˌuː hɐd ˈɔːl bˌʌt kəmplˈiːɾᵻd ðɛɹ sˈɛntənsᵻz, ænd fɔːɹ hˈuːm ðə pɹˈɪzən ɡˈeɪts wʊd ˈoʊpən wɪðˌɪn ɐ fjˈuː dˈeɪz, >|2
+DUMMY8/LJ037-0130.wav|0|< ɹˈɛnəldz ænd pˈæɾɚsən dᵻsˈaɪdᵻd tə fˈɑːloʊ hˌɪm. >|2
+DUMMY8/LJ037-0121.wav|0|< bˈoʊθ kˈæləwˌeɪ ænd ɡˈɪnjɑːɹd tˈɛstɪfˌaɪd ðæt ðeɪ hɐd nˌɑːt bˌɪn ʃˈoʊn ˌɛni pˈɪktʃɚz baɪ ðə pəlˈiːs bɪfˌoːɹ ðə lˈaɪnʌp. >|2
+DUMMY8/LJ021-0193.wav|0|< ˈɔːl ʌv ðiːz kɹˈaɪz hɐvbɪn hˈɜːd bɪfˈoːɹ. >|2
+DUMMY8/LJ019-0046.wav|0|< wʌzðə vɚɹˈaɪəɾi ʌv vjˈuːz æz ɹɪɡˈɑːɹdz ðə dˈɪsɪplˌɪn təbi ˌɪntɹədˈuːst ɪn ðiːz nˈuː pɹˈɪzənz. ðə tˈaɪm wʌz wˌʌn >|2
+DUMMY8/LJ002-0135.wav|0|< bˌʌt æz tˈaɪm pˈæst, dˈɪfɪkˌʌltɪz ænd dɪlˈeɪz ɪn əbtˈeɪnɪŋ dʒˈʌdʒmənt lˈɛd tə ðə ɹɪmˈuːvəl ʌv kˈɔːzᵻz tə ðə ɡɹˈeɪt kˈoːɹt ʌv kˈɪŋz bˈɛntʃ, >|2
+DUMMY8/LJ002-0118.wav|0|< ɐ tˈeɪbəl ʃˈoʊɪŋ ðə fˈɪɡjɚz fɚðə jˈɪɹ ˈɛndɪŋ mˈaɪkəlməz eɪtˈiːn ˈoʊ tˈuː. >|2
+DUMMY8/LJ032-0163.wav|0|< stˈɑːmbɔː ɛksplˈeɪnd ɪn hɪz tˈɛstᵻməni ðæt ɪn fˈaɪbɚɹ ɐnˈæləsˌɪs, æz dɪstˈɪŋkt fɹʌm fˈɪŋɡɚpɹˌɪnt ɔːɹ fˈaɪɚɹɑːɹmz aɪdˈɛntɪfɪkˈeɪʃən, >|2
+DUMMY8/LJ021-0030.wav|0|< ˌaʊɚ fˈɜːst pɹˈɑːbləm wʌz, ʌv kˈoːɹs, ðə bˈæŋkɪŋ sˌɪtʃuːˈeɪʃən bɪkˈʌz, æz juː nˈoʊ, ðə bˈæŋks hɐd kəlˈæpsd. >|2
+DUMMY8/LJ004-0170.wav|0|< ðɪ ˈoʊnli vˌɛntɪlˈeɪʃən ʌv ðɪs pˈɪt, ðˈɪs "dˈɑːɹk, tʃˈɪɹləs, dˈæmp, ʌnhˈoʊlsʌm kˈævɚn ɐ dˈʌndʒən ɪn ɪts wˈɜːst sˈɛns" >|2
+DUMMY8/LJ014-0034.wav|0|< hˈɑːkɚ, hˌuːz skˈɪl ɪn kˈaʊntɚfˌɪɾɪŋ hˈændɹaɪɾɪŋ wʌz nˈoʊn, wʌz ˈæskt tə fˈæbɹᵻkˌeɪt ɐ lˈɛɾɚ mˌeɪkɪŋ ɐn ɐsɪɡnˈeɪʃən wɪð dɪlˈɑːɹuː >|2
+DUMMY8/LJ050-0034.wav|0|< ænd ðə bɹˈiːtʃ ʌv ɹˌɛɡjuːlˈeɪʃənz wˌɪtʃ əkˈɜːd ɑːnðə nˈaɪt ʌv noʊvˈɛmbɚ twˈɛntiwˈʌn æt fˈɔːɹt wˈɜːθ. >|2
+DUMMY8/LJ029-0014.wav|0|< æz ɐ pəlˈɪɾɪkəl lˈiːdɚ, ðə pɹˈɛzɪdənt wˈɪʃt tə ɹɪzˈɑːlv ðə fˈækʃənəl kˈɑːntɹəvˌɜːsi wɪðˌɪn ðə dˌɛməkɹˈæɾɪk pˈɑːɹɾi ɪn tˈɛksəs bɪfˌoːɹ ðɪ ɪlˈɛkʃən ʌv naɪntˈiːn sˈɪkstifˈoːɹ. >|2
+DUMMY8/LJ026-0127.wav|0|< ðiːz pɹˈɑːsɛsᵻz mˈʌst tˈeɪk plˈeɪs ˈɛvɹɪwˌɛɹ ɪn ˈɔːɹdɪnˌɛɹi pɹˈoʊɾoʊplˌæzəm, >|2
+DUMMY8/LJ016-0041.wav|0|< ænd wˈɜːkɪŋ wɪð hɪz hˈændz bɪhˈaɪnd hˌɪm, wˌaɪl hiː jˈuːzd hɪz bˈɛɹ fˈiːt lˈaɪk klˈɔːz əpˌɑːn ðɪ ˈʌðɚ sˈaɪd ʌvðə wˈɔːl ˈæŋɡəl. >|2
+DUMMY8/LJ039-0115.wav|0|< mˈeɪdʒɚɹ ˈændɚsən sˈɛd, kwˈoʊt, wˌɛn hiː fˈaɪɚd ðæt tˈuː twˈɛlv >|2
+DUMMY8/LJ037-0134.wav|0|< ɹˈʌsəl ænd pˈæɾɚsən wɜː ʃˈoʊn ɐ pˈɪktʃɚɹ ʌv ˈɑːswəld ænd ðeɪ stˈeɪɾᵻd ðæt ˈɑːswəld wʌzðə mˈæn ðeɪ sˈɔː ˌɑːn noʊvˈɛmbɚ twˈɛntitˈuː, naɪntˈiːn sˈɪkstiθɹˈiː. >|2
+DUMMY8/LJ032-0038.wav|0|< ˈɑːpəsˌɪt ðə pɹˈɪntᵻd wˈɜːdz "pˈeɪ tuː" wɜː ɹˈɪʔn̩ ðə wˈɜːdz "klˈaɪnz spˈoːɹɾɪŋ ɡˈʊdz," >|2
+DUMMY8/LJ019-0192.wav|0|< ðə kˈoːɹt wʌz, haʊˈɛvɚ, pɹɪpˈɛɹd tə kənsˈɪdɚ lˈɔːɹd dʒˈɑːn ɹˈʌsəlz pɹəpˈoʊzəl wɪð ɹɪɡˈɑːɹd tə ðə kˈɔst ʌv ɹɪbˈɪldɪŋ; >|2
+DUMMY8/LJ047-0247.wav|0|< hˈɑːsti hɐz ʌnɪkwˈɪvəkəli dɪnˈaɪd, fˈɜːst baɪ ˌæfɪdˈeɪvɪt ænd ðˈɛn ɪn hɪz tˈɛstᵻməni bɪfˌoːɹ ðə kəmˈɪʃən, >|2
+DUMMY9/p314_204.wav|52|< dɹˈʌɡz ɑːɹ ɡˌɛɾɪŋ θɹˈuː. >|2
+DUMMY9/p244_070.wav|79|< aɪ kˈænt ɹᵻmˈɛmbɚɹ ɐ lˈɑːt ɐbˌaʊt ðɪ ˈæksɪdənt. >|2
+DUMMY9/p259_299.wav|8|< ðɛɹz nˌɑːt mˈʌtʃ mˈʌni ɪn sˈaɪklɪŋ. >|2
+DUMMY9/p271_081.wav|28|< ˈiːvən ðə wˈʌn ʃiː lˈʌvd. >|2
+DUMMY8/LJ030-0169.wav|0|< ˈoʊ, maɪ ɡˈɑːd, ðeɪ hæv ʃˈɑːt maɪ hˈʌsbənd. ˈaɪ lˈʌv juː, dʒˈæk. >|2
+DUMMY8/LJ010-0209.wav|0|< lˈuːi ænd æmˈædɪəs ɐmˌʌŋ ðə kˈæptɪnz; ænd hˈɜːkjʊlˌiːz, nˈɛptuːn, ænd mˈɑːɹz ɐmˌʌŋ ðə luːtˈɛnənts ʌvðɪ ɐsˈoʊsɪˈeɪʃən. >|2
+DUMMY9/p279_395.wav|26|< sˌoʊ aɪ dˈɪd. >|2
+DUMMY9/p259_439.wav|8|< ðɛɹ ɪz ɐ səlˈuːʃən, ʃiː bᵻlˈiːvz. >|2
+DUMMY8/LJ045-0088.wav|0|< ænd ðæt ˈɑːswəld, kwˈoʊt, wʌz nˌɑːɾə mˈæn, ˈɛnd kwˈoʊt. ʃiː ˈɑːlsoʊ tˈoʊld mɪsˈɛs pˈeɪn ðæt ʃiː wʌz nˌɑːt sˈæɾɪsfˌaɪd wɪð hɜː sˈɛkʃuːəl ɹɪlˈeɪʃənz wɪð ˈɑːswəld. >|2
+DUMMY8/LJ019-0319.wav|0|< wˌaɪl ðə lˈæɾɚ, wˌɪtʃ ɪnklˈuːdᵻd vˈɛɹɪəs fˈɔːɹmz ʌv ɪndˈʌstɹɪəl ɛmplˈɔɪmənt, >|2
+DUMMY8/LJ049-0037.wav|0|< ɪn kˈɑːntɹæst, ðə vˈaɪs pɹˌɛzɪdˈɛnʃəl vˈiəkəl, ɑːlðˈoʊ nˌɑːt spˈɛʃəli dɪzˈaɪnd fɔːɹ ðæt pˈɜːpəs, >|2
+DUMMY8/LJ038-0246.wav|0|< wʌz ˈeɪbəl tə dɪtˈɜːmɪn ðˈæt, ðɪs pˈɪktʃɚ wʌz tˈeɪkən wɪððɪ ɪmpˈiəɹɪəl ɹˈiːflɛks kˈæmɹə ˈoʊnd baɪ lˈiː hˈɑːɹvi ˈɑːswəld. >|2
+DUMMY8/LJ035-0002.wav|0|< tʃˈæptɚ fˈoːɹ. ðɪ ɐsˈæsɪn: pˈɑːɹt fˈoːɹ. ˈɑːswəldz ˈækʃənz ɪn bˈɪldɪŋ ˈæftɚɹ ɐsˌæsᵻnˈeɪʃən. >|2
+DUMMY8/LJ013-0124.wav|0|< hˌuː bɪlˈɑːŋd tə fˈaɪv ɡˈʊd lˈʌndən klˈʌbz >|2
+DUMMY8/LJ049-0208.wav|0|< ɛksˈɛpt æz kənklˈuːʒənz flˈoʊɪŋ dɚɹˈɛktli fɹʌm ɪts ɛɡzˌæmᵻnˈeɪʃən ʌvðə pɹˈɛzɪdənts ɐsˌæsᵻnˈeɪʃən kæn biː dɹˈɔːn. >|2
+DUMMY8/LJ028-0191.wav|0|< ðɪ ˈoʊld ˈɛnəmɪz ʌv bˈæbɪlən ɹɪdʒˈɔɪst. >|2
+DUMMY9/p314_229.wav|52|< θɹˈiː wˈiːks lˈeɪɾɚ, hiː ɹɪzˈaɪnd. >|2
+DUMMY8/LJ022-0024.wav|0|< ðeɪ nˈoʊ ðætðə pɹˈɑːsɛs ʌvðə kənstɹˈʌktɪv ɹɪbˈɪldɪŋ ʌv ɐmˈɛɹɪkə kænˈɑːt biː dˈʌn ɪn ɐ dˈeɪ ɔːɹ ɐ jˈɪɹ, >|2
+DUMMY8/LJ010-0247.wav|0|< ðə pɹˈɪzənɚ wʌz kənvˈeɪd wɪðˌaʊt dɪlˈeɪ tə ðə hˈoʊm ˈɑːfɪs, ænd ðɛɹ ɛɡzˈæmɪnd baɪ ðə pɹˈɪvi kˈaʊnsəl, wˌɪtʃ hɐdbɪn hˈeɪstɪli sˈʌmənd fɚðə pˈɜːpəs. >|2
+DUMMY8/LJ028-0303.wav|0|< ˈaɪ θˈɪŋk ðeɪ wɪl bɪlˈiːv maɪ wˈɜːdz ænd ɛntɹˈʌst mˌiː wɪð ɐ kəmˈænd ʌv tɹˈuːps. ðˈaʊ, ˌɑːn ðˌaɪ pˈɑːɹt, mˈʌst wˈeɪt >|2
+DUMMY8/LJ034-0026.wav|0|< ðə kəmˈɪʃən hɐz kənsˈɪdɚd ðə pˌɑːsəbˈɪlɪɾi ðætðə kˈɑːɹtənz mˌaɪthɐv bˌɪn mˈuːvd ɪn kənˈɛkʃən wɪððə wˈɜːk ðæt wʌz bˌiːɪŋ pɚfˈɔːɹmd ɑːnðə sˈɪksθ flˈoːɹ ˌɑːn noʊvˈɛmbɚ twˈɛntitˈuː. >|2
+DUMMY8/LJ028-0220.wav|0|< ðɪ ɪnskɹˈɪpʃən kəntˈɪnjuːz: ˈaɪ æm sˈaɪɹəs, kˈɪŋ ʌvðə wˈɜːld. >|2
+DUMMY8/LJ006-0063.wav|0|< mˈaɪnɚɹ əfˈɛndɚz tʃˈɑːɹdʒd wɪð smˈɔːl θˈɛfts ɔːɹ nˈɑːnpˈeɪmənt ʌv smˈɔːl sˈʌmz wɜː tʃˈiːk baɪ dʒˈaʊl wɪð kˈɑːnvɪkts sˈɛntənst tə lˈɑːŋ tˈɜːmz ʌv tɹænspoːɹtˈeɪʃən. >|2
+DUMMY8/LJ038-0100.wav|0|< ˌɑːn noʊvˈɛmbɚ twˈɛntiθɹˈiː, fɹˈɪts kənfɹˈʌntᵻd ˈɑːswəld wɪððɪ ˈɛvɪdəns ðæt hiː hɐd pˈɜːtʃɪsd ɐ ɹˈaɪfəl ˌʌndɚ ðə fɪktˈɪʃəs nˈeɪm ʌv "hˈaɪdəl." >|2
+DUMMY8/LJ019-0206.wav|0|< ðɪs dʒˈeɪl wʌz nˈɑːmɪnəli tə ɹɪplˈeɪs ðə ɡˈɪltspʊɹ stɹˈiːt kəmptˈɜː, >|2
+DUMMY9/p314_215.wav|52|< wiː hæv ɐn ɐtˈɜːni ɔnðə ɡɹˈaʊnd. >|2
+DUMMY8/LJ049-0080.wav|0|< ɐsˌæsᵻnˈeɪʃən ɐ fˈɛdɚɹəl kɹˈaɪm >|2
+DUMMY8/LJ018-0350.wav|0|< hiː mˌaɪt swˈɛɹ hiː wʌz nˌɑːt ðə mˈɜːdɚɹɚ, ðæt hiː nˈɛvɚ fˈaɪɚd ɐ pˈɪstəl ɪn hɪz lˈaɪf, >|2
+DUMMY8/LJ033-0102.wav|0|< wˌɛn ˈɑːswəld ˈɛntɚd ðə ɹˈɪɹ dˈoːɹ ʌvðə dɪpˈɑːsɪtˌoːɹi bˈɪldɪŋ, hiː wʌz ɐbˌaʊt fˈɪfti fˈiːt ɐhˈɛd ʌv fɹˈeɪzɪɚ. >|2
+DUMMY8/LJ012-0071.wav|0|< wˌɪtʃ pɹˈɛzəntli fˈɑːloʊd, ænd ɐɡˈɛn fˈaʊnd hɪmsˈɛlf ɐn ˈɪnmeɪt ʌv nˈuːɡeɪt, wˈeɪɾɪŋ tɹˈaɪəl æz ɐ ɹɪsˈiːvɚ ænd ɐ pɹˈɪzənbɹˈeɪkɚ. >|2
+DUMMY8/LJ013-0024.wav|0|< æɾə plˈeɪs kˈɔːld ðə sˈɪlvɚ kˈiːz hiː ɹˈæn ðə ʃˈɪp ɑːnðə ɹˈiːf. >|2
+DUMMY9/p271_312.wav|28|< ðə lˈɛɾɚz ɑːɹ ɡˌoʊɪŋ ˈaʊt tədˈeɪ. >|2
+DUMMY8/LJ010-0113.wav|0|< hiː hɐd nˈiːðɚɹ ɐ bˈɛd tə lˈaɪ əpˌɑːn nˈɔːɹ ɐ kˈoʊt tə hɪz bˈæk. >|2
+DUMMY8/LJ020-0078.wav|0|< dˈuː ˈɔːl ðɪs æt bˈɛdtaɪm. ˈɜːli ɪnðə mˈɔːɹnɪŋ tˈɜːn ˈaʊt ðə dˈoʊ əpˌɑːn ɐ flˈaɪʊɹd bˈoːɹd, wˈɜːk ɪt fɚɹə mˈɪnɪt ˌɪntʊ mˈænɪdʒəbəl ʃˈeɪp; >|2
+DUMMY8/LJ010-0044.wav|0|< ðə pɹˈɛzənt kwˈiːn vˈɛɹi sˈuːn ˈæftɚ hɜːɹ ɐksˈɛʃən >|2
+DUMMY8/LJ038-0088.wav|0|< ðə ɹɪzˈʌlts wɜː pˈɑːzɪtˌɪv fɚðə hˈændz ænd nˈɛɡətˌɪv fɚðə ɹˈaɪt tʃˈiːk. >|2
+DUMMY8/LJ016-0029.wav|0|< ˈiːvən ˈæftɚ wˈɪljəmz hɐd ɡɑːt ˈaʊt, pˈɜːsənz wɜː dɪspˈoʊzd tə dˌɪsbɪlˈiːv ðætðɪ ɛskˈeɪp hɐdbɪn ɐkˈɑːmplɪʃt ɪnðə mˈænɚɹ ˈɪndᵻkˌeɪɾᵻd; >|2
+DUMMY8/LJ002-0052.wav|0|< θɹˈiː. ðə tʃˈæpəl jˈɑːɹd wʌz ɐbˌaʊt fˈɔːɹɾiθɹˈiː fˈiːt baɪ twˈɛntifˈaɪv. >|2
+DUMMY9/p271_391.wav|28|< aɪ lˈʌv ðə θˈɔːt ʌv hˌævɪŋ ɐ kɹˈæk æt dᵻfˈɛndɪŋ ðə tˈaɪɾəl. >|2
+DUMMY8/LJ040-0133.wav|0|< ʃiː sˈɛd ðæt hɜː pˈɑːkɪtbˌʊk wʌz sˈɜːtʃt, kwˈoʊt, bɪkˈʌz ðə tʃˈɪldɹən ɪn ðɪs hˈoʊm wɜː sˈʌtʃ kɹˈɪmɪnəlz, dˈoʊp fˈiːndz, ænd hɐdbɪn ɪn kɹˈɪmɪnəl əfˈɛnsᵻz, >|2
+DUMMY8/LJ015-0311.wav|0|< hɐd nˌɑːt bˌɪn ɡˈaɪdᵻd baɪ ɐ sˈɛns ʌv vˈɜːtʃuː, ænd dɚɹˈɛktᵻd tə mˈoːɹ ˈɑːnɚɹəbəl ænd jˈuːsfəl pɚsˈuːts. >|2
+DUMMY8/LJ032-0022.wav|0|< ɐ ɹɪvjˈuː ʌvðə ɹˈɛkɚdz ʌv kɹˈɛsənt fˈaɪɚɹɑːɹmz ɹɪvˈiːld ðætðə fˈɜːm hɐd ʃˈɪpt ɐn ɪtˈælɪən kˈɑːɹbaɪn, sˈiəɹɪəl nˈʌmbɚ sˈiː tˈuː sˈɛvən sˈɪks sˈɪks, >|2
+DUMMY8/LJ044-0096.wav|0|< mˈɪstɚɹ ˈɑːswəld hˈændəld hɪmsˈɛlf vˈɛɹi wˈɛl, æz jˈuːʒuːəl, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ046-0051.wav|0|< fɹʌm dʒˈɔːɹdʒ wˈɑːʃɪŋtən tə dʒˈɑːn ˈɛf. kˈɛnədi, sˈʌtʃ dʒˈɜːnɪz hɐvbɪn ɐ nˈoːɹməl pˈɑːɹt ʌvðə pɹˈɛzɪdənts æktˈɪvɪɾiz. >|2
+DUMMY8/LJ045-0125.wav|0|< fɔːɹ ɛɡzˈæmpəl, ɪn hɪz lˈɛɾɚɹ ʌv noʊvˈɛmbɚ nˈaɪn, naɪntˈiːn sˈɪkstiθɹˈiː, >|2
+DUMMY9/p271_444.wav|28|< haʊˈɛvɚ, hiː hˈɛld ˈaʊt lˈɪɾəl hˈoʊp ðætðə ɡˈʌvɚnmənt wʊd tˈeɪk ˈækʃən. >|2
+DUMMY8/LJ019-0105.wav|0|< ænd ðˌæɾə nˈuː sˈɪstəm ʌv pɹˈɪzən dˈɪsɪplˌɪn ʃˌʊd biː ˌɪntɹədˈuːst. >|2
+DUMMY8/LJ038-0161.wav|0|< ænd hiː ˈæskt mˌiː dˈɪd ˈaɪ nˈoʊ wˌɪtʃ wˈeɪ hiː wʌz kˈʌmɪŋ, ænd ˈaɪ tˈoʊld hˌɪm, jˈɛs, hiː pɹˈɑːbəbli kˈʌm dˌaʊn mˈeɪn ænd tˈɜːn ˌɑːn hjˈuːstən ænd ðˈɛn bˈæk ɐɡˈɛn ˌɑːn ˈɛlm. >|2
+DUMMY8/LJ036-0102.wav|0|< hiː tˈɛstɪfˌaɪd ðæt ˈɑːswəld lˈʊkt ˈoʊldɚ ðɐn ðɪ ˈʌðɚ bˈɔɪz. >|2
+DUMMY8/LJ012-0093.wav|0|< ænd ðə pəlˈiːs wɜːɹ ʌnˈeɪbəl æt fˈɜːst tə ɡɛt ɑːnðə tɹˈæk ʌvðə θˈiːvz. >|2
+DUMMY8/LJ040-0011.wav|0|< fɚɹə mˈoʊɾɪv ðæt ɐpˈɪɹz ɪnkˌɑːmpɹɪhˈɛnsəbəl tʊ ˈʌðɚ mˈɛn mˈeɪ biː ðə mˈuːvɪŋ fˈoːɹs əvə mˈæn hˌuːz vjˈuː ʌvðə wˈɜːld hɐzbɪn twˈɪstᵻd, >|2
+DUMMY8/LJ009-0101.wav|0|< mˈuːv wɪð ɐ kwˈɪk, dʒˈɜːkɪŋ mˈoʊʃən, nˌɑːt nˈætʃɚɹəli, bˈʌt, æz ɪt wˈɜː, lˈaɪk ðɪ ɐfˈɛktᵻd pˈɑːɹts əvə ɡˈælvɐnˌaɪzd kˈɔːɹps. >|2
+DUMMY8/LJ028-0041.wav|0|< tˈoːɹ dˌaʊn ɪts pˈælɪsᵻz ænd tˈɛmpəlz ænd wˈɔːlz, ænd skɹˈeɪpt ˈiːvən ðə faʊndˈeɪʃənz ʌvðə sˈɪɾi ˌɪntʊ ðə ɹˈɪvɚ. >|2
+DUMMY8/LJ047-0142.wav|0|< ðə bjˈʊɹɹoʊ hɐd nˈoʊ ˈɜːlɪɚɹ ˌɪnfɚmˈeɪʃən sədʒˈɛstɪŋ ðæt ˈɑːswəld hɐd lˈɛft ðə juːnˈaɪɾᵻd stˈeɪts. >|2
+DUMMY8/LJ002-0175.wav|0|< ðə kˈɔsts ɪn hˈɛviɚ dˈɛts ˈɔːlweɪz dˈʌbəld ðə sˈʌm; ɪf ðɪ ɐɹˈɛst wʌz mˌeɪd ɪnðə kˈʌntɹi ɪt tɹˈɛbəld ɪt. >|2
+DUMMY9/p314_083.wav|52|< ˈaɪ, lˈaɪk mˈɛni ˈʌðɚz, wɪl kənsˈɪdɚ wˌɛɹ wiː ɡˌoʊ fɹʌm hˈɪɹ. >|2
+DUMMY8/LJ046-0152.wav|0|< ænd ɐ dɪtˌɜːmᵻnˈeɪʃən mˌeɪd æz tə wˈɛðɚ ðɪ ˌɪnfɚmˈeɪʃən mˌaɪt ˈɪndᵻkˌeɪt pˈɑːsəbəl hˈɑːɹm tə ðə pɹˈɛzɪdənt. >|2
+DUMMY8/LJ047-0170.wav|0|< ˌɑːn noʊvˈɛmbɚ fˈaɪv, hˈɑːsti wʌz tɹˈævəlɪŋ nˌɪɹ mɪsˈɛs pˈeɪnz hˈoʊm ænd tˈʊk ðɪ əkˈeɪʒən tə stˈɑːp baɪ tʊ ˈæsk wˈɛðɚ ʃiː hˌæd ɛni fˈɜːðɚɹ ˌɪnfɚmˈeɪʃən. >|2
+DUMMY8/LJ032-0269.wav|0|< ɪt kˌʊdɐv bˌɪn kˈɔːzd baɪ ðə tˌɛlɪskˈɑːpɪk sˈaɪt ʌvðə ɹˈaɪfəl wˌɪtʃ wʌz ɐpɹˈɑːksɪmətli ɪlˈɛvən ˈɪntʃᵻz lˈɑːŋ. >|2
+DUMMY8/LJ023-0051.wav|0|< ɪt ɪz ðɪ ɐmˈɛɹɪkən pˈiːpəl ðɛmsˈɛlvz hˌuː ɑːɹ ɪnðə dɹˈaɪvɚz sˈiːt. >|2
+DUMMY8/LJ027-0102.wav|0|< wˌɪtʃ ɪn ˈʌðɚ ænd ˈælaɪd kˈaɪndz ʌv ˈænɪməlz ænd plˈænts ɑːɹ ʌv lˈɑːɹdʒ sˈaɪz ænd fˈʌŋkʃənəl juːtˈɪlɪɾi. >|2
+DUMMY8/LJ050-0240.wav|0|< ðə sˈɜːvɪs hɐd ðɪ ɐdvˈæntɪdʒ ʌv nˈaɪn θˈaʊzənd, fˈaɪv hˈʌndɹəd ˈaɪʊɹz ʌv wˈɜːk baɪ ˈʌðɚɹ ɛnfˈoːɹsmənt ˈeɪdʒənsiz. >|2
+DUMMY8/LJ018-0231.wav|0|< nˈeɪmli, tə səpɹˈɛs ɪt ænd sˈʌbstɪtˌuːt ɐnˈʌðɚ. >|2
+DUMMY8/LJ009-0215.wav|0|< ˈɔːl ðə ʃˈɑːps ɪnðə nˈeɪbɚhˌʊd wɜː ʃˈʌt, ænd ðə wˈɪndoʊz ænd tˈɑːps ʌvðə hˈaʊzɪz wɜː kɹˈaʊdᵻd wɪð spɛktˈeɪɾɚz. >|2
+DUMMY8/LJ028-0434.wav|0|< ðə lˈɑːɹdʒ hˈaɪ mˈaʊnd, wˌɪtʃ ɹɪsˈɛmbəlz ɐ mˈaʊntɪn fɹʌm ɐ dˈɪstəns, stˈɪl bˈɛɹz ðɪ ˈeɪnʃənt nˈeɪm bˈeɪbəl. >|2
+DUMMY8/LJ008-0021.wav|0|< fɚðə mˈɜːdɚɹ ʌv hɪz kˈæbɪnbˈɔɪ, hˈuːm hiː stˈæbd ˈæftɚ mˈʌtʃ ˈɪljˈuːsɪdʒ ˌɑːn bˈoːɹd ðə ʃˈɪp æz ɪt lˈeɪ ɪnðə tˈeɪɡəs. >|2
+DUMMY9/p259_294.wav|8|< ɪɾ ɪz ɐ mˈɑːɹk ʌv ɹᵻspˈɛkt fɹʌmðɪ ˈɪnmeɪts. >|2
+DUMMY8/LJ050-0233.wav|0|< sˈɪns ðɪ ɐsˌæsᵻnˈeɪʃən, ðə sˈɜːvɪs hɐz ɛkspˈɛɹɪməntᵻd wɪððə jˈuːs ʌv ˈeɪdʒənts bˈɔːɹoʊd fɔːɹ ʃˈɔːɹt pˈiəɹɪədz fɹʌm sˈʌtʃ ˈeɪdʒənsiz. >|2
+DUMMY8/LJ035-0141.wav|0|< ɪf mˈɪs ˈædəmz ˈækjʊɹətli ɹɪkˈɔːld mˈiːɾɪŋ ʃˈɛli ænd lˈʌvleɪdi wɛn ʃiː ɹˈiːtʃt ðə bˈɑːɾəm ʌvðə stˈɛɹz, >|2
+DUMMY8/LJ048-0014.wav|0|< wʌz dˌɪsɛntʃˈæntᵻd wɪð ɹˈʌʃə, ænd hɐd ɐ ɹɪnˈuːd kˈɑːnsɛpt ˈaɪ æm pˈæɹəfɹˌeɪzɪŋ, ɐ ɹɪnˈuːd kˈɑːnsɛpt ʌvðɪ ɐmˈɛɹɪkən fɹˈiː səsˈaɪəɾi. >|2
+DUMMY8/LJ030-0067.wav|0|< ˌɑːn hɪz ɹˈaɪt sˈæt kˈɛlɚmən. >|2
+DUMMY8/LJ048-0127.wav|0|< æz ðoʊz fˈɑːloʊd ɪn naɪntˈiːn θˈɜːɾisˈɪks dˈʊɹɪŋ ɐ tɹˈɪp tə dˈæləs baɪ pɹˈɛzɪdənt ɹˈoʊzəvˌɛlt, >|2
+DUMMY8/LJ046-0176.wav|0|< ðˌætən ˌɪndɪvˈɪdʒuːəl pɹɪzˈɛnts ɐ sɪɡnˈɪfɪkənt dˈeɪndʒɚ tə ðə lˈaɪf ʌvðə pɹˈɛzɪdənt, hɪz nˈeɪm ɪz plˈeɪst ɪn ˈeɪ "tɹˈɪp ˈɪndɛks fˈaɪl" >|2
+DUMMY8/LJ012-0036.wav|0|< ˌɑːn wˈʌn əkˈeɪʒən ðə hˈoʊl ʌvðə pɹˈoʊsiːdz əvɚ ɹˈɑːbɚɹi fɹʌm ɐ bˈuːt ʃˈɑːp wʌz tɹˈeɪst tə sˈɑːlɑːmənz; >|2
+DUMMY8/LJ026-0015.wav|0|< hiː sˈɛz: ˈænɪməlz ɑːɹ ˈɔːɹɡɐnˌɪzəmz ʌv fˈɪkst ænd dˈɛfɪnət fˈɔːɹm, ɪn wˌɪtʃ ðə sˈɛlbˈɑːdi ɪz nˌɑːt kˈʌvɚd wɪð ɐ sˈɛljuːlˌoʊz wˈɔːl. >|2
+DUMMY8/LJ007-0106.wav|0|< pˈɪlɡɹᵻm ænd dˈeɪsənt wɜː kˈɔːt ænd ɡˈɪvən ˌɪntʊ ðə kˈʌstədi ʌvðə sˈɑːɹdʒəntætˈɑːɹmz, ænd ðə ɹˈɛst wɜːɹ ˈiːðɚɹ ɐɹˈɛstᵻd ɔːɹ ðeɪ sɚɹˈɛndɚd. >|2
+DUMMY8/LJ003-0151.wav|0|< ˈɔːl hˌuː kʊd skɹˈeɪp təɡˌɛðɚ ðə kˈæʃ sˈiːm tə hæv ɡlˈædli ɐvˈeɪld ðɛmsˈɛlvz ʌvðə pɹˈɪvɪlɪdʒ ʌv ˈɛntɚɹɪŋ ðə mˈæstɚz sˈaɪd. >|2
+DUMMY8/LJ050-0121.wav|0|< diːtˈeɪld fˈɔːɹməl ɐɡɹˈiːmənts ɛmbˈɑːdɪɪŋ ðiːz ɐɹˈeɪndʒmənts ʃˌʊd biː wˈɜːkt ˈaʊt bɪtwˌiːn ðə sˈiːkɹət sˈɜːvɪs ænd bˈoʊθ ʌv ðiːz ˈeɪdʒənsiz. >|2
+DUMMY8/LJ043-0088.wav|0|< ˌɑːn ɑːktˈoʊbɚɹ ɪlˈɛvən, naɪntˈiːn sˈɪkstitˈuː, ðɪ ɛmplˈɔɪmənt kəmˈɪʃən ɹɪfˈɜːd ˈɑːswəld >|2
+DUMMY8/LJ044-0038.wav|0|< pɹˈɑːmptli klˈoʊzd θɹˈiː dˈeɪz lˈeɪɾɚ fɔːɹ sˌʌm əbskjˈʊɹ ɹˈiːzənz baɪ ðə ɹˈɛntɚz, >|2
+DUMMY8/LJ022-0012.wav|0|< ɪt ɪz dˈɪfɪkəlt fɚɹə pˈɜːsən hˌuː dʌznˌɑːt nˈoʊ ʃˈɪps tə tˈɛl hˌaʊ ɪt wɪl fˈaɪnəli lˈʊk wɛn ɪt ɪz sˈeɪlɪŋ ðə hˈaɪ sˈiːz. >|2
+DUMMY8/LJ034-0127.wav|0|< bɹˈɛnən tˈɛstɪfˌaɪd ðæt ðeɪ wɜː stˈændɪŋ, wˌɪtʃ ɪz ðɛɹ ɐpˈæɹənt pəzˈɪʃən ɪnðə fˈoʊɾəɡɹˌæf. >|2
+DUMMY9/p259_098.wav|8|< fˈɪɡjɚz ɑːɹ nˌɑːt ɹˈɛlᵻvənt tə ðə stɹˈæɾədʒi. >|2
+DUMMY8/LJ011-0271.wav|0|< mˈɪstɚ dʒˈiː wɛnt ɪnðə kˈoʊtʃ sˈɛnt fɔːɹ hˌɪm, ænd ɐlˈaɪɾᵻd æt twˈɛntisˈɛvən, jˈɔːɹk stɹˈiːt, wˈɛst, kəmˈɜːʃəl ɹˈoʊd. >|2
+DUMMY8/LJ016-0377.wav|0|< ðɪ ˈoʊldɚɹ ˈɑːfɪsɚz, wɪð sˈɛvɹəl ʌv hˈuːm ˈaɪ hæv kənvˈɜːsd, hæv ðˈʌs hɐd ʌnjˈuːʒuːəl ɑːpɚtˈuːnɪɾiz ʌv wˈɑːtʃɪŋ ðə dɪmˈiːnɚɹ ʌv mˈɜːdɚɹɚz bˈoʊθ bɪfˌoːɹ tɹˈaɪəl >|2
+DUMMY8/LJ013-0260.wav|0|< ɡˈʊd hɪmsˈɛlf ɹɪmˈeɪnd æt lˈɑːɹdʒ fɔːɹ sˌʌm wˈiːks. hiː hɐd tɹˈæmpt æz fˈɑːɹ æz tˈʌnbɹɪdʒ, wˌɛɹ hiː əbtˈeɪnd wˈɜːk æz ɐ bɹˈɪkleɪɚz lˈeɪbɚɹɚ; >|2
+DUMMY8/LJ045-0224.wav|0|< ænd sˈʌtʃ ɐ fˈeɪvɚɹəbəl ɑːpɚtˈuːnɪɾi tə stɹˈaɪk æɾə fˈɪɡjɚɹ æz ɡɹˈeɪt æz ðə pɹˈɛzɪdənt wʊd pɹˈɑːbəbli nˈɛvɚ hæv kˈʌm tə hˌɪm ɐɡˈɛn. >|2
+DUMMY8/LJ030-0203.wav|0|< fɹʌmðə lˈɛft fɹˈʌnt ɹˈʌnɪŋ bˈoːɹd ʌvðə pɹˈɛzɪdənts fˈɑːloʊˌʌp kˈɑːɹ, >|2
+DUMMY8/LJ003-0124.wav|0|< hiː wʌz tʃˈɑːɹdʒd wɪð mˈuːvɪŋ sˈʌmθɪŋ wˌɪtʃ ʃˌʊd nˌɑːt biː tˈʌtʃt, wɪð lˈiːvɪŋ ɐ dˈoːɹ ˈoʊpən, ɔːɹ kˈɔfɪŋ mɐlˈɪʃəsli tə ðə dɪstˈɜːbəns ʌv hɪz kəmpˈæniənz. >|2
+DUMMY8/LJ047-0134.wav|0|< ðɪ ˌɛfbˌiːˈaɪ wʌz ɐdvˈaɪzd baɪ ðə ɹˈɛntəl ˈeɪdʒənt fɚðɪ ˈɑːswəldz ɐpˈɑːɹtmənt ɪn nˈuː ˈɔːɹliənz ðæt ðeɪ hɐd mˈuːvd ɐɡˈɛn. >|2
+DUMMY8/LJ005-0103.wav|0|< ˈɔfən hˈaɪli dˈæmnətˌoːɹi, wˌɪtʃ wɜːɹ ɛmbˈɑːdɪd ɪn ɪts ˈænjuːəl ɹɪpˈoːɹts. >|2
+DUMMY8/LJ024-0097.wav|0|< hɐz ˈɛvɚ bˌɪn ɹˈæɾɪfˌaɪd wɪðˌɪn ˈɛnɪθˌɪŋ lˈaɪk ɐ ɹˈiːzənəbəl tˈaɪm. >|2
+DUMMY8/LJ047-0163.wav|0|< ɐkˈoːɹdɪŋ tə hˈɑːsti, mɪsˈɛs pˈeɪn ˈɪndᵻkˌeɪɾᵻd ðæt ʃiː θˈɔːt ʃiː kʊd fˈaɪnd ˈaʊt wˌɛɹ ˈɑːswəld wʌz lˈɪvɪŋ ænd wʊd lˈɛt hˌɪm nˈoʊ. >|2
+DUMMY8/LJ019-0147.wav|0|< ðɪs əkˈɜːd ɪn sˈʌmɚɹ æt ˈeɪt, bˌʌt ɪnðə wˈɪntɚ mˈʌnθs ɪt tˈʊk plˈeɪs æt dˈʌsk, ænd wʌz ˈɔfən æz ˈɜːli æz fˈoːɹ ɔːɹ fˈaɪv. >|2
+DUMMY8/LJ030-0007.wav|0|< ðeɪ wɜː ɡɹˈiːɾᵻd baɪ vˈaɪs pɹˈɛzɪdənt dʒˈɑːnsən ænd ɡˈʌvɚnɚ kənˈæli, hˌuː dʒˈɔɪnd ðə pɹˌɛzɪdˈɛnʃəl pˈɑːɹɾi ɪn ɐ mˈoʊɾɚkˌeɪd θɹuː sˌæn æntˈoʊnɪˌoʊ. >|2
+DUMMY9/p314_268.wav|52|< aɪ tˈʊk ɐ mˈɪnɪbˌʌs ˌɪntʊ tˈaʊn. >|2
+DUMMY8/LJ033-0207.wav|0|< ɪn lˈaɪt ʌvðɪ ˈʌðɚɹ ˈɛvɪdəns lˈɪŋkɪŋ lˈiː hˈɑːɹvi ˈɑːswəld, ðə blˈæŋkɪt, ænd ðə ɹˈaɪfəl tə ðə pˈeɪpɚ bˈæɡ fˈaʊnd ɑːnðə sˈɪksθ flˈoːɹ, >|2
+DUMMY8/LJ021-0150.wav|0|< ˈaɪ ʃˌæl nˌɑːt ˈæsk ˈiːðɚɹ ɛmplˈɔɪɚz ɔːɹ ɛmplˈɔɪiːz pˈɜːmənəntli tə lˈeɪ ɐsˈaɪd ðə wˈɛpənz kˈɑːmən tʊ ɪndˈʌstɹɪəl wˈɔːɹ. >|2
+DUMMY8/LJ050-0162.wav|0|< ɪn plˈænɪŋ ɪts dˈeɪɾə pɹˈɑːsɛsɪŋ tɛknˈiːks, >|2
+DUMMY8/LJ014-0240.wav|0|< wɪðˌaʊt kˈæpɪɾəl, ænd æt ɹˈeɪlɹoʊd spˈiːd. >|2
+DUMMY8/LJ044-0057.wav|0|< ɛkstˈɛnsɪv ɪnvˌɛstɪɡˈeɪʃən wʌz nˌɑːt ˈeɪbəl tə kənˈɛkt ˈɑːswəld wɪð ðæt ɐdɹˈɛs, ɑːlðˈoʊ ɪt dˈɪd dɪvˈɛləp ðə fˈækt >|2
+DUMMY8/LJ022-0064.wav|0|< ænd tə ɡˈɪv tʊ ˈɔːl ɐ fˈiːlɪŋ ʌv sɪkjˈʊɹɪɾi æz ðeɪ lˈʊk tʊwˈɔːɹd ˈoʊld ˈeɪdʒ. >|2
+DUMMY8/LJ028-0329.wav|0|< ðˈɛn ðə bˌæbɪlˈoʊniənz, sˈiːɪŋ ðæt hɪz dˈiːdz wɜːɹ æz bɹˈeɪv æz hɪz wˈɜːdz, wɜː bɪjˌɑːnd mˈɛʒɚ plˈiːzd, ænd sˈɛt nˈoʊ bˈaʊndz tə ðɛɹ tɹˈʌst. >|2
+DUMMY8/LJ009-0048.wav|0|< hiː ɪz ɐ hˈɑːɹdənd əfˈɛndɚ, pɹˈiːvɪəsli kˈæst fɔːɹ lˈaɪf, ɹɪpɹˈiːvd, tɹænspˈoːɹɾᵻd tʊ ɔːstɹˈeɪliə, ænd sˈɪns ɹɪtˈɜːnd wɪðˌaʊt pˈɑːɹdən. >|2
+DUMMY8/LJ041-0023.wav|0|< ˈænd, kwˈoʊt, ˈɑːɹθɚɹ ɐbˈɛɹ, ˈɛnd kwˈoʊt, mˈoʊst lˈaɪkli ˈɑːɹθɚ hˈɛbɚt, ɐ klˈæsmeɪt hˌuː hɐz sˈɛd ðæt hiː dɪdnˌɑːt nˈoʊ ˈɑːswəld wˈɛl. >|2
+DUMMY8/LJ049-0139.wav|0|< ænd ðɪ ɐtˈɜːni dʒˈɛnɚɹəl æt ˌɛni mˈiːɾɪŋz wˌɪtʃ ɑːɹ kənsˈɜːnd wɪð pɹˌɛzɪdˈɛnʃəl pɹətˈɛkʃən. >|2
+DUMMY9/p271_438.wav|28|< ɐdmˈɪʃən ɪz fɹˈiː. >|2
+DUMMY8/LJ047-0202.wav|0|< tˈɛstɪfˌaɪd ðætðɪ ˌɪnfɚmˈeɪʃən ɐvˈeɪləbəl tə ðə fˈɛdɚɹəl ɡˈʌvɚnmənt ɐbˌaʊt ˈɑːswəld bɪfˌoːɹ ðɪ ɐsˌæsᵻnˈeɪʃən wˈʊd, ɪf nˈoʊn tə pˌiːˌɑːɹˈɛs, >|2
+DUMMY8/LJ010-0238.wav|0|< bˌʌt dɹˈɔː ɪt bˈæk ɐɡˈɛn, ɛksklˈeɪmɪŋ pɹˈɛzəntli, "ˈaɪ wˈɪʃ ˈaɪ hɐd dˈʌn ɪt." >|2
+DUMMY8/LJ003-0120.wav|0|< ðə kˈʌlpɹɪt wʌz ðˈɛn kəmpˈɛld tə kˈæɹi ðə tʃˈɛɹ ɐbˈaʊt wɪð hˌɪm. >|2
+DUMMY8/LJ027-0038.wav|0|< bɪtwˌiːn ðə hˈɑːɹt əvən ˈɪnsɛkt ænd ðə hˈɑːɹt əvə vˈɜːɾɪbɹˌeɪt ˈænɪməl >|2
+DUMMY8/LJ030-0255.wav|0|< ɐpɹˈɑːksɪmətli twˈɛnti ɔːɹ twˈɛntifˈaɪv mˈɪnɪts ˈæftɚ ðə ʃˈɑːts wɜː fˈaɪɚd. >|2
+DUMMY8/LJ002-0036.wav|0|< wˈʌn. ðə mˈeɪl dˈɛɾɚz sˈaɪd kənsˈɪstᵻd əvə jˈɑːɹd fˈɔːɹtinˈaɪn fˈiːt baɪ θˈɜːɾiwˌʌn, >|2
+DUMMY8/LJ013-0181.wav|0|< ænd ðə pəlˈiːs, fˈiːlɪŋ kənvˈɪnst ðætðə kɹˈaɪm hɐdbɪn kəmˈɪɾᵻd baɪ sˌʌm ˈɪnmeɪt ʌvðə hˈaʊs, >|2
+DUMMY8/LJ013-0221.wav|0|< ðæt hiː kʊd nˌɑːt ɹɪsˈɪst ðɪ ɑːpɚtˈuːnɪɾi fɔːɹ ɹˈɑːbɚɹi ˈɑːfɚd hˌɪm baɪ hɪz sˌɪtʃuːˈeɪʃən æt lˈɔːɹd wˈɪljəm ɹˈʌsəlz; ðæt wɛn vˈɛkst wɪð hɪz mˈæstɚ >|2
+DUMMY8/LJ049-0104.wav|0|< sˈʌtʃ ɐ stˈætʃuːt wʊd kˈʌvɚ ðə pɹˈɛzɪdənt ænd vˈaɪs pɹˈɛzɪdənt ɔːɹ, ɪnðɪ ˈæbsəns əvə vˈaɪs pɹˈɛzɪdənt, ðə pˈɜːsən nˈɛkst ɪn ˈɔːɹdɚɹ ʌv səksˈɛʃən. >|2
+DUMMY9/p259_381.wav|8|< bˌʌt ðə dɪzˈiːz həznɑːt bˌɪŋ kənfˈaɪnd tə ðə tˈoːɹi pˈɑːɹɾi. >|2
+DUMMY9/p313_346.wav|77|< maɪ hˈɑːɹt ɪz nˌɑːt sˌoʊ ʃˈʊɹ. >|2
+DUMMY8/LJ027-0084.wav|0|< ɹˈoʊmeɪnzɪz "dˈɑːɹwɪn ænd ˈæftɚ dˈɑːɹwɪn", ænd lə kəntˈɛz "ˌɛvəlˈuːʃən." >|2
+DUMMY9/p314_114.wav|52|< hɪz wˈaɪf mˈɑːɹɡɹət wʌz nˌɑːt ɪŋ kˈoːɹt. >|2
+DUMMY8/LJ018-0096.wav|0|< ænd ðˈʌs əbtˈeɪnd pˈɜːsənəl nˈɑːlɪdʒ ʌv ˈɔːl hˌuː pˈæst ɪn ænd ˈaʊt, bˌʌt wɪðˌaʊt əbtˈeɪnɪŋ ˌɛni dɚɹˈɛkt ˈɛvɪdəns. >|2
+DUMMY8/LJ047-0089.wav|0|< ɪnɐsmˈʌtʃ æz ðə fˈækts ɹɪlˈeɪɾɪŋ tʊ ˈɑːswəldz æktˈɪvɪɾiz æt ðæt tˈaɪm dɪdnˌɑːt wˈɔːɹənt sˈʌtʃ ˈækʃən. >|2
+DUMMY8/LJ046-0213.wav|0|< mˈɛmbɚz ʌv hɪz ɪmˈiːdɪət fˈæmɪli, ðə pɹˈɛzɪdəntɪlˈɛkt, ænd ðə vˈaɪspɹˈɛzɪdənt. ɪnvˌɛstɪɡˈeɪʃən ʌv θɹˈɛts ɐɡˈɛnst ðə pɹˈɛzɪdənt ʌvðə juːnˈaɪɾᵻd stˈeɪts, >|2
+DUMMY8/LJ043-0083.wav|0|< ɛmplˈɔɪmənt kəmˈɪʃən ɹˈɛkɚdz kənsˈɜːnɪŋ ˈɑːswəld stˈeɪɾᵻd, kwˈoʊt, wˈɛlɡɹˈuːmd ænd spˈoʊkən, >|2
+DUMMY8/LJ015-0234.wav|0|< kˈɜːɹɪɚ bˈæɡz wɜː bˈɔːt tə kˈæɹi ðə "stˈʌf" slˈʌŋ ˌoʊvɚ ðə ʃˈoʊldɚz; >|2
+DUMMY9/p259_129.wav|8|< tˈaɪɡɚɹ ɪz nˌɑːt ðə nˈɔːɹm. >|2
+DUMMY8/LJ033-0074.wav|0|< mɚɹˈiːnə ˈɑːswəld tˈɛstɪfˌaɪd ðæt ðɪs wʌz hɜː fˈɜːst nˈɑːlɪdʒ ðætðə ɹˈaɪfəl wʌz nˌɑːt ɪn ɪts ɐkˈʌstəmd plˈeɪs. >|2
+DUMMY8/LJ021-0021.wav|0|< ðə ɹɪlˈeɪʃənz bɪtwˌiːn ðɪ ɛmplˈɔɪɚ ænd ðɪ ɛmplˈɔɪd, bɪtwˌiːn ðɪ ˈoʊnɚz ʌv ˈæɡɹɪɡˌeɪɾᵻd kˈæpɪɾəl ænd ðə jˈuːnɪts ʌv ˈɔːɹɡɐnˌaɪzd lˈeɪbɚ, >|2
+DUMMY8/LJ002-0140.wav|0|< ðiːz kˈoːɹts wɜːɹ ɛkstˈɛndᵻd tˈuː sˈɛntʃɚɹɪz lˈeɪɾɚ tə sˈɛvɹəl lˈɑːɹdʒ pɹəvˈɪnʃəl tˈaʊnz, ænd ˈɔːl wɜːɹ ɪn fˈʊl æktˈɪvɪɾi wɛn nˈiːld ɹˈoʊt, >|2
+DUMMY8/LJ036-0205.wav|0|< tˈɪpɪt mˈʌstɐv hˈɜːd ðə dɪskɹˈɪpʃən ʌvðə sˈʌspɛkt wˈɑːntᵻd fɚðə pɹˈɛzɪdənts ʃˈuːɾɪŋ; ɪt wʌz bɹˈɔːdkæst ˌoʊvɚ tʃˈænəl wˈʌn æt twˈɛlv:fˈɔːɹɾifˈaɪv pˈiː.ˈɛm., >|2
+DUMMY8/LJ016-0133.wav|0|< ðɛɹˈɪz, haʊˈɛvɚ, nˈoʊ ɛksplɐnˈeɪʃən ʌvðə mˈoʊɾɪvz wˌɪtʃ pɹˈɑːmpt pɹˈɪzənɚz tʊ ɐtˈɛmpt ɛskˈeɪps. >|2
+DUMMY8/LJ001-0101.wav|0|< ɪt ɪz dɪskˈɜːɹɪdʒɪŋ tə nˈoʊt ðætðɪ ɪmpɹˈuːvmənt ʌvðə lˈæst fˈɪfti jˈɪɹz ɪz ˈɔːlmoʊst hˈoʊli kənfˈaɪnd tə ɡɹˈeɪt bɹˈɪtən. >|2
+DUMMY8/LJ038-0128.wav|0|< hiː ˈɑːlsoʊ dɪnˈaɪd ðæt hiː hɐd ɹɪsˈiːvd ðə ɹˈaɪfəl θɹuː ðɪs bˈɑːks. >|2
+DUMMY8/LJ029-0026.wav|0|< ɪt wʌz ɐɡɹˈiːd ðætðə plˈænɪŋ ʌv ɪvˈɛnts ɪn tˈɛksəs wʊd biː lˈɛft lˈɑːɹdʒli tə ðə ɡˈʌvɚnɚ. >|2
+DUMMY8/LJ010-0283.wav|0|< ænd wˈɔːkɪŋ fɔːɹ tʃˈɔɪs θɹuː pɹˈɪkli ɡˈɔːɹs bˈʊʃᵻz. >|2
+DUMMY9/p313_026.wav|77|< ɪɾ ɪz nˈɛvɚɹ ɐn ˈiːzi ɡˈeɪm. >|2
+DUMMY8/LJ034-0052.wav|0|< ɪn hɪz ˌɪndɪpˈɛndənt ɪnvˌɛstɪɡˈeɪʃən, ˈɑːɹθɚ mændˈɛlə ʌvðə nˈuː jˈɔːɹk sˈɪɾi pəlˈiːs dɪpˈɑːɹtmənt >|2
+DUMMY8/LJ028-0389.wav|0|< sˈeɪnt dʒˈɛɹoʊm sˈɛd: >|2
+DUMMY8/LJ005-0133.wav|0|< ðə pɹəvˈɪʒən ʌv sˈɛpɹət slˈiːpɪŋ sˈɛlz wʌz stˈɪl kwˈaɪt ɪnˈædɪkwət. fɔːɹ ˈɪnstəns, >|2
+DUMMY8/LJ003-0137.wav|0|< ænd ˈaɪ lˈɜːnd hiː hɐdbɪn ˌʌp wɪððɪ ˈʌðɚz ðə hˈoʊl nˈaɪt. >|2
+DUMMY8/LJ047-0014.wav|0|< ðɪ ˈɑːfɪs ʌv nˈeɪvəl ɪntˈɛlɪdʒəns, ðɪ ˌɛfbˌiːˈaɪ ænd ðə sˌiːˌaɪˈeɪ. ðɪ ˌɪnfɚmˈeɪʃən nˈoʊn tə ðɪ ˌɛfbˌiːˈaɪ ɪz sˈʌmɚɹˌaɪzd bɪlˈoʊ. >|2
+DUMMY8/LJ009-0281.wav|0|< kˈælkɹæft wʌz fˈoːɹst tə ɹɪtˈɜːn, ænd hiː wˈʌns mˈoːɹ pˈʊʃt bˈaʊsfiːld ˈɔf, >|2
+DUMMY8/LJ019-0375.wav|0|< ðɛɹwˌɜːɹ ˈoʊnli tˈuː ʌv ðˌɛm, ænd ðeɪ kʊd nˌɑːt vˈɪzɪt ˈiːtʃ pɹˈɪzən mˈoːɹ ðɐn wˈʌns ɪn ˈiːtʃ jˈɪɹ, sˈʌmtaɪmz nˌɑːt ˈɔfənɚ ðɐn wˈʌns ɪn eɪtˈiːn mˈʌnθs. >|2
+DUMMY9/p314_386.wav|52|< aɪ kˈænt bᵻlˈiːv wʌt hɐz hˈæpənd. >|2
+DUMMY8/LJ049-0148.wav|0|< fɔːɹ vˈɛɹɪəs ɹˈiːzənz ðə sˈiːkɹət sˈɜːvɪs hɐz fˈʌŋkʃənd lˈɑːɹdʒli æz ɐn ɪnfˈɔːɹməl pˈɑːɹt ʌvðə wˈaɪt hˈaʊs stˈæf, wɪððə ɹɪzˈʌlt >|2
+DUMMY8/LJ025-0019.wav|0|< ɑːlðˈoʊ ðə ɹˈuːts ʌv plˈænts dɚɹˈɛkt ðɛmsˈɛlvz tʊwˈɔːɹd mˈɔɪstʃɚ ænd ðɛɹ lˈiːvz tʊwˈɔːɹd ˈɛɹ ænd lˈaɪt, >|2
+DUMMY8/LJ032-0155.wav|0|< fˈaɪbɚz ˌɑːn ɹˈaɪfəl >|2
+DUMMY8/LJ043-0130.wav|0|< ænd hɐdbɪn sˈiːn ɹˈiːdɪŋ ɐ fˈɔːɹən nˈuːzpeɪpɚ, ˈɛnd kwˈoʊt. >|2
+DUMMY9/p259_269.wav|8|< wˌʌt fˈɔːɹm dˈɪd ðæt tˈeɪk ? >|2
+DUMMY8/LJ007-0123.wav|0|< ænd ðɪ ɪnspˈɛktɚz ɛkspɹˈɛst ðɛmsˈɛlvz stˈɪl mˈoːɹ stɹˈɔŋli ɪn ɹɪpɹɪhˈɛnʃən ʌvðə pɹˈæktɪs. >|2
+DUMMY8/LJ040-0231.wav|0|< lˈiː ˈɑːswəld nˈɛvɚ ɹɪsˈiːvd ðæt hˈɛlp. >|2
+DUMMY8/LJ003-0216.wav|0|< ðɪs lˈæɾɚ wʌz ɐn ɔːɹdˈiəl wˌɪtʃ ˈɔːl dɹˈɛdᵻd, ænd mˈɛni ɐvˈɔɪdᵻd baɪ dɪnˈaɪɪŋ ðɛɹ fˈeɪθ. >|2
+DUMMY8/LJ013-0023.wav|0|< ðæt hiː ɡɑːt ɐ tʃˈæns ʌv ɐkˈɑːmplɪʃɪŋ hɪz kɹˈaɪm. >|2
+DUMMY8/LJ028-0291.wav|0|< ɹˈæθ stˈɜːd wɪðˌɪn ðə kˈɪŋ æt ðə sˈaɪt əvə mˈæn ʌv hɪz lˈɔfti ɹˈæŋk ɪn sˈʌtʃ ɐ kəndˈɪʃən; >|2
+DUMMY8/LJ006-0209.wav|0|< ðə doʊnˈeɪʃən əvə fɪlɐnθɹˈɑːpɪk dʒˈɛntəlmən, kˈæptɪn bɹˈaʊn, bˌʌt ðˈiːz, pɚtˈɪkjʊlɚli ðə bˈaɪbəlz, bˈoːɹ lˈɪɾəl ɐpˈɪɹəns ʌv hˌævɪŋ bˌɪn jˈuːzd. >|2
+DUMMY8/LJ014-0321.wav|0|< wˌɛn sˈʌtʃ ɡˈʊdz ɐɹˈaɪvd ðeɪ wɜː fɹˈiːkwəntli lˈɛft æɾə wˈɔːɹf, pˈeɪɪŋ ɹˈɛnt ʌntˈɪl ɪt sˈuːɾᵻd ðɪ ɪmpˈoːɹɾɚ tə ɹɪmˈuːv ðˌɛm. >|2
+DUMMY8/LJ034-0137.wav|0|< ðə tˈuː mˈɛn, hˈæɹəld nˈoːɹmən ænd dʒˈeɪmz dʒˈɑːɹmən, dʒˈuːnjɚ, ˈiːtʃ kənfˈɜːmd ðæt wɛn ðeɪ kˈeɪm ˌaʊɾəv ðə bˈɪldɪŋ, >|2
+DUMMY8/LJ039-0227.wav|0|< wɪð tˈuː hˈɪts, wɪðˌɪn fˈoːɹ pˈɔɪnt ˈeɪt ænd fˈaɪv pˈɔɪnt sˈɪks sˈɛkəndz. >|2
+DUMMY8/LJ044-0124.wav|0|< ˈɑːswəld ɹˈoʊt ðæt hiː fˈɛlt ðæt hiː mˌaɪthɐv kˈɑːmpɹəmˌaɪzd ðɪ ˌɛfpˌiːsˌiːsˈiː ænd ɛkspɹˈɛst kənsˈɜːn lˈɛst, kwˈoʊt, ˌaʊɚɹ əpˈoʊnənts kʊd jˈuːz maɪ bˈækɡɹaʊnd >|2
+DUMMY8/LJ028-0435.wav|0|< ˈæɹəbz, sˈɜːtʃɪŋ fɔːɹ bɹˈɪks, hæv bˈɜːɹoʊd ðɛɹ wˈeɪ dˌaʊn dˈiːp ˌɪntʊ ɪt, ɹɪvˈiːlɪŋ mˈæsɪv wˈɔːlz ænd ˈɑːɹtʃᵻz. >|2
+DUMMY8/LJ030-0040.wav|0|< ðɪ ˈɔːɹdɚɹ ʌv vˈiəkəlz ɪnðə dˈæləs mˈoʊɾɚkˌeɪd wʌz æz fˈɑːloʊz: >|2
+DUMMY8/LJ008-0261.wav|0|< ɪnðə kˈeɪs ʌv kənvˈɪktᵻd mˈɜːdɚɹɚz ˈoʊnli wʌz pɹˈɑːmpt pˈʌnɪʃmənt ɪnflˈɪktᵻd, >|2
+DUMMY8/LJ003-0076.wav|0|< fˈoːɹ fɔːɹ foːɹtˈiːn jˈɪɹz, ænd θɹˈiː ʌv ðˌɛm pˈɜːsənz sˈɛntənst tə fˈaɪnz ɔːɹ ʃˈɔːɹt ɪmpɹˈɪzənmənt wˈʌn fɔːɹ lˈɪɾəl mˈoːɹ ðˌænə mˈʌnθ. >|2
+DUMMY8/LJ028-0362.wav|0|< fɔːɹ hˈɪstɚɹi mˈɛnʃənz ðə nˈeɪmz ʌv tˈuː ʌv ɪts lˈeɪɾɚ ɹˈuːlɚz. ðə pˈælɪs ʌv nˈɛbətʃˌædnɪzˌɑːɹ wʌz ˈɑːkjʊpˌaɪd baɪ ˌælɪɡzˈændɚ ðə ɡɹˈeɪt, >|2
+DUMMY8/LJ008-0259.wav|0|< ænd ʌv ðɛɹ dɪmˈiːnɚɹ ˈæftɚ sˈɛntəns ʌntˈɪl ðə lˈæst pˈɛnəlɾi wʌz pˈeɪd. >|2
+DUMMY8/LJ021-0202.wav|0|< ðɪ ˈiːkwəli ʌntˈɛnəbəl θˈiəɹi ðˌɐɾɪt ɪz ɐn ˌɪntəfˈɪɹəns wɪð lˈɪbɚɾi tʊ ˈɑːfɚ ɹˈiːzənəbəl hˈɛlp wɛn pɹˈaɪvət ˈɛntɚpɹˌaɪz ɪz ɪn nˈiːd ʌv hˈɛlp. >|2
+DUMMY8/LJ036-0040.wav|0|< ɪn ɐ lˈeɪɾɚɹ ˈɪntɚvjˌuː, dʒˈoʊnz kənfˈɜːmd ðæt hiː hɐd ɛkstʃˈeɪndʒd wˈɜːdz wɪð ɐ wˈʊmən pˈæsɪndʒɚɹ ɑːnðə bˈʌs dˈʊɹɪŋ ðə ɹˈaɪd sˈaʊθ ˌɑːn mɑːɹsˈɑːliz. >|2
+DUMMY9/p259_420.wav|8|< ɪts tˈuː klˈoʊs tə kˈɔːl. >|2
+DUMMY8/LJ011-0153.wav|0|< ˈɛdwɚd ɡˈɪbən wˈeɪkfiːld, ðə pɹˈaɪm mˈuːvɚɹ ɪnðɪ ɐbdˈʌkʃən, wʌzɐ bˈæɹɪstɚ, nˌɑːt ɛɡzˈæktli bɹˈiːfləs, bˌʌt wɪðˌaʊt ɐ lˈɑːɹdʒ pɹˈæktɪs. >|2
+DUMMY8/LJ017-0159.wav|0|< ænd ɐ lˈaɪfˈɪntɹəst ɪn fˈaɪv θˈaʊzənd pˈaʊndz, ɐ fˈækt ˌɑːn wˌɪtʃ smˈɛθɜːsts kˈaʊnsəl dwˈɛlt wɪð mˈʌtʃ wˈeɪt, >|2
+DUMMY8/LJ047-0135.wav|0|< ɐkˈoːɹdɪŋ tə ðɪ ˌɪnfɚmˈeɪʃən ɹɪsˈiːvd baɪ ðə bjˈʊɹɹoʊ >|2
+DUMMY8/LJ027-0098.wav|0|< ɪz fˈaʊnd ðə sˈeɪm pˈɑːɹt, vˈɛɹɪəsli mˈɑːdɪfˌaɪd fɔːɹ mˈɛni pˈɜːpəsᵻz. >|2
+DUMMY8/LJ016-0220.wav|0|< ˌɑːn ɐnˈʌðɚɹ əkˈeɪʒən ɐn ˌɪmpoːɹtˈuːneɪt pˈɜːsən bˈɛɡd kˈælkɹæft ˈiːɡɚli tə klˈeɪm hɪz ɹˈaɪt tə ðə klˈoʊðz, ænd ɡˈɪv ðˌɛm tə hˌɪm. >|2
+DUMMY8/LJ029-0104.wav|0|< dˈɛpjuːɾi tʃˈiːf ˈɛn. tˈiː. fˈɪʃɚ, ænd sˈɛvɹəl ˈʌðɚ kəmˈænd ˈɑːfɪsɚz tə dɪskˈʌs diːtˈeɪlz ʌvðə mˈoʊɾɚkˌeɪd ænd pˈɑːsəbəl ɹˈaʊts. >|2
+DUMMY9/p244_273.wav|79|< aɪɐm stˈɪl wˈeɪɾɪŋ fɚɹɚ ɹᵻplˈaɪ. >|2
+DUMMY8/LJ024-0142.wav|0|< ˈaɪ sˈiːk tə mˌeɪk ɐmˈɛɹɪkən dɪmˈɑːkɹəsi səksˈiːd. >|2
+DUMMY8/LJ006-0293.wav|0|< ænd ðə mˈɛn kʊd ˈɑːlsoʊ æt ˌɛni tˈaɪm ɡˌoʊ fɔːɹ tˈiː, kˈɔfi, ænd ʃˈʊɡɚ tə mɪsˈɛs bɹˈaʊnz ʃˈɑːp, wˌɪtʃ wʌz ɪnsˈaɪd ðə fˈiːmeɪl ɡˈeɪt. >|2
+DUMMY8/LJ005-0096.wav|0|< ɪt hɐd nˈaʊ ɐ lˈiːɡəl ænd ɐθˈɔːɹᵻtˌeɪɾɪv stˈændɚd ʌv ɪfˈɪʃənsi tʊ ɐplˈaɪ, >|2
+DUMMY8/LJ033-0037.wav|0|< ɪn dᵻsˈaɪdɪŋ wˈɛðɚɹ ˈɑːswəld kˈæɹɪd ɐ ɹˈaɪfəl tə wˈɜːk ɪn ɐ lˈɑːŋ pˈeɪpɚ bˈæɡ ˌɑːn noʊvˈɛmbɚ twˈɛntitˈuː, >|2
+DUMMY8/LJ048-0223.wav|0|< ˈæftɚ ðə pɹˈɛzɪdənt hɐd ɹɪtˈaɪɚd æt hɪz hoʊtˈɛl, >|2
+DUMMY9/p279_032.wav|26|< pˈiːpəl lˈʌv tə sˈiː ðɪs stˈʌf. >|2
+DUMMY8/LJ016-0109.wav|0|< bˌʌt nˌɑːt tˈɪl ðeɪ hɐd hɐd ɐn ɛksˈaɪɾɪŋ tʃˈeɪs dˌaʊn ðə stɹˈiːt. >|2
+DUMMY8/LJ025-0011.wav|0|< ɪz hˈʌkslɪz fˈeɪməs ˈɛseɪ, "ðə bˈoːɹdɚ tˈɛɹɪtˌoːɹi bɪtwˌiːn ðɪ ˈænɪməl ænd vˈɛdʒɪɾəbəl kˈɪŋdəmz," ɹˈɪʔn̩ ɪn eɪtˈiːn sˈɛvəntisˈɪks, >|2
+DUMMY8/LJ005-0149.wav|0|< ðə nˈeɪtʃɚɹ ʌvðɪ ɛmplˈɔɪmənt vˈɛɹid ɡɹˈeɪtli ɪn səvˈɛɹɪɾi, ɪspˈɛʃəli ðə tɹˈɛdwˈiːl lˈeɪbɚ. >|2
+DUMMY8/LJ039-0061.wav|0|< fɚɹɚ ɹˈaɪflɛmən sˈɪtʃuːˌeɪɾᵻd ɑːnðə sˈɪksθ flˈoːɹ ʌvðə tˈɛksəs skˈuːl bˈʊk dɪpˈɑːsɪtˌoːɹi bˈɪldɪŋ >|2
+DUMMY8/LJ021-0051.wav|0|< pˈiːpəl wɪl biː dɪskˈɜːɹɪdʒd ɪn ʌnhˈæpi ˈɛfɚts tə ɡɛt ɹˈɪtʃ kwˈɪk baɪ spˈɛkjʊlˌeɪɾɪŋ ɪn sɪkjˈʊɹɪɾiz. >|2
+DUMMY8/LJ010-0145.wav|0|< ðiːz wɜː ðə lˈæst ˌɛksɪkjˈuːʃənz fɔːɹ hˈaɪ tɹˈiːzən, bˌʌt nˌɑːt ðə lˈæst pɹˈɪzənɚz baɪ mˈɛni hˌuː pˈæst θɹuː nˈuːɡeɪt tʃˈɑːɹdʒd wɪð sɛdˈɪʃən. >|2
+DUMMY9/p313_088.wav|77|< ðɪs kʊd biː hɜː wˈeɪ fˈɔːɹwɚd. >|2
+DUMMY8/LJ049-0225.wav|0|< ðə kəmˈɪʃən fˈiːlz ðə sˈiːkɹət sˈɜːvɪs ænd ðɪ ˌɛfbˌiːˈaɪ, æz wˈɛl æz ðə stˈeɪt dɪpˈɑːɹtmənt ænd ðə sˌiːˌaɪˈeɪ wɛn ðə pɹˈɛzɪdənt tɹˈævəlz ɐbɹˈɔːd, >|2
+DUMMY8/LJ007-0219.wav|0|< ðɪ ɪfˈɛkts ʌvðɪ ɪmpɹˈɪzənmənt ɑːɹ tə vˈɪʃɪˌeɪt ɪts ˈɪnmeɪts, tʊ ɛkstˈɛnd ðɛɹ ɐkwˈeɪntənsʃˌɪp wɪð ˈiːtʃ ˈʌðɚ, >|2
+DUMMY9/p259_282.wav|8|< wˈɑːʃɪŋtən ɪz kənsˈuːmd baɪ ðə kɹˈaɪsɪs. >|2
+DUMMY8/LJ046-0153.wav|0|< ɪf ðə mətˈiəɹɪəl wʌz ɪvˈæljuːˌeɪɾᵻd >|2
+DUMMY8/LJ044-0022.wav|0|< wˈʌn ʌvðə kjˈuːbən ˈɛɡzaɪlz hˌuː hɐdbɪn ɐɹˈɛstᵻd wɪð hˌɪm ˌɑːn ˈɔːɡəst nˈaɪn. bɹˈɪŋɡaɪɚ klˈeɪmd ðæt ˌɑːn ˈɔːɡəst fˈaɪv, naɪntˈiːn sˈɪkstiθɹˈiː, >|2
+DUMMY8/LJ019-0346.wav|0|< ðeɪ mˌaɪt ɹˈeɪz fˈʌndz fɔːɹ ðɪs pˈɜːpəs, pɹəvˈaɪdᵻd ɐ sɚtˈɪfɪkət fɚðə nəsˈɛsɪɾi fɚðə nˈuː wˈɜːks wʌz ɡˈɪvən, ˈiːðɚ baɪ ðə ɹɪkˈoːɹdɚ >|2
+DUMMY8/LJ003-0263.wav|0|< wˌɪtʃ mˌaɪthɐv dˈʌn sˈʌmθɪŋ tʊwˈɔːɹdz ɪnkɹˈiːsɪŋ ðə pɹˈɪzən ɹɪsˈiːts, hˌædɪt nˌɑːt bˌɪn ɐpɹˈoʊpɹɪəɾᵻd baɪ ðə tˈɜːnkiː hˌuː wˈɪŋkt æt ðɪs ɪvˈeɪʒən ʌvðə ɹˈuːlz. >|2
+DUMMY9/p314_038.wav|52|< ɪf tɹˈuː, ɪt wɪl biː ðə fˈɜːst sˈaɪn ʌv dɪsˈɛnt. >|2
+DUMMY8/LJ012-0015.wav|0|< wˈiːdɑːn ænd lˈɛkəsɚ tə twˈɛlv ænd sˈɪks mˈʌnθs ɹɪspˈɛktɪvli ɪn kˈoʊldbæθ fˈiːldz. >|2
+DUMMY8/LJ015-0058.wav|0|< bˈeɪts, ðə lˈiːst ɡˈɪlti, wʌz pˈɑːɹdənd ɪn eɪtˈiːn fˈɪftiˈeɪt. >|2
+DUMMY8/LJ009-0052.wav|0|< ðə θˈɜːd kˈɑːnvɪkt ɪz ɐ ʃˈiːpstˈiːlɚ, ɐ pˈʊɹ ˈɪɡnɚɹənt fˈɛloʊ ɪn hˌuːz kɹˈaɪm ɑːɹ mˈɪɾᵻɡˌeɪɾɪŋ sˈɜːkəmstˌænsᵻz, >|2
+DUMMY8/LJ032-0192.wav|0|< ðə ɹˈaɪfəl jˈuːzd ɪnðɪ ɐsˌæsᵻnˈeɪʃən pɹˈɑːbəbli hɐdbɪn ɹˈæpt ɪn ɐ blˈæŋkɪt fɔːɹ ɐbˌaʊt ˈeɪt wˈiːks pɹˈaɪɚ tə noʊvˈɛmbɚ twˈɛntitˈuː. >|2
+DUMMY8/LJ043-0063.wav|0|< nˌɑːt ˈoʊnli kˈɔːzd hˌɪm dˈɪfɪkˌʌltɪz ɪn hɪz ɛmplˈɔɪmənt ɹɪlˈeɪʃənz, bˌʌt ðeɪ ˈɑːlsoʊ pɹəvˈaɪdᵻd hˌɪm wɪð ɛkskjˈuːsᵻz fɔːɹ ɛmplˈɔɪmənt fˈeɪlɪɹz >|2
+DUMMY8/LJ029-0059.wav|0|< dˈæləs dɪtˈɛktɪvz ɪnðə lˈɑːbi ʌvðə tɹˈeɪd mˈɑːɹt ænd ɪnðə lˈʌntʃən ˈɛɹiə ˈɑːlsoʊ hɐd kˈɑːpɪz ʌv ðiːz fˈoʊɾəɡɹˌæfz. >|2
+DUMMY8/LJ028-0250.wav|0|< sˈʌtʃ, ðˈɛn, wɜː ðə sˈɜːkəmstˌænsᵻz ʌvðə fˈɜːst tˈeɪkɪŋ ʌv bˈæbɪlən. >|2
+DUMMY8/LJ012-0176.wav|0|< tʊ əbtˈeɪn pəzˈɛʃən ʌv ðˈɪs, θˈɜːɾɛl wɪð hɪz tˈuː ɐsˈoʊsɪˌeɪts ɹɪzˈɑːlvd tə kˈɪl hˌɪm. >|2
+DUMMY8/LJ020-0071.wav|0|< wˈʌn tˈeɪbəlspˌuːnfəl ʌv bˈʌɾɚ, dʒˈʌst mˈɛltᵻd, nˌɑːt hˈɑːt. >|2
+DUMMY8/LJ016-0268.wav|0|< ðə ɹɪmˈɑːɹks hˈɜːd ɐmˌʌŋst ðə kɹˈaʊd wɜːɹ ʌv kˈoːɹs ɐpɹˈuːvəl. >|2
+DUMMY8/LJ026-0148.wav|0|< wˈɔːɾɚ wˌɪtʃ ɪz lˈɔst baɪ ɪvˌæpɚɹˈeɪʃən, ɪspˈɛʃəli fɹʌmðə lˈiːf sˈɜːfɪs θɹuː ðə stˈoʊməɾə; >|2
+DUMMY8/LJ049-0151.wav|0|< ɹɪspˌɑːnsəbˈɪlɪɾiz fɔːɹ pɹˌɛzɪdˈɛnʃəl pɹətˈɛkʃən >|2
+DUMMY8/LJ008-0185.wav|0|< bɪwˈɛɹ ʌv ˈɛntɚɹɪŋ ðə kɹˈaʊd! ɹɪmˈɛmbɚ θˈɜːɾi pˈʊɹ pˈɜːsənz wɜː pɹˈɛst tə dˈɛθ baɪ ðə kɹˈaʊd wɛn hˈæɡɚɾi ænd hˈɑːləwˌeɪ wɜːɹ ˈɛksɪkjˌuːɾᵻd! >|2
+DUMMY9/p314_067.wav|52|< lˈɛts sˈiː ðæt ˈɪŋkɹiːs ˌoʊvɚ ðə jˈɪɹz. >|2
+DUMMY8/LJ047-0096.wav|0|< ðə pəlˈiːs kˈɔːld ðə lˈoʊkəl ˌɛfbˌiːˈaɪ ˈɑːfɪs ænd ɐn ˈeɪdʒənt, dʒˈɑːn ˈɛl. kwˈɪɡli, wʌz sˈɛnt tə ðə pəlˈiːs stˈeɪʃən. >|2
+DUMMY8/LJ029-0095.wav|0|< ˈiːvən bɪfˌoːɹ ðə tɹˈeɪd mˈɑːɹt hɐdbɪn dˈɛfɪnətli sɪlˈɛktᵻd, lˈɔːsən ænd sˈɔːɹəlz bɪɡˈæn tə kənsˈɪdɚ ðə bˈɛst mˈoʊɾɚkˌeɪd ɹˈaʊt fɹʌm lˈʌv fˈiːld tə ðə tɹˈeɪd mˈɑːɹt. >|2
+DUMMY8/LJ010-0287.wav|0|< bˌʌt ðɪs wʌz nˌɑːt səfˈɪʃənt tə kˈɑːnstɪtˌuːt lˈuːnəsi, nˈɔːɹ wʌz hɪz plˈiː ʌv "mˈoʊməntˌɛɹi ʌnkəntɹˈoʊləbəl ˈɪmpʌls" >|2
+DUMMY8/LJ025-0080.wav|0|< fˈaɪnəli ɐmˈɪd ðə lˈoʊəst fˈɔːɹmz ʌv ˈænɪməl lˈaɪf ðə spˈɛk ʌv dʒɛlˈætɪnəs pɹˈoʊɾoʊplˌæzəm, wˌɪtʃ kˈɑːnstɪtˌuːts ðə hˈoʊl bˈɑːdi, >|2
+DUMMY8/LJ031-0223.wav|0|< ɹˈʌnɪŋ ɪn ɐ lˈaɪn fɹʌmðə wˈuːnd ɪnðə ɹˈɪɹ ʌvðə pɹˈɛzɪdənts hˈɛd tʊwˈɔːɹd ðə fɹˈʌnt pˈɑːɹt ʌvðə skˈʌl, >|2
+DUMMY8/LJ003-0174.wav|0|< mˈɪstɚ dˈævɪsən, sˈɛnt tə nˈuːɡeɪt fɔːɹ ɛmbˈɛzəlmənt, ænd hˌuːz kˈeɪs ɪz ɡˈɪvən ɪnðə pɹɪsˈiːdɪŋ tʃˈæptɚ, >|2
+DUMMY9/p314_389.wav|52|< æt ðɪs lˈɛvəl, juː hæv ˈɔːl tə pɚfˈɔːɹm wˈɛl. >|2
+DUMMY8/LJ016-0410.wav|0|< nˈɑːdᵻd plˈɛzəntli tə ðə ɡˈʌvɚnɚ, hˌuː stˈʊd dʒˈʌst ˈɑːpəsˌɪt, ænd ðˈɛn wˈɔːkt bɹˈɪskli tʊwˈɔːɹdz ðɪ ˌɛksɪkjˈuːʃən ʃˈɛd, smˈaɪlɪŋ æz hiː wɛnt ɐlˈɑːŋ. >|2
+DUMMY8/LJ044-0094.wav|0|< wiː fˈɪɡɚd ˈæftɚ ðɪs bɹˈɔːdkæst ʌv ˈɔːɡəst twˈɛntiwˌʌn, wˈaɪ, ðæt wʌz nˌoʊ lˈɑːŋɡɚ pˈɑːsəbəl, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ009-0202.wav|0|< ɪn eɪtˈiːn ɪlˈɛvən wˈɪljəmz, hˌuː mˈɜːdɚd ðə mˈɑːɹz ɪn ɹˈætklɪf hˈaɪweɪ, hˌævɪŋ kəmˈɪɾᵻd sˈuːɪsˌaɪd ɪn dʒˈeɪl tʊ ɛskˈeɪp hˈæŋɪŋ, >|2
+DUMMY8/LJ028-0208.wav|0|< nˈæbənˌɪdəs flˈɛd. >|2
+DUMMY8/LJ003-0109.wav|0|< hiː fˈaʊnd hiː mˈʌst ɐdˈɑːpt ðə mˈænɚz ʌv hɪz kəmpˈæniənz, ɔːɹ ðæt hɪz lˈaɪf wʊd biː ɪn dˈeɪndʒɚ. >|2
+DUMMY8/LJ015-0173.wav|0|< wˈɔːɹənts wɜːɹ ˈɪʃuːd fɔːɹ ɹˈɛdpæθz ɐɹˈɛst, bˌʌt hiː hɐd flˈoʊn tə pˈæɹɪs. >|2
+DUMMY8/LJ016-0261.wav|0|< sˌaɪməltˈeɪniəsli, ʌvðə fˈaɪv pˈaɪɹəts, pˈɑːɹt ʌvðə mjˈuːtɪnəs kɹˈuː ʌvðə flˈaʊɚɹi lˈænd,wʌz ɡɹˈeɪɾɚ ðɐn ˌɑːn ˌɛni pɹˈiːvɪəs əkˈeɪʒən. >|2
+DUMMY8/LJ018-0305.wav|0|< ðə bˈɪlz wɜː sˈɛnt æz ɐ mˈæɾɚɹ ʌv fˈɔːɹm tə ðə dɹˈɔːɹ tə hæv ðə dˈeɪt ˈædᵻd, ænd ðə fˈɔːɹdʒɚɹi wʌz ɐtwˈʌns dɪtˈɛktᵻd. >|2
+DUMMY8/LJ046-0172.wav|0|< ðə sˈiːkɹət sˈɜːvɪs ɐɹˈeɪndʒᵻz fɚðə fˈæmɪli ænd fɹˈɛndz ʌvðɪ ˌɪndɪvˈɪdʒuːəl, ænd lˈoʊkəl lˈɔː ɛnfˈoːɹsmənt əfˈɪʃəlz, >|2
+DUMMY8/LJ046-0098.wav|0|< ðə hˈɪstɚɹi ʌv pɹˌɛzɪdˈɛnʃəl pɹətˈɛkʃən ʃˈoʊz ɡɹˈoʊɪŋ ɹˌɛkəɡnˈɪʃən ˌoʊvɚ ðə jˈɪɹz ðætðə dʒˈɑːb mˈʌst biː dˈʌn baɪ ˈeɪbəl, dˈɛdᵻkˌeɪɾᵻd, >|2
+DUMMY9/p244_237.wav|79|< wɪɹ nˌɑːt sˈiːɪŋ ɐn ˈɪmɪdʒ ʌvðə pˈɜːsən, hiː sˈɛd. >|2
+DUMMY8/LJ034-0116.wav|0|< ðə sˈʌspɛkt wʌz dɪskɹˈaɪbd æz, kwˈoʊt, ɐ wˈaɪt mˈeɪl ɐbˌaʊt θˈɜːɾi, fˈaɪv fˈʊt ˈeɪt, blˈæk hˈɛɹ, slˈɛndɚ, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ016-0311.wav|0|< ðæt ˌɛni sˈiːkɹəsi ɪnðə tɹˈiːtmənt ʌvðə kəndˈɛmd wʊd ɪnvˈɛst ðˌɛm wɪð ɐ nˈuː ænd ɡɹˈeɪɾɚɹ ˈɪntɹəst, wˌɪtʃ wʌz mˈʌtʃ təbi dˈɛpɹɪkˌeɪɾᵻd. >|2
+DUMMY8/LJ002-0279.wav|0|< ðə ɡˈɪltspʊɹ stɹˈiːt kəmptˈɜː ɹɪsˈiːvd ʃˈɛɹɪfs dˈɛɾɚz, ˈɑːlsoʊ fˈɛlənz, vˈeɪɡɹənts, ænd nˈaɪt tʃˈɑːɹdʒᵻz. >|2
+DUMMY9/p259_182.wav|8|< ɪf ðæts ðə kˈeɪs, hiː wɪl stɹˈʌɡəl. >|2
+DUMMY8/LJ012-0099.wav|0|< ðə θˈiːvz ɪt wʌz sʌpˈoʊzd hɐd sɛkɹˈiːɾᵻd ðɛmsˈɛlvz ɪnðə wˈɛɹhaʊs dˈʊɹɪŋ bˈɪznəs ˈaɪʊɹz, ænd wˈeɪɾᵻd tˈɪl nˈaɪt tə kˈæɹi ˈaʊt ðɛɹ plˈænz. >|2
+DUMMY9/p271_424.wav|28|< ðæt dˈiːl wɪl biː dᵻsˈaɪdᵻd ˌʌndɚ ðɪ ɛɡzˈɪstɪŋ ɹˈuːlz. >|2
+DUMMY9/p279_109.wav|26|< fɔːɹ ðiːz pˈiːpəl, ðə ɹˈuːlɪŋ ɪz vˈɛɹi wˈɛlkʌm. >|2
+DUMMY8/LJ024-0014.wav|0|< ðə nˈʌmbɚɹ ʌv dʒˈʌdʒᵻz təbi ɐpˈɔɪntᵻd wʊd dɪpˈɛnd hˈoʊli ɑːnðə dᵻsˈɪʒən ʌv pɹˈɛzənt dʒˈʌdʒᵻz nˈaʊ ˌoʊvɚ sˈɛvənti, >|2
+DUMMY8/LJ013-0205.wav|0|< lˈeɪɾɚɹ ɪnðə dˈeɪ hiː tɹˈaɪd tə kəmˈɪt sˈuːɪsˌaɪd baɪ kɹˈæmɪŋ ɐ tˈaʊəl dˌaʊn hɪz θɹˈoʊt, bˌʌt wʌz pɹɪvˈɛntᵻd. >|2
+DUMMY8/LJ050-0069.wav|0|< ðə sˈiːkɹət sˈɜːvɪs hɐd ɹɪsˈiːvd fɹʌmðɪ ˌɛfbˌiːˈaɪ sˌʌm nˈaɪn θˈaʊzənd ɹɪpˈoːɹts ˌɑːn mˈɛmbɚz ʌvðə kˈɑːmjuːnˌɪst pˈɑːɹɾi. >|2
+DUMMY8/LJ014-0142.wav|0|< wʌz stɹˈuːn ɪn fɹˈʌnt ʌvðə dˈɑːk, ænd spɹˈɪŋkəld ɪt tʊwˈɔːɹdz ðə bˈɛntʃ wɪð ɐ kəntˈɛmptʃuːəs dʒˈɛstʃɚ. >|2
+DUMMY8/LJ023-0007.wav|0|< ˈaɪ æm ɹɪmˈaɪndᵻd ʌv ðæt ˈiːvnɪŋ ɪn mˈɑːɹtʃ, fˈoːɹ jˈɪɹz ɐɡˈoʊ, wˌɛn ˈaɪ mˌeɪd maɪ fˈɜːst ɹˈeɪdɪˌoʊ ɹɪpˈoːɹt tə juː. >|2
+DUMMY8/LJ046-0091.wav|0|< sˈʌtʃ ɹˈɪsks kæn biː lˈɛsənd wɛn ðə pɹˈɛzɪdənt ɹˈɛkəɡnˌaɪzɪz ðə sɪkjˈʊɹɪɾi pɹˈɑːbləm, >|2
+DUMMY8/LJ017-0099.wav|0|< kˈʊk ɹɪkˈʌvɚd ðɪs tˈaɪm; ɪt wʌz pɹˈɑːbəbli pˈɑːmɚz ɪntˈɛnʃən ðæt hiː ʃˌʊd ɹɪkˈʌvɚ, wˈɪʃɪŋ tʊ ɛnkˈɜːɹɪdʒ ðə sˌʌpəzˈɪʃən ðæt kˈʊk wʌz ɪn ɐ bˈæd wˈeɪ. >|2
+DUMMY8/LJ026-0124.wav|0|< ɪnðə plˈænt, stˈɑːɹtʃ, æz hɐzbɪn sˈiːn, ɪz fˈɜːst fˈɔːɹmd ɪnðə klˌoːɹoʊfˈɪlbˈɑːdɪz. >|2
+DUMMY8/LJ050-0183.wav|0|< ɐdvˈaɪs baɪ ðə sˈiːkɹət sˈɜːvɪs tə lˈoʊkəl pəlˈiːs ɪn mˌɛtɹəpˈɑːlɪtən ˈɛɹiəz ɹɪlˈeɪɾɪŋ tə ðɪ ɐsˈɪstəns ɛkspˈɛktᵻd ɪn kənˈɛkʃən wɪð ɐ pɹˌɛzɪdˈɛnʃəl vˈɪzɪt >|2
+DUMMY8/LJ050-0016.wav|0|< ðɪs spˈɛʃəl ɐsˈɪstənt ʃˌʊd biː ɹɪkwˈaɪɚd tə hæv səfˈɪʃənt stˈætʃɚ ænd ɛkspˈiəɹɪəns ɪn lˈɔː ɛnfˈoːɹsmənt, ɪntˈɛlɪdʒəns, ɔːɹ ˈælaɪd fˈiːldz >|2
+DUMMY9/p244_233.wav|79|< ðɛɹ ɪz ɐ lˈɑːt ʌv kənsˈɜːn. >|2
+DUMMY8/LJ010-0116.wav|0|< ɑːnðə wˈʌn ɪnvˈeɪɡlɪŋ sˈɪli ɛnθˈuːzɪˌæsts tə dʒˈɔɪn ɪnðə plˈɑːt, ænd dɪnˈaʊnsɪŋ ðˌɛm ɑːnðɪ ˈʌðɚ. >|2
+DUMMY8/LJ045-0247.wav|0|< hɪz kəmˈɪtmənt tə mˈɑːɹksɪzəm ænd kˈɑːmjuːnˌɪzəm ɐpˈɪɹz tə hɐvbɪn ɐnˈʌðɚɹ ɪmpˈoːɹtənt fˈæktɚɹ ɪn hɪz mˌoʊɾɪvˈeɪʃən. >|2
+DUMMY8/LJ018-0094.wav|0|< fˈɔːɹdʒd tʃˈɛkz ænd bˈɪlz wɜː sˈuːn ˈʌɾɚd ɪn ɡɹˈeɪt nˈʌmbɚz, æz wˈɛl æz bˈeɪs kˈɔɪn. >|2
+DUMMY8/LJ024-0005.wav|0|< hɐz ɹˈiːtʃt ðɪ ˈeɪdʒ ʌv sˈɛvənti ænd dʌznˌɑːt ɐvˈeɪl hɪmsˈɛlf ʌvðɪ ɑːpɚtˈuːnɪɾi tə ɹɪtˈaɪɚɹ ˌɑːn ɐ pˈɛnʃən, >|2
+DUMMY9/p244_206.wav|79|< wiː kæn tˈeɪk ðə sˈɪɾi. >|2
+DUMMY8/LJ027-0033.wav|0|< ɑːnðɪ ˈʌðɚ hˈænd, ɛkstˈɜːnəl stɹˈʌktʃɚz ɑːɹ lˈaɪkli tʊ ˌʌndɚɡˈoʊ ɐdɐptˈeɪʃən wɛn hˈæbɪts ɔːɹ kəndˈɪʃənz ʌv lˈaɪf tʃˈeɪndʒ. >|2
+DUMMY8/LJ039-0086.wav|0|< ˈaɪ kənsˈɪdɚɹ ɪt ɐ ɹˈiːəl ɐdvˈæntɪdʒ, pɚtˈɪkjʊlɚli æt ðə ɹˈeɪndʒ ʌv wˈʌn hˈʌndɹəd jˈɑːɹdz, ɪn aɪdˈɛntɪfˌaɪɪŋ jʊɹ tˈɑːɹɡɪt. >|2
+DUMMY8/LJ047-0220.wav|0|< ðæt ɪn vjˈuː ʌvðə pɹˈɛzɪdənts vˈɪzɪt tə dˈæləs, ðæt ɪf ˈɛnɪwˌʌn hˌæd ɛni ˌɪndɪkˈeɪʃən ʌv ˌɛni pˌɑːsəbˈɪlɪɾi ʌv ˌɛni ˈækts ʌv vˈaɪələns ɔːɹ ˌɛni dˌɛmənstɹˈeɪʃənz ɐɡˈɛnst ðə pɹˈɛzɪdənt, >|2
+DUMMY8/LJ015-0121.wav|0|< nˈuːɡeɪt ˈɑːfɪsɚz hˌuː ɹɪmˈɛmbɚ ɹˈɑːbsən stˈɪl dɪskɹˈaɪb hˌɪm æz ɐ fˈaɪn jˈʌŋ mˈæn, hˌuː bɪhˈeɪvd wˈɛl æz ɐ pɹˈɪzənɚ, >|2
+DUMMY9/p259_421.wav|8|< aɪ wʌz hˈæpi təbi ɹˈɛkəɡnˌaɪzd baɪ mˈaɪk tˈaɪsən. >|2
+DUMMY8/LJ028-0223.wav|0|< ˈaɪ ɡˈeɪv hˈiːd tə ðə nˈiːdz ʌv bˈæbɪlən ænd ɪts sˈɪɾiz, ænd ðə sˈɜːvɪtˌuːd ʌvðə bˌæbɪlˈoʊniənz, wʌtˈɛvɚ wʌz əpɹˈɛsɪv, ˈaɪ ɹɪmˈuːvd fɹʌm ðˌɛm. >|2
+DUMMY8/LJ035-0066.wav|0|< ɪn ɐn ˈɛfɚt tə dɪtˈɜːmɪn wˈɛðɚɹ ˈɑːswəld kˌʊdɐv dɪsˈɛndᵻd tə ðə lˈʌntʃ ɹuːm >|2
+DUMMY8/LJ016-0105.wav|0|< ðiːz mˈɛn wɜːɹ ˈɔːl ɪn pɹˈɪzən dɹˈɛs æt ðə tˈaɪm ʌv ðɛɹ ɛskˈeɪp, bˌʌt wˈʌn ʌv ðɛɹ nˈʌmbɚ, bˈɛl, sˈɛnt bˈæk hɪz klˈoʊðz ɐ fjˈuː dˈeɪz lˈeɪɾɚ baɪ pˈɑːɹsəlz dɪlˈɪvɚɹi, >|2
+DUMMY8/LJ035-0184.wav|0|< hiː ðˈɛn ˈɛntɚd ðə bˈɪldɪŋ ænd tˈʊk ðə fɹˈʌnt pˈæsɪndʒɚɹ ˈɛlɪvˌeɪɾɚɹ æz fˈɑːɹ æz ɪt wʊd ɡˌoʊ ðə fˈoːɹθ flˈoːɹ. >|2
+DUMMY9/p314_317.wav|52|< nˈiːðɚ wʌz ɪnvˈɑːlvd ɪn vˈaɪələns. >|2
+DUMMY9/p259_422.wav|8|< aɪm nˌɑːt ɡˌoʊɪŋ tə ɡɛt ʌpsˈɛt baɪ tˈuː kˈɑːmədi pɹəmˈoʊɾɚz. >|2
+DUMMY8/LJ009-0212.wav|0|< ðə kˈaʊntənəns ʌv wˈɪljəmz wʌz ɡˈæstli ɪnðɪ ɛkstɹˈiːm, ænd ðə hˈoʊl hɐd ɐn ɐpˈɪɹəns tˈuː hˈɔːɹɪbəl fɔːɹ dɪskɹˈɪpʃən. >|2
+DUMMY9/p314_100.wav|52|< hɪz tˈiːm mˈænɪdʒmənt wʌz pɹətˈɛktɪv. >|2
+DUMMY8/LJ022-0115.wav|0|< ðɪs ɪz ɐ ɡɹˈeɪt nˈæʃənəl kɹuːsˈeɪd tə dɪstɹˈɔɪ ɛnfˈoːɹst ˈaɪdəlnəs wˌɪtʃ ɪz ɐn ˈɛnəmi ʌvðə hjˈuːmən spˈɪɹɪt >|2
+DUMMY8/LJ010-0108.wav|0|< ðə tɹˈaɪəl ʌvðə kənspˈɪɹəɾɚz kˈeɪm ˌɑːn sˌʌm sˈɪks wˈiːks lˈeɪɾɚ, æt ðɪ ˈoʊld bˈeɪli. >|2
+DUMMY9/p279_267.wav|26|< aɪɐm tˈoʊɾəli hˈɔːɹɪfˌaɪd baɪ ðə sˈɛntəns. >|2
+DUMMY8/LJ024-0057.wav|0|< wˌaɪ ðˈɛn ʃˌʊd wiː lˈiːv ðə fʊlfˈɪlmənt ʌv ðɪs pˈʌblɪk pˈɑːlɪsi tə tʃˈæns >|2
+DUMMY8/LJ027-0172.wav|0|< ðə pˈɛɹɪnˌɪbɹæntʃ pˈæsᵻz θɹuː ðə fˈɪʃ stˈeɪdʒ tə ðə pˈɛɹɪnˌɪbɹæntʃ æmfˈɪbiən. >|2
+DUMMY8/LJ007-0113.wav|0|< wɜː ɹɪvˈaɪvd fɚðə kənvˈiːnɪəns ʌv ðiːz dʒˈɛntəlmən, hˌuːz ɪnkˌɑːɹsɚɹˈeɪʃən wʌz ðˈʌs ɹˈɛndɚd æz lˈɪɾəl lˈaɪk ɪmpɹˈɪzənmənt æz pˈɑːsəbəl. >|2
+DUMMY8/LJ047-0141.wav|0|< ɪn ˈɜːli ɑːktˈoʊbɚɹ ʌv naɪntˈiːn sˈɪkstiθɹˈiː. >|2
+DUMMY8/LJ016-0195.wav|0|< ænd ˈɑːfɚd hˌɪm ðə pˈoʊst ʌv ˌɛksɪkjˈuːʃənɚ fɚðə sˈɪɾi ʌv lˈʌndən ænd mˈɪdəlsˌɛks. >|2
+DUMMY8/LJ007-0116.wav|0|< ɐ fjˈuː ˈʌðɚz, hˌuː kʊd nˌɑːt ɐfˈoːɹd ɐ pˈeɪmənt ʌv mˈoːɹ ðɐn hˈæf ɐ ɡˈɪni, wɜː pɚmˈɪɾᵻd tə mˈɑːnoʊpˌɑːlaɪz ɐ pˈɑːɹt ʌvðə pɹˈɪzən ɪnfˈɜːmɚɹi, >|2
+DUMMY8/LJ024-0076.wav|0|< ɪf sˈʌtʃ ɐ lˈɔː æz ˈaɪ pɹəpˈoʊz ɪz ɹɪɡˈɑːɹdᵻd æz ɪstˈæblɪʃɪŋ ɐ nˈuː pɹˈɛsɪdənt, >|2
+DUMMY9/p279_226.wav|26|< aɪd nˈɛvɚ sˈiːn ɐ plˈeɪ ɐbˈaʊt mˌiː. >|2
+DUMMY9/p313_079.wav|77|< ðeɪ mˈʌst biː kˈɛpt ɔnðə ɡɹˈaʊnd. >|2
+DUMMY8/LJ003-0283.wav|0|< ɪt wʌz nˌɑːt stɹˈeɪndʒ, ðˈɛɹfoːɹ, ðætðɪ ˈɪnmeɪts ʌv nˈuːɡeɪt ʃˌʊd tˈɜːn ðɛɹ ʌnˈɑːkjʊpˌaɪd bɹˈeɪnz ænd ˈaɪdəl hˈændz tʊ ˈɔːl mˈænɚɹ ʌv mˈɪstʃᵻf; >|2
+DUMMY8/LJ012-0090.wav|0|< hiː wɛnt ˈaʊt nˈɛkst mˈɔːɹnɪŋ wɪððə bˈuːɾi wɛn ðə dˈoːɹz wɜː ɹˌiːˈoʊpənd, ænd ɐtɹˈæktᵻd nˈoʊ ɐtˈɛnʃən. >|2
+DUMMY9/p314_191.wav|52|< ðeɪ hɐdbɪn təɡˌɛðɚ fɔːɹ ɐbˌaʊt θɹˈiː jˈɪɹz. >|2
+DUMMY8/LJ042-0186.wav|0|< wˌɪtʃ wɪl bɹˈɪŋ ɐbˌaʊt ðə fˈaɪnəl dɪstɹˈʌkʃən ʌvðə kˈæpɪɾəlˌɪst sˈɪstəm, ænd ˈɪndᵻkˌeɪɾᵻd ðˈæt >|2
+DUMMY8/LJ037-0208.wav|0|< naɪntˈiːn dˈɑːlɚz, nˈaɪntifˈaɪv sˈɛnts, plˈʌs wˈʌn dˈɑːlɚ, twˈɛntisˈɛvən sˈɛnts ʃˈɪpɪŋ tʃˈɑːɹdʒ, hɐdbɪn kəlˈɛktᵻd fɹʌmðə kənsˈaɪniː, hˈaɪdəl. >|2
+DUMMY8/LJ039-0122.wav|0|< ðɛɹ ɪz sˌʌm pˌɑːsəbˈɪlɪɾi ðætðə ɹˈaɪfəl hiː wʌz fˈaɪɚɹɪŋ mˌaɪt nˌɑːɾɐv bˌɪn æz ɡˈʊd ɐ ɹˈaɪfəl æz ðə ɹˈaɪfəl ðæt hiː wʌz fˈaɪɚɹɪŋ ɪn hɪz ɐ kˈoːɹs fˈaɪɚɹɪŋ, >|2
+DUMMY8/LJ008-0214.wav|0|< ðə sˈaʊndz ʌv hˈæmɚ ænd sˈɔː ɪntˈɜːmɪŋɡəld wɪððə bɹˈɔːd dʒˈɪɹz ænd kˈoːɹs dʒˈɛsts ʌvðə ɹˈæpɪdli ɪnkɹˈiːsɪŋ mˈɑːb. >|2
+DUMMY8/LJ036-0106.wav|0|< juː kˌʊdɐv pˈɪkt hˌɪm ˈaʊt wɪðˌaʊt aɪdˈɛntɪfˌaɪɪŋ hˌɪm baɪ dʒˈʌst lˈɪsənɪŋ tə hˌɪm. >|2
+DUMMY8/LJ017-0084.wav|0|< ɪt wʌz ðɛɹ ðæt kˈʊk wʌz fˈɜːst tˈeɪkən ˈɪl wɪð vˈaɪələnt ɹˈɛtʃɪŋz ænd vˈɑːmɪɾɪŋz, ˈɔːl dˈeɪɾɪŋ fɹʌm vˈɪzɪts ʌv pˈɑːmɚ, hˌuː bɹˈɔːt hˌɪm mˈɛdəsənz ænd fˈuːd. >|2
+DUMMY8/LJ040-0113.wav|0|< ðeɪ mˈuːvd ʃˈɔːɹtli ˈæftɚ ɹˈɑːbɚt dʒˈɔɪnd ðə mɚɹˈiːnz; ðeɪ lˈɪvd fɚɹə tˈaɪm wɪð dʒˈɑːn pˈɪk hˌuː wʌz stˈeɪʃənd ðɛɹ wɪððə kˈoʊst ɡˈɑːɹd. >|2
+DUMMY8/LJ023-0099.wav|0|< ɪnðə kˈeɪs hˈoʊldɪŋ ðə nˈuː jˈɔːɹk mˈɪnɪməm wˈeɪdʒ lˈɔː ʌnkˌɑːnstɪtˈuːʃənəl, dʒˈʌstɪs stˈoʊn sˈɛd >|2
+DUMMY8/LJ046-0198.wav|0|< æt ðə ɹɪkwˈɛst ʌv spˈɛʃəl ˈeɪdʒənt lˈɔːsən, ɐdvˈæns ˈeɪdʒənt fɔːɹ pɹˈɛzɪdənt kˈɛnədiz tɹˈɪp tə dˈæləs. >|2
+DUMMY9/p271_454.wav|28|< ɪts ɐ mˈɪɹəkəl. >|2
+DUMMY8/LJ042-0071.wav|0|< hiː wʌz tˈeɪkən tʊ ɐ hˈɑːspɪɾəl ɪn mˈɑːskoʊ wˌɛɹ hiː wʌz kˈɛpt ʌntˈɪl ɑːktˈoʊbɚ twˈɛntiˈeɪt, naɪntˈiːn fˈɪftinˈaɪn. >|2
+DUMMY8/LJ008-0047.wav|0|< ðɪs mˈuːvəbəl plˈætfɔːɹm ɪz ɹˈeɪzd sˈɪks ˈɪntʃᵻz hˈaɪɚ ðɐn ðə ɹˈɛst ʌvðə skˈæfoʊld, ænd ˌɑːn ɪt ðə kˈɑːnvɪkts stˈænd; >|2
+DUMMY8/LJ027-0025.wav|0|< ðə fˈækts ɐdˈuːst fɹʌm mɔːɹfˈɑːlədʒi, bˌiːɪŋ ðə ɹɪzˈʌlt ʌv ɹɪsˈɜːtʃᵻz ˌɪntʊ ðə stɹˈʌktʃɚɹ ʌv ɐdˈʌlt ˈænɪməlz ænd plˈænts, >|2
+DUMMY8/LJ038-0211.wav|0|< hiː sˈɛd ðˈæt hiː, kwˈoʊt, wʌz vˈɛɹi sˈɔːɹi ðæt hiː hɐd nˌɑːt hˈɪt hˌɪm, ˈɛnd kwˈoʊt. mɚɹˈiːnə ˈɑːswəldz tˈɛstᵻməni wʌz fˈʊli səpˈoːɹɾᵻd baɪ ðə nˈoʊt ɪtsˈɛlf >|2
+DUMMY8/LJ028-0424.wav|0|< pˈoːɹɾɚ, lˈeɪɑːɹd, ænd ɹˈɔːlɪnsən fˈɑːloʊd hˌɪm, bˌʌt ðə ɹˈiːəl saɪəntˈɪfɪk ɛksploːɹˈeɪʃən ʌv bˈæbɪlən ænd ɪts wˈɔːlz >|2
+DUMMY8/LJ041-0025.wav|0|< ɪt hɐzbɪn sədʒˈɛstᵻd ðæt ðɪs mɪsspˈɛlɪŋ ʌv nˈeɪmz, ɐpˈæɹəntli ˌɑːn ɐ fənˈɛɾɪk bˈeɪsɪs, wʌz kˈɔːzd baɪ ɐ ɹˈiːdɪŋspˈɛlɪŋ dˌɪsɐbˈɪləɾi >|2
+DUMMY8/LJ026-0029.wav|0|< sˌoʊ ɪnðə kˈeɪs ˌʌndɚ dɪskˈʌʃən. >|2
+DUMMY8/LJ036-0195.wav|0|< hiː wʌz dɪskɹˈaɪbd baɪ tʃˈiːf kˈɜːɹi æz hˌævɪŋ ðə ɹˌɛpjuːtˈeɪʃən ʌv bˈiːɪŋ "ɐ vˈɛɹi fˈaɪn, dˈɛdᵻkˌeɪɾᵻd ˈɑːfɪsɚ." >|2
+DUMMY8/LJ006-0218.wav|0|< ɹˈɛslɪŋ, ɪn wˌɪtʃ lˈɛɡz wɜːɹ əkˈeɪʒənəli bɹˈoʊkən, wʌz fɹˈiːli ɪndˈʌldʒd ˈɪn; ˈɑːlsoʊ sˈʌtʃ lˈoʊ ɡˈeɪmz æz "kˈɑːbæm," >|2
+DUMMY8/LJ046-0031.wav|0|< ðə pɹətˈɛktɪv tˈæsk ɪz fˈɜːðɚ kˈɑːmplᵻkˌeɪɾᵻd baɪ ðə ɹɪlˈʌktəns ʌv pɹˈɛzɪdənts tə tˈeɪk sɪkjˈʊɹɪɾi pɹɪkˈɔːʃənz wˌɪtʃ mˌaɪt ˌɪntəfˈɪɹ wɪððə pɚfˈoːɹməns ʌv ðɛɹ dˈuːɾɪz, >|2
+DUMMY8/LJ018-0123.wav|0|< ɐ mˈæn nˈeɪmd bˈɜːnɪt kˈeɪm wɪð hɪz wˈaɪf ænd tˈʊk ˌʌp hɪz ɹˈɛzɪdəns æt wˈɪtʃɜːtʃ, hˈæmpʃɚ, æt nˈoʊ ɡɹˈeɪt dˈɪstəns fɹʌm lˈævɚstˌɑːk, >|2
+DUMMY8/LJ011-0195.wav|0|< ðə tˈɛɹɚ ænd dɪsmˈeɪ ʌv hɜː pˈɛɹənts wɜː sˈuːn ɪntˈɛnsɪfˌaɪd baɪ ðə ɹɪsˈiːt əvə lˈɛɾɚ fɹʌm wˈeɪkfiːld, æt kˈɑːɹlaɪəl, ɐnˈaʊnsɪŋ ðə mˈæɹɪdʒ. >|2
+DUMMY8/LJ037-0083.wav|0|< bˈɑːɹbɚɹə dʒiːnˈɛt ænd vɜːdʒˈɪniə dˈeɪvɪs vjˈuːd ɐ ɡɹˈuːp ʌv fˈoːɹ mˈɛn ɪn ɐ lˈaɪnʌp ænd ˈiːtʃ wˈʌn pˈɪkt ˈɑːswəld æz ðə mˈæn hˌuː kɹˈɔst ðɛɹ lˈɔːn wˌaɪl ˈɛmptɪɪŋ hɪz pˈɪstəl. >|2
+DUMMY8/LJ034-0188.wav|0|< ˌɑːn noʊvˈɛmbɚ twˈɛntitˈuː, fˈɪʃɚ hɐd ɐpˈæɹəntli dɪskɹˈaɪbd ðə mˈæn æz, kwˈoʊt, lˈaɪthˈɛdᵻd, ˈɛnd kwˈoʊt. >|2
+DUMMY9/p314_193.wav|52|< ðæt ɪz ɐ tɹˈɛnd wˌɪtʃ wɪl biː ɛŋkˈɜːɹɪdʒd. >|2
+DUMMY8/LJ026-0019.wav|0|< ðeɪ kænˈɑːt ɪndʒˈɛst sˈɑːlɪd fˈuːd, bˌʌt ɑːɹ nˈɜːɹɪʃt baɪ ɐ wˈɔːɾɚɹi səlˈuːʃən ʌv njˈuːtɹiənt mətˈiəɹɪəlz. >|2
+DUMMY8/LJ004-0224.wav|0|< sˌoʊ plˈɛntɪfəl wʌz ðɪs dˈaɪətɚɹi, ðæt ɑːlðˈoʊ ðɪ ˈoʊld pɚmˈɪʃən ɹɪmˈeɪnd ɪn fˈoːɹs ʌv ɐlˈaʊɪŋ ðə fɹˈɛndz ʌv pɹˈɪzənɚz tə bɹˈɪŋ ðˌɛm səplˈaɪz fɹʌm aʊtsˈaɪd, >|2
+DUMMY8/LJ018-0362.wav|0|< ðə tɹˈaɪəl ʌv mˈɪs ˈɛdmʌndz wʌz tɹænsfˈɜːd tə ðə sˈɛntɹəl kɹˈɪmɪnəl kˈoːɹt ˌʌndɚ lˈɔːɹd kˈæmbəlz ˈækt, ɔːlɹˌɛdi ɹɪfˈɜːd tuː. >|2
+DUMMY8/LJ029-0005.wav|0|< ɑːlðˈoʊ ɪn mˈɛni ˈɪnstənsᵻz dˌɑːkjuːmˈɛntɚɹi ɔːɹ ˈʌðɚɹ ˈɛvɪdəns hɐz ˈɑːlsoʊ bˌɪn jˈuːzd baɪ ðə kəmˈɪʃən. >|2
+DUMMY8/LJ029-0046.wav|0|< pɹɪvˈɛntɪv ɪntˈɛlɪdʒəns æktˈɪvɪɾiz. ðə pɹətˈɛktɪv ɹɪsˈɜːtʃ sˈɛkʃən pˌiːˌɑːɹˈɛs ʌvðə sˈiːkɹət sˈɜːvɪs >|2
+DUMMY8/LJ003-0195.wav|0|< mˈɪstɚ bˈɛnɪt spˈiːks ʌv θˈɜːɾiˈeɪt kˈæpɪɾəl kˈɑːnvɪkts hiː fˈaʊnd ɪnðə pɹˈɛs jˈɑːɹd ɪn fˈɛbɹuːˌɛɹi eɪtˈiːn sˌɛvəntˈiːn, >|2
+DUMMY8/LJ021-0008.wav|0|< wiː ɑːɹ bɹˈɪŋɪŋ ˈɔːɹdɚɹ ˌaʊɾəv ðɪ ˈoʊld kˈeɪɑːs >|2
+DUMMY8/LJ019-0062.wav|0|< ðə sˈɪstəm ʌv ɐsˈoʊsɪˌeɪɾᵻd lˈeɪbɚɹ ɪn sˈaɪləns hɐd ˈɑːlsoʊ ɪts wˈɔːɹm səpˈoːɹɾɚz, >|2
+DUMMY8/LJ003-0270.wav|0|< ˈoʊɪŋ tə ðə fəsˈɪlɪɾi ʌv ˌɪntɚkˈoːɹs bɪtwˌiːn ɪnsˈaɪd ænd aʊtsˈaɪd, mˈɛni kɹˈaɪmz wɜː dˈaʊtləs hˈætʃt ɪn nˈuːɡeɪt. >|2
+DUMMY8/LJ006-0013.wav|0|< sˌɜː fɹˈɛdɪɹˌɪk ɹˈoʊ wʌz ʌvðə sˈeɪm əpˈɪniən æz ɹɪɡˈɑːɹdz ðɪ ɐpˈɔɪntmənt, bˌʌt hiː wʊd ɡˈɪv ðɪ ɪnspˈɛktɚz ðə pˈaʊɚɹ ʌv ˈæktɪŋ æz wˈɛl æz ɹɪpˈoːɹɾɪŋ. >|2
+DUMMY8/LJ010-0280.wav|0|< ˌɑːn dʒjˈuːn eɪtˈiːn fˈɪfti ðə kwˈiːn wʌz wˈʌns mˈoːɹ sʌbdʒˈɛktᵻd tə kˈaʊɚdli ˈaʊtɹeɪdʒ, ðɪ əfˈɛndɚ bˌiːɪŋ ɐ mˈɪstɚ pˈæteɪ, ɐ dʒˈɛntəlmən baɪ bˈɜːθ, >|2
+DUMMY8/LJ040-0195.wav|0|< ɪt ɐpˈɪɹz ðæt hiː dɪdnˌɑːt wˈɑːnt tə dˈuː ˌɛni ʌvðə θˈɪŋz wˌɪtʃ ðɪ ɐθˈɔːɹɪɾiz sədʒˈɛstᵻd ɪn ðɛɹ ˈɛfɚts tə bɹˈɪŋ hˌɪm ˌaʊɾəv ðə ʃˈɛl >|2
+DUMMY8/LJ004-0209.wav|0|< ðə lˈuːmz wɜː kˈɑːnstəntli bˈɪzi. tˈeɪlɚz wɜːɹ ˈɔːlweɪz æt wˈɜːk, ænd ˈɛvɹi ˈɑːɹɾɪkəl ʌv klˈoʊðɪŋ ænd bˈɛdɪŋ wʌz mˌeɪd ˌʌp wɪðˌɪn ðə wˈɔːlz. >|2
+DUMMY8/LJ001-0153.wav|0|< ˈoʊnli nˈɑːmɪnəli sˈoʊ, haʊˈɛvɚ, ɪn mˈɛni kˈeɪsᵻz, sˈɪns wɛn hiː jˈuːzᵻz ɐ hˈɛdlaɪn hiː kˈaʊnts ðæt ˈɪn, >|2
+DUMMY8/LJ049-0140.wav|0|< ðə kˈaʊnsəl ɔːlɹˌɛdi ɪnklˈuːdz, ɪn ɐdˈɪʃən tə ðə pɹˈɛzɪdənt ænd vˈaɪs pɹˈɛzɪdənt, ðə sˈɛkɹətɹˌɪz ʌv stˈeɪt ænd dɪfˈɛns ænd hɐz ɐ kˈɑːmpɪtənt stˈæf. >|2
+DUMMY8/LJ031-0079.wav|0|< hiː mˌeɪd ðɪ əfˈɪʃəl dɪtˌɜːmᵻnˈeɪʃən bɪkˈʌz ðɪ ˈʌltᵻmət kˈɔːz ʌv dˈɛθ, ðə sɪvˈɪɹ hˈɛd ˈɪndʒɚɹi, wʌz wɪðˌɪn hɪz sfˈɪɹ ʌv spˌɛʃəlaɪzˈeɪʃən. >|2
+DUMMY8/LJ031-0157.wav|0|< mˈiːnwaɪl, ðə sˈiːkɹət sˈɜːvɪs ˈeɪdʒənts ɪn tʃˈɑːɹdʒ ʌv sɪkjˈʊɹɪɾi æt lˈʌv fˈiːld stˈɑːɹɾᵻd tə mˌeɪk ɐɹˈeɪndʒmənts fɔːɹ dɪpˈɑːɹtʃɚ. >|2
+DUMMY9/p279_219.wav|26|< haʊˈɛvɚ, dˈʌndiː dɪzˈɜːvd tə wˈɪn ðɪs ɡˈeɪm. >|2
+DUMMY8/LJ003-0320.wav|0|< wˌɪtʃ ɹˌɛkəmˈɛndᵻd ɹɪstɹˈɪkʃənz əpˌɑːn ðə nˈʌmbɚɹ ʌv vˈɪzɪɾɚz ɐdmˈɪɾᵻd. >|2
+DUMMY8/LJ016-0142.wav|0|< hˌuː pɚmˈɪɾᵻd hˌɪm tə ɡˌoʊ ˌʌp ˌɑːn tə ðə ɹˈuːf ʌvðɪ ˈoʊld wˈɔːɹdz, ɪn ˈɔːɹdɚ tə θɹˈoʊ wˈɔːɾɚ fɔːɹ flˈʌʃɪŋ pˈɜːpəsᵻz dˌaʊn ɐ ʃˈuːt. >|2
+DUMMY8/LJ034-0217.wav|0|< wˈʌn ʌv ðiːz ɛmplˈɔɪiːz wʌz ɐlˈɛdʒd tə ɹɪsˈɛmbəl lˈiː hˈɑːɹvi ˈɑːswəld. >|2
+DUMMY8/LJ026-0035.wav|0|< ðɪ ˈɔːɹɡənˌɪzəm mˈʌst biː kəmpˈɛɹd ɪn diːtˈeɪl wɪð ˈɔːl ðoʊz wˌɪtʃ ɹɪsˈɛmbəl ɪt klˈoʊsli ɪn stɹˈʌktʃɚ, fˌɪzɪˈɑːlədʒi ænd lˈaɪf hˈɪstɚɹi, >|2
+DUMMY9/p259_231.wav|8|< hˈæɹi pˈɑːɾɚ hɐz lˈɔst hɪz mˈædʒɪk. >|2
+DUMMY8/LJ030-0004.wav|0|< ðə tɹˈɪp tə tˈɛksəs bɪɡˈæn wɪððə dɪpˈɑːɹtʃɚɹ ʌv pɹˈɛzɪdənt ænd mɪsˈɛs kˈɛnədi fɹʌmðə wˈaɪt hˈaʊs >|2
+DUMMY8/LJ050-0152.wav|0|< ðə sˈiːkɹət sˈɜːvɪs ænd ðə dɪpˈɑːɹtmənt ʌvðə tɹˈɛʒɚɹi nˈaʊ ɹˈɛkəɡnˌaɪz ðɪs kɹˈɪɾɪkəl nˈiːd. >|2
+DUMMY8/LJ038-0200.wav|0|< ðə sˈɪɾi dʒˈeɪl ɪz loʊkˈeɪɾᵻd æt ðɪ ˈɛnd ʌvðə bɹˈɪdʒ θɹuː wˌɪtʃ wiː ˈɔːlweɪz pˈæst ˌɑːn ɡˌoʊɪŋ tə ðə sˈɪɾi ɹˈaɪt ɪnðə bɪɡˈɪnɪŋ ʌvðə sˈɪɾi ˈæftɚ kɹˈɔsɪŋ ðə bɹˈɪdʒ. >|2
+DUMMY9/p244_276.wav|79|< ðə kˈʌmpəni stˈɪl hæd ðə kˈɑːnfɪdəns ʌv ɪts bˈæŋkɚz, hiː sˈɛd. >|2
+DUMMY8/LJ012-0222.wav|0|< plˈeɪnli pˈɔɪntɪŋ tə ðə pˌɜːpɪtɹˈeɪʃən ʌv ˈʌðɚ kɹˈaɪmz. >|2
+DUMMY8/LJ031-0104.wav|0|< æt ɐpɹˈɑːksɪmətli twˈɛlv:fˈɔːɹɾifˈaɪv pˈiː.ˈɛm., dˈɑːktɚ ɹˈɑːbɚt ʃˈɔː, >|2
+DUMMY8/LJ047-0048.wav|0|< wˌaɪl ˈɑːswəld ɹɪmˈeɪnd sˈʌmwʌt ɪvˈeɪsɪv æt ðɪs ˈɪntɚvjˌuː, hiː wʌz nˌɑːt æntˈæɡənˈɪstɪk ænd sˈiːmd dʒˈɛnɚɹəli təbi sˈɛtlɪŋ dˈaʊn. >|2
+DUMMY9/p259_323.wav|8|< wiː fˈiːl vˈɛɹi kˈʌmftəbəl ɪn ðɪs ˌɪntɚnˈæʃənəl ɛnvˈaɪɹənmənt. >|2
+DUMMY8/LJ018-0145.wav|0|< səspˈɪʃən ɐpˈɪɹz tə hæv ɹˈɛstᵻd ˌɑːn bɹˈaʊn, hˌuː hɐd lˈɛft lˈævɚstˌɑːk, >|2
+DUMMY8/LJ033-0004.wav|0|< ðə kəmˈɪʃən hɐz ɪvˈæljuːˌeɪɾᵻd ðɪ ˈɛvɪdəns tˈɛndɪŋ tə ʃˈoʊ hˌaʊ lˈiː hˈɑːɹvi ˈɑːswəldz mˈænlɪxɚkɑːɹkˈɑːnoʊ ɹˈaɪfəl, sˈiəɹɪəl nˈʌmbɚ sˈiː tˈuː sˈɛvən sˈɪks sˈɪks, >|2
+DUMMY9/p244_287.wav|79|< ɪnðə mˈiːntaɪm, ðə fˈænz wʊd sˈɛɾəl fɚɹə dˈɜːbi wˈɪn. >|2
+DUMMY8/LJ042-0172.wav|0|< mˈʌstɐv æz ɪts nˈuːklɪəs ðə tɹɐdˈɪʃənəl ˌaɪdɪəlˈɑːdʒɪkəl bˈɛst ʌv bˈoʊθ sˈɪstəmz, ænd jˈɛt biː ˈʌɾɚli əpˈoʊzd tə bˈoʊθ sˈɪstəmz. >|2
+DUMMY8/LJ018-0188.wav|0|< pɹˈɛzəntli "ˈoʊld bˈɑːb" dɹˈoʊv ˌʌp tə kˈæmbɚwˌɛl ɡˈeɪt ɪnðə sˈeɪm kˈɑːɹt ɪn wˌɪtʃ hiː hɐdbɪn sˈiːn tə stˈɑːɹt. >|2
+DUMMY8/LJ010-0300.wav|0|< mˈɪstɚ fˈɔːntəlɹˌɔɪ wʌzɐ mˈɛmbɚɹ əvə bˈæŋkɪŋ fˈɜːm, wˌɪtʃ hɪz fˈɑːðɚ hɐd ɪstˈæblɪʃt ɪn kəndʒˈʌŋkʃən wɪð ɐ dʒˈɛntəlmən ʌvðə nˈeɪm ʌv mˈɑːɹʃ, ænd ˈʌðɚz. >|2
+DUMMY8/LJ003-0122.wav|0|< ðə pɹˈɪzənɚ mˈɛnʃənd əbˌʌv wʌz kəntˈɪnjuːəli pˈɜːsɪkjˌuːɾᵻd baɪ tɹˈaɪəlz ʌv ðɪs kˈaɪnd. >|2
+DUMMY9/p314_111.wav|52|< ɪz maɪ wˈaɪf ɐ ɹˈeɪsɪst? >|2
+DUMMY8/LJ038-0157.wav|0|< ðɪ ˈoʊnli ɛmplˈɔɪiː æt ðə dɪpˈɑːsɪtˌoːɹi bˈɪldɪŋ nˈeɪmd "dʒˈuːnjɚ" wʌz dʒˈeɪmz dʒˈɑːɹmən, dʒˈuːnjɚ >|2
+DUMMY8/LJ011-0251.wav|0|< mˈʌleɪ pɹətˈɛstᵻd, ænd ðˈɛn hˈaʊɚd, ˌʌndɚ ðɪ ˈɪnfluːəns ʌv ʌnɡˈʌvɚnəbəl ɹˈeɪdʒ, æz ɪt sˈiːmd, dʒˈʌmpt ˈʌp, >|2
+DUMMY8/LJ029-0086.wav|0|< wˈʌns ðə tɹˈeɪd mˈɑːɹt hɐdbɪn sɪlˈɛktᵻd, sˈɔːɹəlz ænd lˈɔːsən wˈɜːkt ˈaʊt diːtˈeɪld ɐɹˈeɪndʒmənts fɔːɹ sɪkjˈʊɹɪɾi æt ðə bˈɪldɪŋ. >|2
+DUMMY8/LJ003-0333.wav|0|< bˌʌt hˈɪɹ ðə ɹˌɛkəmɛndˈeɪʃənz tˈʌtʃt ɐtwˈʌns əpˌɑːn ðə dˈɛlᵻkət sˈʌbdʒɛkt ʌv ɛkspˈɛns, ænd ɪt ɪz klˈɪɹ ðætðə kəmˈɪɾi hˈɛsᵻtˌeɪɾᵻd ˌɑːn ðɪs skˈoːɹ. >|2
+DUMMY8/LJ014-0264.wav|0|< ˌʌndɚ hɪz ˈɔːspɪsᵻz sˈɛvɹəl "stˈɑːɹz" ɐpˈɪɹd ɑːnðə bˈoːɹdz ʌvðə mˈɛɹaɪlbˌoʊn θˈiəɾɚ, >|2
+DUMMY8/LJ043-0014.wav|0|< ˈɑːswəld wʌz, kwˈoʊt, vˈɛɹi, vˈɛɹi dˌɪsɐɡɹˈiːəbəl ænd dˌɪsɐpˈɔɪntᵻd, ˈɛnd kwˈoʊt, >|2
+DUMMY8/LJ001-0081.wav|0|< tˈaɪp kˈæst fɹʌm hɪz mˈeɪtɹɪsˌiːz ɪz stˈɪl ɪn ˈɛvɹɪdˌeɪ jˈuːs. >|2
+DUMMY8/LJ010-0138.wav|0|< ænd dˈaɪd ɪn ɐ mˈænɚ stɹˈɔŋli kəntɹˈæstɪŋ wɪð ðæt ʌv hɪz fˈɛloʊz. >|2
+DUMMY8/LJ010-0112.wav|0|< hiː hɐdbɪn ɪn ɐ stˈeɪt ʌv ˈæbdʒɛkt mˈɪzɚɹi, ænd wɛn hiː fˈɜːst dʒˈɔɪnd "ðə ɹɪfˈoːɹmɚz," æz ðə kˈɑːɾoʊ stɹˈiːt kənspˈɪɹəɾɚz kˈɔːld ðɛmsˈɛlvz, >|2
+DUMMY8/LJ019-0140.wav|0|< æt tˈaɪmz ˌɑːn lˈɑːŋ tˈɜːmz ʌv ɪmpɹˈɪzənmənt, ænd fɚðə tɹˈænspoːɹts, hˈuːm ðə hˈoʊm ˈɑːfɪs wɜːɹ ˈɔfən, æz ʌv ˈoʊld, slˈoʊ tə ɹɪmˈuːv. >|2
+DUMMY8/LJ050-0128.wav|0|< mˈʌtʃ jˈuːsfəl ˌɪnfɚmˈeɪʃən wɪl kˈʌm tə ðɪ ɐtˈɛnʃən ʌv lˈoʊkəl lˈɔː ɛnfˈoːɹsmənt ˈeɪdʒənsiz ɪnðə ɹˈɛɡjuːlɚ kˈoːɹs ʌv ðɛɹ æktˈɪvɪɾiz, >|2
+DUMMY8/LJ011-0185.wav|0|< fˈɪlɪəl ɐfˈɛkʃən ɹˈoʊz suːpˈiəɹɪɚ tʊ ˈɔːl skɹˈuːpəlz, ænd mˈɪs tˈɜːnɚ, hˌævɪŋ kɹˈɔst ðə bˈoːɹdɚ, wʌz mˈæɹɪd tə wˈeɪkfiːld >|2
+DUMMY9/p313_165.wav|77|< ɡˈɑːlf ɪz ɐ ɡˈeɪm ʌv ˈɑːnɚ ænd ˈɛθɪks. >|2
+DUMMY9/p259_089.wav|8|< wˌʌt dˈuː wiː dˈuː ? >|2
+DUMMY9/p259_138.wav|8|< skˈɑːtlənd wɪl fˈɪnɪʃ ðə ɡɹˈuːp ɪn sˈɛkənd plˈeɪs. >|2
+DUMMY9/p259_012.wav|8|< θɹuːˈaʊt ðə sˈɛntʃɚɹiz pˈiːpəl hæv ɛksplˈeɪnd ðə ɹˈeɪnboʊ ɪn vˈɛɹiəs wˈeɪz. >|2
+DUMMY9/p259_082.wav|8|< ðə sˈɪɾi kˈaʊnsəl ɪz ɐ mˈeɪdʒɚ pɹˈɑːpɚɾi ˈoʊnɚɹ ɪnðɪ ˈɛɹiə. >|2
+DUMMY8/LJ005-0252.wav|0|< ɐ kəmˈɪɾi wʌz ɐpˈɔɪntᵻd, ˌʌndɚ ðə pɹˈɛzɪdənsi ʌvðə dˈuːk ʌv ɹˈɪtʃmənd >|2
+DUMMY8/LJ032-0047.wav|0|< ɐkˈoːɹdɪŋ tə ðə vˈaɪs pɹˈɛzɪdənt ʌv klˈaɪnz, wˈɪljəm wˈɑːldmən, >|2
+DUMMY8/LJ030-0029.wav|0|< ˈæftɚɹ ɐ wˈɛlkʌm fɹʌmðə dˈæləs ɹɪsˈɛpʃən kəmˈɪɾi, >|2
+DUMMY8/LJ041-0111.wav|0|< fɔːɹ pəzˈɛsɪŋ ɐn ʌnˈɔːθɚɹˌaɪzd pˈɪstəl wɪð wˌɪtʃ hiː hɐd ˌæksɪdˈɛntəli ʃˈɑːt hɪmsˈɛlf. >|2
+DUMMY8/LJ013-0162.wav|0|< ɐ bˈʌndəl lˈaɪɪŋ ɑːnðə flˈoːɹ, æz ðˌoʊ θˈiːvz hɐdbɪn ˌɪntɚɹˈʌptᵻd ɪnðɪ ˈækt. >|2
+DUMMY8/LJ004-0128.wav|0|< kˈeɪpəbəl ʌv ɐkˈɑːmədˌeɪɾɪŋ ˈoʊnli ˈeɪt θˈaʊzənd fˈaɪv hˈʌndɹəd ænd fˈɔːɹɾifˈaɪv pˈɜːsənz, æz mˈɛni æz θɜːtˈiːn θˈaʊzənd ænd fˈɪftisˈɛvən wɜː kɹˈaʊdᵻd. >|2
+DUMMY8/LJ016-0065.wav|0|< tə wˈɔːk ˈaʊt ˌɪntʊ ðə stɹˈiːt wʌz ɐn ˈiːzi ɐfˈɛɹ, ænd hiː wʌz nˈaʊ fɹˈiː, wɪð wˈʌn ænd fˈoːɹpəns ɪn hɪz pˈɑːkɪt ænd ɐ ʃˈɜːt ænd tɹˈaʊsɚz fɔːɹ ˈɔːl hɪz klˈoʊðɪŋ. >|2
+DUMMY8/LJ026-0086.wav|0|< ðə kᵻnˈɛɾɪk ˈɛnɚdʒi ʌv sˈʌnlaɪt wʌz ɛkspˈɛndᵻd ɪn lˈɪftɪŋ ðɪ ˈæɾəmz ˌɪntʊ pəzˈɪʃən ʌv vˈæntɪdʒ, ðˈʌs ɛndˈaʊɪŋ ðˌɛm wɪð ˈɛnɚdʒi ʌv pəzˈɪʃən. >|2
+DUMMY8/LJ018-0038.wav|0|< ænd mˈʌlɚɹ æt ðə tˈaɪm ʌv hɪz kˈæptʃɚ wʌz ˈæktʃuːəli wˈɛɹɪŋ mˈɪstɚ bɹˈɪɡz hˈæt, kˈʌt dˌaʊn ænd sˈʌmwʌt ˈɑːltɚd. >|2
+DUMMY8/LJ019-0169.wav|0|< ænd wˈʌn ɔːɹ tˈuː mˈɛn wɜːɹ ɐlˈaʊd tə mˈɛnd klˈoʊðz ænd mˌeɪk ʃˈuːz. ðə ɹˈuːlz mˌeɪd baɪ ðə sˈɛkɹətɹi ʌv stˈeɪt wɜː hˈʌŋ ˌʌp ɪn kənspˈɪkjuːəs pˈɑːɹts ʌvðə pɹˈɪzən; >|2
+DUMMY8/LJ016-0089.wav|0|< hiː wʌz ɛnɡˈeɪdʒd ɪn wˈaɪtwɑːʃɪŋ ænd klˈiːnɪŋ; ðɪ ˈɑːfɪsɚ hˌuː hɐd hˌɪm ɪn tʃˈɑːɹdʒ lˈɛft hˌɪm ɑːnðə stˈɛɹz lˈiːdɪŋ tə ðə ɡˈælɚɹi. >|2
+DUMMY8/LJ041-0119.wav|0|< stˈeɪɾɪŋ ðæt hiː wˈʊd, kwˈoʊt, ɛmplˈɔɪ ˈɔːl mˈiːnz tə ɹˈaɪt ðɪs ɡɹˈoʊs mɪstˈeɪk ɔːɹ ɪndʒˈʌstɪs, ˈɛnd kwˈoʊt. >|2
+DUMMY8/LJ050-0023.wav|0|< wˈɜːk ɪz ɡˌoʊɪŋ fˈoːɹwɚd >|2
+DUMMY8/LJ017-0090.wav|0|< ænd sˌoʊ ɡɑːt ðə mˈʌni fɔːɹ wˌɪtʃ hiː wʌz pɹɪpˈɛɹd tə bˈɑːɹɾɚ hɪz sˈoʊl. >|2
+DUMMY8/LJ048-0012.wav|0|< ɐkˈoːɹdɪŋ tə bˈɛlmɑːnt, wˌɛn ˈɑːswəld ɹɪtˈɜːnd fɹʌmðə sˈoʊviət jˈuːniən, kwˈoʊt, >|2
+DUMMY8/LJ011-0066.wav|0|< ðə kˈɑːnkoːɹs ɪn fɹˈʌnt ʌv nˈuːɡeɪt wʌz ɪnˈoːɹməs, bˌʌt mˈʌtʃ sˈɪmpəθi wʌz ɪvˈɪnst fɔːɹ ðɪs ʌnfˈɔːɹtʃənət vˈɪktᵻm tə hjˈuːmən wˈiːknəs ænd ɹˈuːθləs lˈɔːz. >|2
+DUMMY8/LJ044-0128.wav|0|< ðɛɹˌɑːɹ ɐ nˈʌmbɚɹ ʌv ˌɔːɹɡɐnaɪzˈeɪʃənz, ɪnklˈuːdɪŋ pˈɑːsəbli fˈɛɹ plˈeɪ, wˌɪtʃ ɑːɹ əvə vˈɛɹi bɹˈɔːd kˈæɹɪktɚ, >|2
+DUMMY8/LJ043-0037.wav|0|< æt ðə tˈaɪm ʌv hɪz dɪfˈɛkʃən, ˈɑːswəld hɐd sˈɛd ðæt nˈiːðɚ hɪz bɹˈʌðɚ, ɹˈɑːbɚt, >|2
+DUMMY8/LJ013-0179.wav|0|< ðə lˈæɾɚ wʌz sˌoʊ plˈeɪst ðˌɐɾɪt kʊd θɹˈoʊ nˈoʊ lˈaɪt ɑːnðə fˈɔːɹmɚ, wˌɪtʃ wʌzɐ lˈaɪf ʌv sˌɜː sˈæmjuːl ɹˈɑːmɪli. >|2
+DUMMY8/LJ049-0042.wav|0|< æt ðæt tˈaɪm ðɪ ˈeɪdʒənts ɑːnðə fɹˈeɪmɪŋ bˈoːɹdz ʌvðə fˈɑːloʊˌʌp kˈɑːɹ wɜːɹ ɛkspˈɛktᵻd tə pɚfˈɔːɹm sˈʌtʃ ɐ fˈʌŋkʃən. >|2
+DUMMY8/LJ021-0177.wav|0|< dˈɪd ˈɪŋɡlənd hˈoʊld tə ðə ɡˈoʊld stˈændɚd wɛn hɜː ɹɪsˈɜːvz wɜː θɹˈɛʔn̩d? >|2
+DUMMY9/p279_233.wav|26|< bɹˈoʊk ðə bˈɜːdi ɹˈɛkɚd. >|2
+DUMMY8/LJ008-0039.wav|0|< baɪ pɹˈæktɪs ðɪ ˈɑːɹt ɪz mˈʌtʃ ɪmpɹˈuːvd, ænd ðɛɹ ɪz nˈoʊ pˈɑːɹt ʌvðə wˈɜːld ɪn wˌɪtʃ vˈɪlənz ɑːɹ hˈæŋd ɪn sˌoʊ nˈiːt ɐ mˈænɚ, ænd wɪð sˌoʊ lˈɪɾəl sˈɛɹɪməni. >|2
+DUMMY8/LJ044-0136.wav|0|< ɐn ɪvˈɛnt wˌɪtʃ hɪz wˈaɪf θˈɔːt ʌpsˈɛt hˌɪm ænd æz ɐ ɹɪzˈʌlt ʌvwˈɪtʃ, kwˈoʊt, hiː bɪkˌeɪm lˈɛs ˈæktɪv, hiː kˈuːld ˈɔf ɐ lˈɪɾəl, ˈɛnd kwˈoʊt. >|2
+DUMMY9/p314_095.wav|52|< ðə mˈʌni ɪz nˌɑːt ɹˈiəli ˌaʊɚ kənsˈɜːn. >|2
+DUMMY8/LJ038-0152.wav|0|< ˈɑːswəld tˈoʊld fɹˈɪts ðæt ˈæftɚ lˈʌntʃ hiː wɛnt aʊtsˈaɪd, tˈɔːkt wɪð fˈɔːɹmən bˈɪl ʃˈɛli fɔːɹ fˈaɪv ɔːɹ tˈɛn mˈɪnɪts ænd ðˈɛn lˈɛft fɔːɹ hˈoʊm. >|2
+DUMMY8/LJ019-0170.wav|0|< mˈoːɹ ˈɑːfɪsɚz wɜːɹ ɐpˈɔɪntᵻd, æz ðə tˈaɪm ʌv sˌoʊ mˈɛni ʌv ðoʊz ɔːlɹˌɛdi ɑːnðə stˈæf wʌz mˈɑːnoʊpˌɑːlaɪzd baɪ ɐtˈɛndəns æt ðə sˈɛntɹəl kɹˈɪmɪnəl kˈoːɹt. >|2
+DUMMY8/LJ012-0103.wav|0|< wˌɪtʃ ɪf ˌɪntɹədˈuːst ˌɪntʊ ɐ kˈiːhoʊl, ænd wˈɜːkt lˈaɪk ɐ bˈɪt ænd bɹˈeɪs, wɪl sˈuːn dɪstɹˈɔɪ ðə stɹˈɔŋɡəst lˈɑːk. >|2
+DUMMY8/LJ018-0184.wav|0|< wˈʌn nˈæɹoʊ ɛskˈeɪp hiː hˈæd, haʊˈɛvɚ, bɪfˌoːɹ hiː ɐbˈændənd hɪz ˈoʊld bˈɪznəs. >|2
+DUMMY8/LJ016-0038.wav|0|< ɪnðə wˈɔːl əbˌʌv ðə ʃˈɛvɔːksdəfɹˈaɪz pɹədʒˈɛktᵻd ɐ sˈɪɹiz ʌv ˈaɪɚn spˈaɪks ʃˈɑːɹp ɪnˈʌf tə fəbˈɪd fˈɜːðɚɹ ɐsˈɛnt. >|2
+DUMMY8/LJ038-0289.wav|0|< æz ʃˈoʊn əbˈʌv, ðə nˈoʊt ænd ðə fˈoʊɾəɡɹˌæfz ʌv wˈɔːkɚz hˈaʊs ænd ʌvðə nˈɪɹbaɪ ɹˈeɪlɹoʊd tɹˈæks >|2
+DUMMY8/LJ011-0225.wav|0|< wɪl biː ɐdmˈɪɾᵻd baɪ ðoʊz hˌuː hæv ɹˈɛd hɪz bˈʊk ˈɑːn "ðə pˈʌnɪʃmənt ʌv dˈɛθ, >|2
+DUMMY8/LJ019-0359.wav|0|< hiː kʊd ɪnðə fˈɜːstplˌeɪs wɪðhˈoʊld ðə ɡˈʌvɚnmənt ɡɹˈænt ɪn ˈeɪd ʌv pɹˈɪzən fˈʌndz baɪ ɹɪfjˈuːzɪŋ ðə sɚtˈɪfɪkət tə ðə tɹˈɛʒɚɹi əpˌɑːn wˌɪtʃ ðɪ ɐlˈaʊəns wʌz pˈeɪd. >|2
+DUMMY8/LJ010-0224.wav|0|< nˈoʊ sˈiəɹɪəs ɪmpˈoːɹtəns kʊd biː ɐtˈætʃt tə ðˈiːz, ðə mˈænɪfˌɛst ɪnvˈɛnʃənz əvə dɪsˈoːɹdɚd ˈɪntəlˌɛkt. >|2

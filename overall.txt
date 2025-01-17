@@ -1,0 +1,2 @@
+Overall Average RTF: 0.01645587514292741 
+ Overall Average WER: 0
