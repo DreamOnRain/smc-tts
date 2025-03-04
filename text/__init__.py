@@ -4,10 +4,33 @@ from text.symbols import symbols_zh, symbols_en
 
 
 # Mappings from symbol to numeric ID and vice versa:
-_symbol_to_id_en = {s: i for i, s in enumerate(symbols_en)}
-_id_to_symbol_en = {i: s for i, s in enumerate(symbols_en)}
 _symbol_to_id_zh = {s: i for i, s in enumerate(symbols_zh)}
 _id_to_symbol_zh = {i: s for i, s in enumerate(symbols_zh)}
+
+start_index = len(symbols_zh)
+_symbol_to_id_en = {s: i for i, s in enumerate(symbols_en, start=start_index)}
+_id_to_symbol_en = {i: s for i, s in enumerate(symbols_en, start=start_index)}
+
+from collections import defaultdict
+_symbol_to_id = defaultdict(list)
+
+for i, s in enumerate(symbols_zh):
+    _symbol_to_id[s].append(i)
+
+start_index = len(symbols_zh)
+for i, s in enumerate(symbols_en, start=start_index):
+    _symbol_to_id[s].append(i)
+
+
+_id_to_symbol = {}
+for i, s in enumerate(symbols_zh):
+    _id_to_symbol[i] = s
+
+start_index = len(symbols_zh)
+for i, s in enumerate(symbols_en, start=start_index):
+    _id_to_symbol[i] = s
+
+
 
 def text_to_sequence(text, cleaner_names, language, phoneme=False):
   '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
@@ -18,10 +41,6 @@ def text_to_sequence(text, cleaner_names, language, phoneme=False):
       List of integers corresponding to the symbols in the text
   '''
   sequence = []
-  if language == 'Chinese':
-    _symbol_to_id = _symbol_to_id_zh
-  else:
-    _symbol_to_id = _symbol_to_id_en
 
   if not phoneme:
     clean_text = _clean_text(text, cleaner_names)
@@ -34,10 +53,14 @@ def text_to_sequence(text, cleaner_names, language, phoneme=False):
     clean_text = clean_text
 
   for symbol in clean_text:
-    symbol_id = _symbol_to_id[symbol]
+    if language == 'Chinese':
+      symbol_id = _symbol_to_id[symbol][0]
+    else:
+      symbol_id = _symbol_to_id[symbol][-1]
     sequence += [symbol_id]
-  return sequence
 
+  print(clean_text, sequence, language)
+  return sequence
 
 def cleaned_text_to_sequence(cleaned_text, language):
   '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
@@ -46,22 +69,16 @@ def cleaned_text_to_sequence(cleaned_text, language):
     Returns:
       List of integers corresponding to the symbols in the text
   '''
-  if language == 'Chinese':
-    _symbol_to_id = _symbol_to_id_zh
+  if language == 'chinese':
     cleaned_text = cleaned_text.split()
+    sequence = [_symbol_to_id[symbol][0] for symbol in cleaned_text]
   else:
-    _symbol_to_id = _symbol_to_id_en
-  # sequence = [_symbol_to_id[symbol] for symbol in cleaned_text]
-  sequence = [_symbol_to_id[symbol] for symbol in cleaned_text]
+    sequence = [_symbol_to_id[symbol][-1] for symbol in cleaned_text]
   return sequence
 
 
 def sequence_to_text(sequence, language):
   '''Converts a sequence of IDs back to a string'''
-  if language == 'Chinese':
-    _id_to_symbol = _id_to_symbol_zh
-  else:
-    _id_to_symbol = _id_to_symbol_en
   result = ''
   for symbol_id in sequence:
     s = _id_to_symbol[symbol_id]

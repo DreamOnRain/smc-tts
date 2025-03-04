@@ -12,6 +12,8 @@ from torch.nn import Conv1d, ConvTranspose1d, Conv2d
 from torch.nn.utils import weight_norm, remove_weight_norm, spectral_norm
 from commons import init_weights, get_padding
 
+from models_cs import SingleLanguageTextEncoder, MultiLanguageTextEncoder
+
 class StochasticDurationPredictor(nn.Module):
   def __init__(self, in_channels, filter_channels, kernel_size, p_dropout, n_flows=4, gin_channels=0):
     super().__init__()
@@ -463,7 +465,7 @@ class SynthesizerTrn(nn.Module):
     self.use_sdp = use_sdp
 
     # 文本先验
-    self.enc_p = TextEncoder(n_vocab,
+    self.enc_p = MultiLanguageTextEncoder(n_vocab,
         inter_channels,
         hidden_channels,
         filter_channels,
@@ -492,9 +494,9 @@ class SynthesizerTrn(nn.Module):
     if n_pitches > 1:
       self.emb_p = nn.Embedding(n_pitches, gin_channels)
 
-  def forward(self, x, x_lengths, y, y_lengths, sid=None, pitch=None):
+  def forward(self, x, x_lengths, y, y_lengths, sid=None, pitch=None, lang_ids=None):
 
-    x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths) # f_{\theta}(z)的均值和log标准差
+    x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths, lang_ids) # f_{\theta}(z)的均值和log标准差
     if self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
     else:
@@ -544,8 +546,8 @@ class SynthesizerTrn(nn.Module):
     o = self.dec(z_slice, g=g, p=p)
     return o, l_length, attn, ids_slice, x_mask, y_mask, (z, z_p, m_p, logs_p, m_q, logs_q)
 
-  def infer(self, x, x_lengths, sid=None, pitch=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
-    x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
+  def infer(self, x, x_lengths, sid=None, pitch=None, lang_ids=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
+    x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths, lang_ids)
     if self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
     else:

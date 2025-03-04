@@ -18,16 +18,20 @@ def process_file(file, wavPath, outPath, sr):
     # file = file.split('/')[-1]
     if file.endswith(".wav"):
         file = file[:-4]
+        absolute_path = os.path.abspath(os.path.join(outPath, f"{file}.wav"))
+        os.makedirs(os.path.dirname(absolute_path), exist_ok=True)
         resample_wave(f"{wavPath}/{file}.wav", f"{outPath}/{file}.wav", sr)
 
 
 def process_files_with_thread_pool(wavPath, outPath, sr, thread_num=None):
-    # files = []
-    # for root, dirs, filenames in os.walk(wavPath):
-    #     for f in filenames:
-    #         if f.endswith(".wav"):
-    #             files.append(root + '/' + f)
-    files = [f for f in os.listdir(f"{wavPath}") if f.endswith(".wav")]
+    files = []
+    for root, dirs, filenames in os.walk(wavPath):
+        for f in filenames:
+            if f.endswith(".wav"):
+                full_path = os.path.abspath(os.path.join(root, f))
+                relative_path = os.path.relpath(full_path, wavPath)
+                files.append(relative_path)
+    # files = [f for f in os.listdir(f"{wavPath}") if f.endswith(".wav")]
 
     with ThreadPoolExecutor(max_workers=thread_num) as executor:
         futures = {executor.submit(process_file, file, wavPath, outPath, sr): file for file in files}
@@ -36,4 +40,4 @@ def process_files_with_thread_pool(wavPath, outPath, sr, thread_num=None):
             future.result()
 
 if __name__ == "__main__":
-    process_files_with_thread_pool('/data1/jiyuyu/LJ-Speech/LJSpeech-1.1/wavs', '/data1/jiyuyu/ljspeech-16000hz/', 16000, 28)
+    process_files_with_thread_pool('/data1/jiyuyu/AISHELL-3', '/data1/jiyuyu/aishell3-16000hz', 16000, 28)

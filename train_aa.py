@@ -10,8 +10,8 @@ from torch.cuda.amp import autocast, GradScaler
 
 import utils
 from data_utils import (
-  TextAudioCSLoader,
-  TextAudioCSCollate,
+  TextAudioCSLoader2,
+  TextAudioCSCollate2,
   DistributedBucketSampler
 )
 from models import (
@@ -57,7 +57,7 @@ def run(rank, n_gpus, hps):
   torch.manual_seed(hps.train.seed)
   torch.cuda.set_device(rank)
 
-  train_dataset = TextAudioCSLoader(hps.data.training_files, hps.data)
+  train_dataset = TextAudioCSLoader2(hps.data.training_files, hps.data)
   train_sampler = DistributedBucketSampler(
       train_dataset,
       hps.train.batch_size,
@@ -65,11 +65,11 @@ def run(rank, n_gpus, hps):
       num_replicas=n_gpus,
       rank=rank,
       shuffle=True)
-  collate_fn = TextAudioCSCollate()
+  collate_fn = TextAudioCSCollate2()
   train_loader = DataLoader(train_dataset, num_workers=8, shuffle=False, pin_memory=True,
       collate_fn=collate_fn, batch_sampler=train_sampler)
   if rank == 0:
-    eval_dataset = TextAudioCSLoader(hps.data.validation_files, hps.data)
+    eval_dataset = TextAudioCSLoader2(hps.data.validation_files, hps.data)
     eval_loader = DataLoader(eval_dataset, num_workers=8, shuffle=False,
         batch_size=hps.train.batch_size, pin_memory=True,
         drop_last=False, collate_fn=collate_fn)
@@ -77,7 +77,6 @@ def run(rank, n_gpus, hps):
   net_g = SynthesizerTrn(
       hps.data.filter_length // 2 + 1,
       hps.train.segment_size // hps.data.hop_length,
-      n_speakers=hps.data.n_speakers,
       n_pitches=hps.data.n_pitches,
       **hps.model).cuda(rank)
   net_d = MultiPeriodDiscriminator(hps.model.use_spectral_norm).cuda(rank)
@@ -129,17 +128,16 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
 
   net_g.train()
   net_d.train()
-  for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, speakers, pitches, lang_ids) in enumerate(train_loader):
+  for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, pitches, lang_ids) in enumerate(train_loader):
     x, x_lengths = x.cuda(rank, non_blocking=True), x_lengths.cuda(rank, non_blocking=True)
     spec, spec_lengths = spec.cuda(rank, non_blocking=True), spec_lengths.cuda(rank, non_blocking=True)
     y, y_lengths = y.cuda(rank, non_blocking=True), y_lengths.cuda(rank, non_blocking=True)
-    speakers = speakers.cuda(rank, non_blocking=True)
     pitches = pitches.cuda(rank, non_blocking=True)
     lang_ids = lang_ids.cuda(rank, non_blocking=True)
 
     with autocast(enabled=hps.train.fp16_run):
       y_hat, l_length, attn, ids_slice, x_mask, z_mask,\
-      (z, z_p, m_p, logs_p, m_q, logs_q) = net_g(x, x_lengths, spec, spec_lengths, speakers, pitches, lang_ids)
+      (z, z_p, m_p, logs_p, m_q, logs_q) = net_g(x, x_lengths, spec, spec_lengths, pitch=pitches, lang_ids=lang_ids)
 
       mel = spec_to_mel_torch(
           spec,
@@ -232,11 +230,10 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
 def evaluate(hps, generator, eval_loader, writer_eval):
     generator.eval()
     with torch.no_grad():
-      for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, speakers, pitches, lang_ids) in enumerate(eval_loader):
+      for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, pitches, lang_ids) in enumerate(eval_loader):
         x, x_lengths = x.cuda(0), x_lengths.cuda(0)
         spec, spec_lengths = spec.cuda(0), spec_lengths.cuda(0)
         y, y_lengths = y.cuda(0), y_lengths.cuda(0)
-        speakers = speakers.cuda(0)
         pitches = pitches.cuda(0)
         lang_ids = lang_ids.cuda(0)
 
@@ -247,11 +244,10 @@ def evaluate(hps, generator, eval_loader, writer_eval):
         spec_lengths = spec_lengths[:1]
         y = y[:1]
         y_lengths = y_lengths[:1]
-        speakers = speakers[:1]
         pitches = pitches[:1]
         lang_ids = lang_ids[:1]
         break
-      y_hat, attn, mask, *_ = generator.module.infer(x, x_lengths, speakers, pitches, lang_ids, max_len=1000)
+      y_hat, attn, mask, *_ = generator.module.infer(x, x_lengths, pitch=pitches, lang_ids=lang_ids, max_len=1000)
       y_hat_lengths = mask.sum([1,2]).long() * hps.data.hop_length
 
       mel = spec_to_mel_torch(
