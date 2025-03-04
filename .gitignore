@@ -13,3 +13,6 @@ DUMMY6
 DUMMY7
 DUMMY8
 DUMMY9
+__pycache__
+text/__pycache__
+*.pyc
