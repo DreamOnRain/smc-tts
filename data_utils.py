@@ -652,20 +652,26 @@ class TextAudioCSLoader2(torch.utils.data.Dataset):
 
         audiopaths_sid_text_new = []
         lengths = []
-        for audiopath, text, pitch_class, lang in self.audiopaths_sid_text:
+        # for idx, item in enumerate(self.audiopaths_sid_text):
+        #     try:
+        #         audiopath, sid, text, pitch_class, lang = item
+        #     except ValueError as e:
+        #         print(f"❌ 数据错误: index {idx}, item={item} -> {e}")
+        for audiopath, sid, text, pitch_class, lang in self.audiopaths_sid_text:
             if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
-                audiopaths_sid_text_new.append([audiopath, text, pitch_class, lang])
+                audiopaths_sid_text_new.append([audiopath, sid, text, pitch_class, lang])
                 lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_sid_text = audiopaths_sid_text_new
         self.lengths = lengths
 
     def get_audio_text_speaker_pair(self, audiopath_sid_text):
         # separate filename, speaker_id and text
-        audiopath, text, pitch_class, lang = audiopath_sid_text[0], audiopath_sid_text[1], audiopath_sid_text[2], audiopath_sid_text[3]
+        audiopath, sid, text, pitch_class, lang = audiopath_sid_text[0], audiopath_sid_text[1], audiopath_sid_text[2], audiopath_sid_text[3], audiopath_sid_text[4]
         text, lang_ids = self.get_text(text, lang)
         spec, wav = self.get_audio(audiopath)
+        sid = self.get_sid(sid)
         pitch = self.get_pitch(pitch_class)
-        return (text, spec, wav, pitch, lang_ids)
+        return (text, spec, wav, sid, pitch, lang_ids)
 
     def get_audio(self, filename):
         audio, sampling_rate = load_wav_to_torch(filename)
@@ -695,6 +701,10 @@ class TextAudioCSLoader2(torch.utils.data.Dataset):
         if lang == 'english':
             lang_ids = torch.full_like(text_norm, 1)
         return text_norm, lang_ids
+
+    def get_sid(self, sid):
+        sid = torch.LongTensor([int(sid)])
+        return sid
 
     def get_pitch(self, pitch_class):
         dic = {
@@ -765,15 +775,16 @@ class TextAudioCSCollate2():
             wav_padded[i, :, :wav.size(1)] = wav
             wav_lengths[i] = wav.size(1)
 
-            pitch[i] = row[3]
+            gender = row[3]
+            pitch[i] = row[4]
 
-            lang = row[4]
+            lang = row[5]
             lang_padded[i, :lang.size(0)] = lang
             lang_lengths[i] = lang.size(0)
 
         if self.return_ids:
-            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, pitch, lang_padded, ids_sorted_decreasing
-        return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, pitch, lang_padded
+            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, gender, pitch, lang_padded, ids_sorted_decreasing
+        return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, gender, pitch, lang_padded
 
 
 

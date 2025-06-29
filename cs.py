@@ -15,16 +15,16 @@ PWD = os.path.dirname(os.path.realpath(__file__))
 
 CONFIG = {
     'Chinese': {
-        'config_file': PWD + "/configs/cscs.json",
-        'checkpoint_file': PWD + "/checkpoints/cs3/G_720000.pth",
+        'config_file': PWD + "/configs/csemotion.json",
+        'checkpoint_file': PWD + "/checkpoints/csemotion/G_1228000.pth",
         'output_dir': PWD + "/outputs/cs/",
         'num_speakers': 220,
         'text_cleaners': "chinese_cleaners1",
         'sampling_rate': 16000,
     },
     'English': {
-        'config_file': PWD + "/configs/cscs.json",
-        'checkpoint_file': PWD + "/checkpoints/cs3/G_720000.pth",
+        'config_file': PWD + "/configs/csemotion.json",
+        'checkpoint_file': PWD + "/checkpoints/csemotion/G_1228000.pth",
         'output_dir': PWD + "/outputs/cs/",
         'num_speakers': 220,
         'text_cleaners': "chinese_cleaners1",
@@ -62,10 +62,12 @@ def ocelot_infer(model, language, text, speaker_id, emotion):
         x_tst = stn_tst.cuda().unsqueeze(0).cuda()
         x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()
         model.to(x_tst.device)
-        sid = torch.LongTensor([speaker_id]).cuda()
-        pitch = torch.LongTensor([0]).cuda()
+        # print(speaker_id, emotion)
+        sid = torch.LongTensor([int(0)]).cuda()
+        pitch = torch.LongTensor([int(0)]).cuda()
+        # print(sid, pitch)
         inference_start_time = time.time()
-        audio = model.infer(x_tst, x_tst_lengths, pitch=pitch, lang_ids=lang_ids, noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0,0].data.cpu().float().numpy()
+        audio = model.infer(x_tst, x_tst_lengths, sid=sid, pitch=pitch, lang_ids=lang_ids, noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0,0].data.cpu().float().numpy()
         inference_time = time.time() - inference_start_time
         inference_time = f'{inference_time:.6f}'
 
@@ -93,7 +95,7 @@ def main(language, text, speakerid, emotion='happy', speed=1.0):
     cs_model = ocelot_load_models()
 
     message, filepath, sep_text, phonemes, tones, inference_time = ocelot_generation(
-        cs_model, language, text, int(speakerid), emotion, speed, True
+        cs_model, language, text, speakerid, emotion, speed, True
     )
     
     print(f"Message: {message}\nFilepath: {filepath}\nSeparated Text: {sep_text}\nPhonemes: {phonemes}\nTones: {tones}\nInference Time: {inference_time}")
@@ -107,5 +109,5 @@ if __name__ == '__main__':
     text = sys.argv[2]
     speakerid = sys.argv[3]
     emotion = sys.argv[4] if len(sys.argv) > 3 else 'happy'
-    speed = float(sys.argv[5]) if len(sys.argv) > 4 else 1.0
+    speed = 1.0
     main(language, text, speakerid, emotion, speed)

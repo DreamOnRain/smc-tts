@@ -20,7 +20,7 @@ def split_and_mark_language(text):
                 result[-1][1] += part
             else:
                 result.append(["en", part])
-
+    print(result)
     return result
 
 def text_to_tensor(text):
@@ -33,7 +33,7 @@ def text_to_tensor(text):
         language, text = item
         if language == 'zh':
             sep_text, phonemes = get_pinyin_from_text(text)
-            print(phonemes)
+            # print(phonemes)
             stn_tst = get_text_by_cleaner(phonemes, "chinese_cleaners1", 'Chinese')
             lang_ids_list.append(torch.full((len(stn_tst),), 0, dtype=torch.long))
         else:
@@ -56,6 +56,7 @@ def text_to_tensor2(text):
     output = split_and_mark_language(text)
     stn_tst_list = []
     lang_ids_list = []
+    phonemes_list = []
     for item in output:
         language, text = item
         if language == 'zh':
@@ -63,19 +64,20 @@ def text_to_tensor2(text):
             res = '< '
             for seg in segs:
                 initials = to_initials(seg)
-                finals = to_finals_tone3(seg)
+                finals = to_finals_tone3(seg, neutral_tone_with_five=True)
                 if initials == '':
                     initials = '~'
-                res += (initials + ' ' + finals + ' & ')
+                res += (initials + ' ' + finals + ' # ')
             phonemes = res[:-2] + '. >'
             stn_tst = get_text_by_cleaner(phonemes, "chinese_cleaners1", 'Chinese')
             lang_ids_list.append(torch.full((len(stn_tst),), 0, dtype=torch.long))
+            phonemes_list.append(phonemes)
         else:
             sep_text = text
             phonemes = get_phonemes('English', text)
             stn_tst = get_text_by_cleaner(phonemes, "chinese_cleaners1", 'English')
             lang_ids_list.append(torch.full((len(stn_tst),), 1, dtype=torch.long))
-
+            phonemes_list.append(phonemes)
         stn_tst_list.append(stn_tst)
 
     stn_tst = torch.cat(stn_tst_list, dim=0)
@@ -86,7 +88,8 @@ def text_to_tensor2(text):
 
 
 if __name__ == "__main__":
-    text = "The [xiang4 xiang4] should have a clear [x] sound"
-    stn_tst, lang_ids = text_to_tensor2(text)
+    text = "You pronounced [gua1] instead of [guang1]"
+    stn_tst, lang_ids, phonemes_list = text_to_tensor2(text)
     print(stn_tst)
     print(lang_ids)
+    print(phonemes_list)

@@ -40,4 +40,4 @@ def process_files_with_thread_pool(wavPath, outPath, sr, thread_num=None):
             future.result()
 
 if __name__ == "__main__":
-    process_files_with_thread_pool('/data1/jiyuyu/AISHELL-3', '/data1/jiyuyu/aishell3-16000hz', 16000, 28)
+    process_files_with_thread_pool('/data1/jiyuyu/ESD/English', '/data1/jiyuyu/esd2-16000hz', 16000, 28)

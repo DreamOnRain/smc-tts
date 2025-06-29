@@ -104,7 +104,9 @@ def process_line(chinese_line, pinyin_line):
         print(chinese_line)
     if len(pinyin_line) != len(chinese_line) - pause_count:
         chinese_line = chinese_line.replace('儿', '')
+    chinese_line = chinese_line[:-1]
     for index, part in enumerate(chinese_line):
+        # print(index, part, pinyin_new)
         if part in pause_set:
             pinyin_new[index] = part
             count += 1
@@ -222,7 +224,6 @@ def get_phoneme_from_text(text, sandhi=False):
     chinese_line = replace_chinese_comma(chinese_line)
     chinese_line = chinese_line.replace(' ', '')
     chinese_line = process_continue_pause(chinese_line)
-    # print(chinese_line, pinyin_line)
     processed_line = process_line(chinese_line, pinyin_line)
     phoneme = processed_line.split('|')[1]
     return chinese_line, phoneme

@@ -320,7 +320,7 @@ def de():
 
     kmeans = KMeans(n_clusters=8, random_state=42)
     df['pitch_class'] = kmeans.fit_predict(X)
-    print("聚类中心: \n", kmeans.cluster_centers_)
+    print("Centroid: \n", kmeans.cluster_centers_)
     # discretizer = KBinsDiscretizer(n_bins=8, encode='ordinal', strategy='kmeans')
     # df['pitch_class'] = discretizer.fit_transform(df[['pitch']]).astype(int)
 

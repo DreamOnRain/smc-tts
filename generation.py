@@ -97,7 +97,7 @@ def get_phonemes(language, text):
         text = expand_abbreviations(text)
         phonemes = phonemize(text, language='en-us', backend='espeak', strip=True, preserve_punctuation=True, with_stress=True)
         phonemes = collapse_whitespace(phonemes)
-        phonemes = '< ' + phonemes # + ' >'
+        phonemes = '< ' + phonemes + ' >'
     return phonemes
 
 def init():

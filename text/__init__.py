@@ -54,12 +54,15 @@ def text_to_sequence(text, cleaner_names, language, phoneme=False):
 
   for symbol in clean_text:
     if language == 'Chinese':
-      symbol_id = _symbol_to_id[symbol][0]
+      try:
+        symbol_id = _symbol_to_id[symbol][0]
+      except:
+        print(clean_text)
     else:
       symbol_id = _symbol_to_id[symbol][-1]
     sequence += [symbol_id]
 
-  print(clean_text, sequence, language)
+  # print(clean_text, sequence, language)
   return sequence
 
 def cleaned_text_to_sequence(cleaned_text, language):
@@ -69,11 +72,33 @@ def cleaned_text_to_sequence(cleaned_text, language):
     Returns:
       List of integers corresponding to the symbols in the text
   '''
+  # if language == 'chinese':
+  #   cleaned_text = cleaned_text.split()
+  #   sequence = [_symbol_to_id[symbol][0] for symbol in cleaned_text]
+  # else:
+  #   sequence = [_symbol_to_id[symbol][-1] for symbol in cleaned_text]
   if language == 'chinese':
     cleaned_text = cleaned_text.split()
-    sequence = [_symbol_to_id[symbol][0] for symbol in cleaned_text]
+    sequence = []
+    for idx, symbol in enumerate(cleaned_text):
+        try:
+            value = _symbol_to_id[symbol]
+            if not isinstance(value, list) or len(value) == 0:
+                raise IndexError(f"⚠️ symbol='{symbol}': {value}")
+            sequence.append(value[0])
+        except Exception as e:
+            print(e)
   else:
-    sequence = [_symbol_to_id[symbol][-1] for symbol in cleaned_text]
+    sequence = []
+    for idx, symbol in enumerate(cleaned_text):
+        try:
+            value = _symbol_to_id[symbol]
+            if not isinstance(value, list) or len(value) == 0:
+                raise IndexError(f"symbol='{symbol}' : {value}")
+            sequence.append(value[-1])
+        except Exception as e:
+            print(e)
+
   return sequence
 
 
